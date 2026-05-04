@@ -1,0 +1,87 @@
+{
+  "text": " Didn't you just hear it? So…",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 14.7,
+      "end": 15.58,
+      "text": " Didn't you just hear it?",
+      "tokens": [
+        50364,
+        11151,
+        380,
+        291,
+        445,
+        1568,
+        309,
+        30,
+        50458
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.6239476885114397,
+      "compression_ratio": 0.7894736842105263,
+      "no_speech_prob": 0.4309054911136627,
+      "confidence": 0.101,
+      "words": [
+        {
+          "text": "Didn't",
+          "start": 14.7,
+          "end": 14.98,
+          "confidence": 0.017
+        },
+        {
+          "text": "you",
+          "start": 14.98,
+          "end": 15.12,
+          "confidence": 0.279
+        },
+        {
+          "text": "just",
+          "start": 15.12,
+          "end": 15.14,
+          "confidence": 0.041
+        },
+        {
+          "text": "hear",
+          "start": 15.14,
+          "end": 15.36,
+          "confidence": 0.181
+        },
+        {
+          "text": "it?",
+          "start": 15.36,
+          "end": 15.58,
+          "confidence": 0.424
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 22.02,
+      "end": 22.04,
+      "text": " So…",
+      "tokens": [
+        50458,
+        407,
+        1260,
+        50531
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.6239476885114397,
+      "compression_ratio": 0.7894736842105263,
+      "no_speech_prob": 0.4309054911136627,
+      "confidence": 0.003,
+      "words": [
+        {
+          "text": "So…",
+          "start": 22.02,
+          "end": 22.04,
+          "confidence": 0.003
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

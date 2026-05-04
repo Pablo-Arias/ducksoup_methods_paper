@@ -1,0 +1,94 @@
+{
+  "text": " and do great, great work. Bye!",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 14.7,
+      "end": 16.28,
+      "text": " and do great, great work.",
+      "tokens": [
+        50364,
+        293,
+        360,
+        869,
+        11,
+        6066,
+        267,
+        589,
+        13,
+        50483
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.916910171508789,
+      "compression_ratio": 0.9090909090909091,
+      "no_speech_prob": 0.476504921913147,
+      "confidence": 0.065,
+      "words": [
+        {
+          "text": "and",
+          "start": 14.7,
+          "end": 14.8,
+          "confidence": 0.03
+        },
+        {
+          "text": "do",
+          "start": 14.8,
+          "end": 14.96,
+          "confidence": 0.011
+        },
+        {
+          "text": "great,",
+          "start": 14.96,
+          "end": 15.42,
+          "confidence": 0.029
+        },
+        {
+          "text": "great",
+          "start": 15.66,
+          "end": 15.98,
+          "confidence": 0.084
+        },
+        {
+          "text": "[*]",
+          "start": 15.98,
+          "end": 16.0,
+          "confidence": 0
+        },
+        {
+          "text": "work.",
+          "start": 16.0,
+          "end": 16.28,
+          "confidence": 0.415
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 20.28,
+      "end": 20.66,
+      "text": " Bye!",
+      "tokens": [
+        50483,
+        4621,
+        0,
+        50525
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.916910171508789,
+      "compression_ratio": 0.9090909090909091,
+      "no_speech_prob": 0.476504921913147,
+      "confidence": 0.218,
+      "words": [
+        {
+          "text": "Bye!",
+          "start": 20.28,
+          "end": 20.66,
+          "confidence": 0.218
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

@@ -1,0 +1,439 @@
+{
+  "text": " Call from errors Let's try once again Stupid還是か Let's try once again Let's try once again An Intermission An Intermission Let's narrow it down An Intermission Let's narrow it down",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.16,
+      "text": " Call from errors",
+      "tokens": [
+        50364,
+        7807,
+        490,
+        13603,
+        50414
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.520942905970982,
+      "compression_ratio": 1.8877551020408163,
+      "no_speech_prob": 0.5447472929954529,
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "Call",
+          "start": 0.0,
+          "end": 0.34,
+          "confidence": 0.0
+        },
+        {
+          "text": "from",
+          "start": 0.34,
+          "end": 1.12,
+          "confidence": 0.001
+        },
+        {
+          "text": "errors",
+          "start": 1.12,
+          "end": 1.16,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.5,
+      "end": 5.44,
+      "text": " Let's try once again",
+      "tokens": [
+        50564,
+        961,
+        311,
+        853,
+        1564,
+        257,
+        3680,
+        259,
+        50614
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.520942905970982,
+      "compression_ratio": 1.8877551020408163,
+      "no_speech_prob": 0.5447472929954529,
+      "confidence": 0.036,
+      "words": [
+        {
+          "text": "Let's",
+          "start": 3.5,
+          "end": 3.52,
+          "confidence": 0.036
+        },
+        {
+          "text": "try",
+          "start": 3.52,
+          "end": 3.54,
+          "confidence": 0.042
+        },
+        {
+          "text": "once",
+          "start": 3.54,
+          "end": 3.66,
+          "confidence": 0.001
+        },
+        {
+          "text": "again",
+          "start": 3.66,
+          "end": 5.44,
+          "confidence": 0.12
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 12.5,
+      "end": 15.44,
+      "text": " Stupid還是か",
+      "tokens": [
+        51014,
+        37659,
+        25583,
+        3703,
+        51114
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.520942905970982,
+      "compression_ratio": 1.8877551020408163,
+      "no_speech_prob": 0.5447472929954529,
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "Stupid還是か",
+          "start": 12.5,
+          "end": 15.44,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 17.44,
+      "end": 17.52,
+      "text": " Let's try once again",
+      "tokens": [
+        51114,
+        961,
+        311,
+        853,
+        1564,
+        797,
+        51214
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.520942905970982,
+      "compression_ratio": 1.8877551020408163,
+      "no_speech_prob": 0.5447472929954529,
+      "confidence": 0.024,
+      "words": [
+        {
+          "text": "Let's",
+          "start": 17.44,
+          "end": 17.46,
+          "confidence": 0.034
+        },
+        {
+          "text": "try",
+          "start": 17.46,
+          "end": 17.48,
+          "confidence": 0.023
+        },
+        {
+          "text": "once",
+          "start": 17.48,
+          "end": 17.5,
+          "confidence": 0.001
+        },
+        {
+          "text": "again",
+          "start": 17.5,
+          "end": 17.52,
+          "confidence": 0.287
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 18.5,
+      "end": 20.2,
+      "text": " Let's try once again",
+      "tokens": [
+        51314,
+        961,
+        311,
+        256,
+        627,
+        277,
+        77,
+        384,
+        797,
+        51364
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.520942905970982,
+      "compression_ratio": 1.8877551020408163,
+      "no_speech_prob": 0.5447472929954529,
+      "confidence": 0.061,
+      "words": [
+        {
+          "text": "Let's",
+          "start": 18.5,
+          "end": 19.14,
+          "confidence": 0.028
+        },
+        {
+          "text": "try",
+          "start": 19.14,
+          "end": 19.16,
+          "confidence": 0.063
+        },
+        {
+          "text": "once",
+          "start": 19.16,
+          "end": 20.18,
+          "confidence": 0.061
+        },
+        {
+          "text": "again",
+          "start": 20.18,
+          "end": 20.2,
+          "confidence": 0.265
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 20.5,
+      "end": 21.8,
+      "text": " An Intermission",
+      "tokens": [
+        51414,
+        1107,
+        682,
+        7039,
+        3106,
+        51464
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.520942905970982,
+      "compression_ratio": 1.8877551020408163,
+      "no_speech_prob": 0.5447472929954529,
+      "confidence": 0.008,
+      "words": [
+        {
+          "text": "An",
+          "start": 20.5,
+          "end": 21.2,
+          "confidence": 0.0
+        },
+        {
+          "text": "Intermission",
+          "start": 21.2,
+          "end": 21.8,
+          "confidence": 0.024
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 21.8,
+      "end": 22.9,
+      "text": " An Intermission",
+      "tokens": [
+        51464,
+        1107,
+        5751,
+        76,
+        891,
+        313,
+        51514
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.520942905970982,
+      "compression_ratio": 1.8877551020408163,
+      "no_speech_prob": 0.5447472929954529,
+      "confidence": 0.009,
+      "words": [
+        {
+          "text": "An",
+          "start": 21.8,
+          "end": 22.34,
+          "confidence": 0.0
+        },
+        {
+          "text": "[*]",
+          "start": 22.34,
+          "end": 22.64,
+          "confidence": 0
+        },
+        {
+          "text": "Intermission",
+          "start": 22.64,
+          "end": 22.9,
+          "confidence": 0.021
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 22.9,
+      "end": 24.72,
+      "text": " Let's narrow it down",
+      "tokens": [
+        51514,
+        961,
+        311,
+        6397,
+        305,
+        309,
+        760,
+        51614
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.520942905970982,
+      "compression_ratio": 1.8877551020408163,
+      "no_speech_prob": 0.5447472929954529,
+      "confidence": 0.028,
+      "words": [
+        {
+          "text": "Let's",
+          "start": 22.9,
+          "end": 23.72,
+          "confidence": 0.035
+        },
+        {
+          "text": "narrow",
+          "start": 23.72,
+          "end": 23.84,
+          "confidence": 0.001
+        },
+        {
+          "text": "it",
+          "start": 23.84,
+          "end": 24.32,
+          "confidence": 0.508
+        },
+        {
+          "text": "down",
+          "start": 24.32,
+          "end": 24.72,
+          "confidence": 0.792
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 24.72,
+      "end": 26.14,
+      "text": " An Intermission",
+      "tokens": [
+        51614,
+        1107,
+        5751,
+        29797,
+        51684
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.520942905970982,
+      "compression_ratio": 1.8877551020408163,
+      "no_speech_prob": 0.5447472929954529,
+      "confidence": 0.001,
+      "words": [
+        {
+          "text": "An",
+          "start": 24.72,
+          "end": 25.52,
+          "confidence": 0.0
+        },
+        {
+          "text": "[*]",
+          "start": 25.52,
+          "end": 25.82,
+          "confidence": 0
+        },
+        {
+          "text": "Intermission",
+          "start": 25.82,
+          "end": 26.14,
+          "confidence": 0.002
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 26.5,
+      "end": 28.92,
+      "text": " Let's narrow it down",
+      "tokens": [
+        51714,
+        961,
+        311,
+        9432,
+        309,
+        760,
+        51814
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.520942905970982,
+      "compression_ratio": 1.8877551020408163,
+      "no_speech_prob": 0.5447472929954529,
+      "confidence": 0.014,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 26.5,
+          "end": 27.18,
+          "confidence": 0
+        },
+        {
+          "text": "Let's",
+          "start": 27.18,
+          "end": 27.92,
+          "confidence": 0.027
+        },
+        {
+          "text": "narrow",
+          "start": 27.92,
+          "end": 27.94,
+          "confidence": 0.0
+        },
+        {
+          "text": "it",
+          "start": 27.94,
+          "end": 27.96,
+          "confidence": 0.57
+        },
+        {
+          "text": "[*]",
+          "start": 27.96,
+          "end": 28.34,
+          "confidence": 0
+        },
+        {
+          "text": "down",
+          "start": 28.34,
+          "end": 28.92,
+          "confidence": 0.799
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

@@ -1,0 +1,367 @@
+{
+  "text": " It's not going to work. Boop, boop, boop, boop, boop. The other person was so high. The page ad is just... Can I keep on waiting? Hello?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 23.68,
+      "end": 24.5,
+      "text": " It's not going to work.",
+      "tokens": [
+        50364,
+        467,
+        311,
+        406,
+        516,
+        281,
+        589,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7375685146876744,
+      "compression_ratio": 1.2619047619047619,
+      "no_speech_prob": 0.5622172951698303,
+      "confidence": 0.533,
+      "words": [
+        {
+          "text": "It's",
+          "start": 23.68,
+          "end": 24.0,
+          "confidence": 0.446
+        },
+        {
+          "text": "not",
+          "start": 24.0,
+          "end": 24.12,
+          "confidence": 0.275
+        },
+        {
+          "text": "going",
+          "start": 24.12,
+          "end": 24.2,
+          "confidence": 0.355
+        },
+        {
+          "text": "to",
+          "start": 24.2,
+          "end": 24.28,
+          "confidence": 0.908
+        },
+        {
+          "text": "work.",
+          "start": 24.28,
+          "end": 24.5,
+          "confidence": 0.834
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 77.85,
+      "end": 113.15,
+      "text": " Boop, boop, boop, boop, boop.",
+      "tokens": [
+        50764,
+        3286,
+        404,
+        11,
+        748,
+        404,
+        11,
+        748,
+        404,
+        11,
+        748,
+        404,
+        11,
+        748,
+        404,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7375685146876744,
+      "compression_ratio": 1.2619047619047619,
+      "no_speech_prob": 0.5622172951698303,
+      "confidence": 0.571,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 77.85,
+          "end": 82.1,
+          "confidence": 0
+        },
+        {
+          "text": "Boop,",
+          "start": 88.55,
+          "end": 90.15,
+          "confidence": 0.132
+        },
+        {
+          "text": "boop,",
+          "start": 111.33,
+          "end": 111.53,
+          "confidence": 0.944
+        },
+        {
+          "text": "boop,",
+          "start": 111.65,
+          "end": 111.95,
+          "confidence": 0.913
+        },
+        {
+          "text": "boop,",
+          "start": 111.97,
+          "end": 112.79,
+          "confidence": 0.674
+        },
+        {
+          "text": "boop.",
+          "start": 112.79,
+          "end": 113.15,
+          "confidence": 0.795
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2300,
+      "start": 128.35,
+      "end": 136.85,
+      "text": " The other person was so high.",
+      "tokens": [
+        50364,
+        440,
+        661,
+        954,
+        390,
+        370,
+        1090,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5141714731852214,
+      "compression_ratio": 1.025,
+      "no_speech_prob": 0.19267089664936066,
+      "confidence": 0.413,
+      "words": [
+        {
+          "text": "The",
+          "start": 128.35,
+          "end": 128.91,
+          "confidence": 0.298
+        },
+        {
+          "text": "[*]",
+          "start": 128.91,
+          "end": 129.45,
+          "confidence": 0
+        },
+        {
+          "text": "other",
+          "start": 129.45,
+          "end": 129.95,
+          "confidence": 0.699
+        },
+        {
+          "text": "[*]",
+          "start": 129.95,
+          "end": 130.95,
+          "confidence": 0
+        },
+        {
+          "text": "person",
+          "start": 131.58,
+          "end": 131.94,
+          "confidence": 0.176
+        },
+        {
+          "text": "[*]",
+          "start": 131.94,
+          "end": 133.02,
+          "confidence": 0
+        },
+        {
+          "text": "was",
+          "start": 133.02,
+          "end": 133.2,
+          "confidence": 0.847
+        },
+        {
+          "text": "[*]",
+          "start": 133.2,
+          "end": 133.24,
+          "confidence": 0
+        },
+        {
+          "text": "so",
+          "start": 135.8,
+          "end": 136.35,
+          "confidence": 0.272
+        },
+        {
+          "text": "high.",
+          "start": 136.35,
+          "end": 136.85,
+          "confidence": 0.494
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2300,
+      "start": 137.05,
+      "end": 149.43,
+      "text": " The page ad is just...",
+      "tokens": [
+        50664,
+        440,
+        3028,
+        614,
+        307,
+        445,
+        485,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5141714731852214,
+      "compression_ratio": 1.025,
+      "no_speech_prob": 0.19267089664936066,
+      "confidence": 0.15,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 137.05,
+          "end": 137.9,
+          "confidence": 0
+        },
+        {
+          "text": "The",
+          "start": 145.57,
+          "end": 145.83,
+          "confidence": 0.292
+        },
+        {
+          "text": "[*]",
+          "start": 145.83,
+          "end": 146.75,
+          "confidence": 0
+        },
+        {
+          "text": "page",
+          "start": 146.75,
+          "end": 147.01,
+          "confidence": 0.885
+        },
+        {
+          "text": "ad",
+          "start": 147.01,
+          "end": 147.77,
+          "confidence": 0.0
+        },
+        {
+          "text": "is",
+          "start": 147.77,
+          "end": 148.41,
+          "confidence": 0.818
+        },
+        {
+          "text": "[*]",
+          "start": 148.41,
+          "end": 148.45,
+          "confidence": 0
+        },
+        {
+          "text": "just...",
+          "start": 148.45,
+          "end": 149.43,
+          "confidence": 0.537
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2300,
+      "start": 149.43,
+      "end": 159.85,
+      "text": " Can I keep on waiting?",
+      "tokens": [
+        50864,
+        1664,
+        286,
+        1066,
+        322,
+        3806,
+        30,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5141714731852214,
+      "compression_ratio": 1.025,
+      "no_speech_prob": 0.19267089664936066,
+      "confidence": 0.544,
+      "words": [
+        {
+          "text": "Can",
+          "start": 149.43,
+          "end": 149.8,
+          "confidence": 0.049
+        },
+        {
+          "text": "I",
+          "start": 159.33,
+          "end": 159.35,
+          "confidence": 0.925
+        },
+        {
+          "text": "keep",
+          "start": 159.35,
+          "end": 159.49,
+          "confidence": 0.832
+        },
+        {
+          "text": "on",
+          "start": 159.49,
+          "end": 159.63,
+          "confidence": 0.867
+        },
+        {
+          "text": "waiting?",
+          "start": 159.63,
+          "end": 159.85,
+          "confidence": 0.888
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2300,
+      "start": 186.19,
+      "end": 186.41,
+      "text": " Hello?",
+      "tokens": [
+        50964,
+        2425,
+        30,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5141714731852214,
+      "compression_ratio": 1.025,
+      "no_speech_prob": 0.19267089664936066,
+      "confidence": 0.531,
+      "words": [
+        {
+          "text": "Hello?",
+          "start": 186.19,
+          "end": 186.41,
+          "confidence": 0.531
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

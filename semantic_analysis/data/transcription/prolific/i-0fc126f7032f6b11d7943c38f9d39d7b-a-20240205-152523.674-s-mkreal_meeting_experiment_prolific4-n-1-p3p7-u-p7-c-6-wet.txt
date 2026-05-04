@@ -1,0 +1,136 @@
+{
+  "text": " Just so I can't see anything, that looks like a really good one.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.1,
+      "end": 13.4,
+      "text": " Just so I can't see anything, that looks like a really good one.",
+      "tokens": [
+        50364,
+        1449,
+        370,
+        286,
+        393,
+        380,
+        536,
+        1340,
+        11,
+        300,
+        1542,
+        411,
+        257,
+        534,
+        665,
+        472,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8283390998840332,
+      "compression_ratio": 0.927536231884058,
+      "no_speech_prob": 0.2819119393825531,
+      "confidence": 0.488,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 0.1,
+          "end": 2.25,
+          "confidence": 0
+        },
+        {
+          "text": "Just",
+          "start": 5.7,
+          "end": 5.94,
+          "confidence": 0.18
+        },
+        {
+          "text": "so",
+          "start": 5.94,
+          "end": 6.1,
+          "confidence": 0.809
+        },
+        {
+          "text": "I",
+          "start": 6.1,
+          "end": 6.24,
+          "confidence": 0.763
+        },
+        {
+          "text": "can't",
+          "start": 6.24,
+          "end": 6.6,
+          "confidence": 0.894
+        },
+        {
+          "text": "see",
+          "start": 6.6,
+          "end": 6.78,
+          "confidence": 0.828
+        },
+        {
+          "text": "anything,",
+          "start": 6.78,
+          "end": 7.7,
+          "confidence": 0.295
+        },
+        {
+          "text": "[*]",
+          "start": 8.9,
+          "end": 9.86,
+          "confidence": 0
+        },
+        {
+          "text": "that",
+          "start": 10.15,
+          "end": 10.41,
+          "confidence": 0.219
+        },
+        {
+          "text": "looks",
+          "start": 10.41,
+          "end": 10.65,
+          "confidence": 0.744
+        },
+        {
+          "text": "like",
+          "start": 10.65,
+          "end": 10.85,
+          "confidence": 0.861
+        },
+        {
+          "text": "a",
+          "start": 10.85,
+          "end": 10.97,
+          "confidence": 0.926
+        },
+        {
+          "text": "really",
+          "start": 10.97,
+          "end": 11.25,
+          "confidence": 0.09
+        },
+        {
+          "text": "good",
+          "start": 11.25,
+          "end": 11.57,
+          "confidence": 0.429
+        },
+        {
+          "text": "[*]",
+          "start": 12.7,
+          "end": 13.24,
+          "confidence": 0
+        },
+        {
+          "text": "one.",
+          "start": 13.24,
+          "end": 13.4,
+          "confidence": 0.571
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

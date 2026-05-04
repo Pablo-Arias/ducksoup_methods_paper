@@ -1,0 +1,1337 @@
+{
+  "text": " Hello? Hi, I'm hearing some kind of noise and I'm trying to use the walkie-talkie. Never mind, I can just about hear, yeah, where are you? Yes, I can hear you. Do you live in Walker? Yeah, but I don't know why they were calling today. I live about an hour and a half away in Central St. Very often, the smell of fish and pies comes up through the floor a lot. Yeah, I'm new management and the new lot, their chips aren't very good. Their fish is fine, but their chips are greasy. I'm not so keen on sweet stuff. I like Chinese food and prawn crackers and things like that. Well, not that much variety here, but there's a very nice Chinese buffet down in a place called Camelon.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 10.05,
+      "end": 57.15,
+      "text": " Hello? Hi, I'm hearing some kind of noise and I'm trying to use the walkie-talkie. Never mind, I can just about hear, yeah, where are you? Yes, I can hear you.",
+      "tokens": [
+        50364,
+        2425,
+        30,
+        2421,
+        11,
+        286,
+        478,
+        415,
+        1921,
+        512,
+        733,
+        295,
+        5658,
+        293,
+        286,
+        478,
+        1382,
+        281,
+        764,
+        264,
+        1792,
+        414,
+        12,
+        29302,
+        414,
+        13,
+        7344,
+        1575,
+        11,
+        286,
+        393,
+        445,
+        466,
+        1568,
+        11,
+        1338,
+        11,
+        689,
+        366,
+        291,
+        30,
+        1079,
+        11,
+        286,
+        393,
+        1568,
+        291,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7801603429457721,
+      "compression_ratio": 1.272,
+      "no_speech_prob": 0.12524354457855225,
+      "confidence": 0.404,
+      "words": [
+        {
+          "text": "Hello?",
+          "start": 10.05,
+          "end": 10.83,
+          "confidence": 0.556
+        },
+        {
+          "text": "[*]",
+          "start": 14.84,
+          "end": 15.85,
+          "confidence": 0
+        },
+        {
+          "text": "Hi,",
+          "start": 16.16,
+          "end": 17.02,
+          "confidence": 0.213
+        },
+        {
+          "text": "[*]",
+          "start": 17.02,
+          "end": 17.5,
+          "confidence": 0
+        },
+        {
+          "text": "I'm",
+          "start": 17.5,
+          "end": 18.32,
+          "confidence": 0.772
+        },
+        {
+          "text": "hearing",
+          "start": 18.32,
+          "end": 18.66,
+          "confidence": 0.422
+        },
+        {
+          "text": "some",
+          "start": 18.66,
+          "end": 18.94,
+          "confidence": 0.81
+        },
+        {
+          "text": "kind",
+          "start": 18.94,
+          "end": 19.28,
+          "confidence": 0.833
+        },
+        {
+          "text": "of",
+          "start": 19.28,
+          "end": 19.44,
+          "confidence": 0.914
+        },
+        {
+          "text": "[*]",
+          "start": 19.44,
+          "end": 20.1,
+          "confidence": 0
+        },
+        {
+          "text": "noise",
+          "start": 20.1,
+          "end": 20.46,
+          "confidence": 0.552
+        },
+        {
+          "text": "and",
+          "start": 20.46,
+          "end": 20.66,
+          "confidence": 0.168
+        },
+        {
+          "text": "[*]",
+          "start": 20.66,
+          "end": 21.38,
+          "confidence": 0
+        },
+        {
+          "text": "I'm",
+          "start": 21.38,
+          "end": 21.66,
+          "confidence": 0.229
+        },
+        {
+          "text": "trying",
+          "start": 21.66,
+          "end": 21.68,
+          "confidence": 0.292
+        },
+        {
+          "text": "to",
+          "start": 21.68,
+          "end": 21.7,
+          "confidence": 0.876
+        },
+        {
+          "text": "use",
+          "start": 21.7,
+          "end": 22.06,
+          "confidence": 0.021
+        },
+        {
+          "text": "[*]",
+          "start": 31.75,
+          "end": 32.21,
+          "confidence": 0
+        },
+        {
+          "text": "the",
+          "start": 32.21,
+          "end": 32.31,
+          "confidence": 0.525
+        },
+        {
+          "text": "walkie-talkie.",
+          "start": 32.31,
+          "end": 32.71,
+          "confidence": 0.236
+        },
+        {
+          "text": "[*]",
+          "start": 42.1,
+          "end": 42.54,
+          "confidence": 0
+        },
+        {
+          "text": "Never",
+          "start": 42.54,
+          "end": 42.8,
+          "confidence": 0.265
+        },
+        {
+          "text": "mind,",
+          "start": 42.8,
+          "end": 43.14,
+          "confidence": 0.483
+        },
+        {
+          "text": "I",
+          "start": 43.38,
+          "end": 43.4,
+          "confidence": 0.873
+        },
+        {
+          "text": "[*]",
+          "start": 44.1,
+          "end": 44.74,
+          "confidence": 0
+        },
+        {
+          "text": "can",
+          "start": 44.74,
+          "end": 45.1,
+          "confidence": 0.834
+        },
+        {
+          "text": "just",
+          "start": 45.1,
+          "end": 45.42,
+          "confidence": 0.723
+        },
+        {
+          "text": "about",
+          "start": 45.42,
+          "end": 45.76,
+          "confidence": 0.776
+        },
+        {
+          "text": "hear,",
+          "start": 45.76,
+          "end": 46.26,
+          "confidence": 0.167
+        },
+        {
+          "text": "yeah,",
+          "start": 46.7,
+          "end": 47.36,
+          "confidence": 0.509
+        },
+        {
+          "text": "where",
+          "start": 47.58,
+          "end": 47.86,
+          "confidence": 0.81
+        },
+        {
+          "text": "are",
+          "start": 47.86,
+          "end": 47.98,
+          "confidence": 0.499
+        },
+        {
+          "text": "you?",
+          "start": 47.98,
+          "end": 48.32,
+          "confidence": 0.659
+        },
+        {
+          "text": "[*]",
+          "start": 53.3,
+          "end": 53.64,
+          "confidence": 0
+        },
+        {
+          "text": "Yes,",
+          "start": 53.64,
+          "end": 54.0,
+          "confidence": 0.471
+        },
+        {
+          "text": "[*]",
+          "start": 56.5,
+          "end": 56.87,
+          "confidence": 0
+        },
+        {
+          "text": "I",
+          "start": 56.87,
+          "end": 57.09,
+          "confidence": 0.405
+        },
+        {
+          "text": "can",
+          "start": 57.09,
+          "end": 57.11,
+          "confidence": 0.227
+        },
+        {
+          "text": "hear",
+          "start": 57.11,
+          "end": 57.13,
+          "confidence": 0.457
+        },
+        {
+          "text": "you.",
+          "start": 57.13,
+          "end": 57.15,
+          "confidence": 0.707
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 2000,
+      "start": 57.15,
+      "end": 171.56,
+      "text": " Do you live in Walker? Yeah, but I don't know why they were calling today. I live about an hour and a half away in Central St.",
+      "tokens": [
+        50364,
+        1144,
+        291,
+        1621,
+        294,
+        23974,
+        30,
+        865,
+        11,
+        457,
+        286,
+        500,
+        380,
+        458,
+        983,
+        436,
+        645,
+        5141,
+        965,
+        13,
+        286,
+        1621,
+        466,
+        364,
+        1773,
+        293,
+        257,
+        1922,
+        1314,
+        294,
+        9701,
+        745,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5473496119181315,
+      "compression_ratio": 1.135135135135135,
+      "no_speech_prob": 0.6713233590126038,
+      "confidence": 0.443,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 57.15,
+          "end": 57.6,
+          "confidence": 0
+        },
+        {
+          "text": "Do",
+          "start": 63.89,
+          "end": 64.17,
+          "confidence": 0.072
+        },
+        {
+          "text": "you",
+          "start": 64.17,
+          "end": 64.39,
+          "confidence": 0.889
+        },
+        {
+          "text": "live",
+          "start": 64.39,
+          "end": 64.57,
+          "confidence": 0.682
+        },
+        {
+          "text": "in",
+          "start": 64.57,
+          "end": 65.01,
+          "confidence": 0.544
+        },
+        {
+          "text": "Walker?",
+          "start": 71.9,
+          "end": 72.6,
+          "confidence": 0.183
+        },
+        {
+          "text": "[*]",
+          "start": 116.2,
+          "end": 117.3,
+          "confidence": 0
+        },
+        {
+          "text": "Yeah,",
+          "start": 126.41,
+          "end": 127.69,
+          "confidence": 0.244
+        },
+        {
+          "text": "but",
+          "start": 127.97,
+          "end": 128.07,
+          "confidence": 0.597
+        },
+        {
+          "text": "I",
+          "start": 128.07,
+          "end": 128.43,
+          "confidence": 0.955
+        },
+        {
+          "text": "don't",
+          "start": 128.43,
+          "end": 128.61,
+          "confidence": 0.902
+        },
+        {
+          "text": "know",
+          "start": 128.61,
+          "end": 128.73,
+          "confidence": 0.812
+        },
+        {
+          "text": "why",
+          "start": 128.73,
+          "end": 129.29,
+          "confidence": 0.532
+        },
+        {
+          "text": "they",
+          "start": 129.29,
+          "end": 129.53,
+          "confidence": 0.667
+        },
+        {
+          "text": "were",
+          "start": 129.53,
+          "end": 129.67,
+          "confidence": 0.817
+        },
+        {
+          "text": "calling",
+          "start": 129.67,
+          "end": 129.95,
+          "confidence": 0.724
+        },
+        {
+          "text": "today.",
+          "start": 129.95,
+          "end": 130.43,
+          "confidence": 0.705
+        },
+        {
+          "text": "[*]",
+          "start": 131.03,
+          "end": 131.21,
+          "confidence": 0
+        },
+        {
+          "text": "I",
+          "start": 131.21,
+          "end": 131.45,
+          "confidence": 0.276
+        },
+        {
+          "text": "[*]",
+          "start": 147.05,
+          "end": 150.3,
+          "confidence": 0
+        },
+        {
+          "text": "live",
+          "start": 166.04,
+          "end": 166.28,
+          "confidence": 0.286
+        },
+        {
+          "text": "[*]",
+          "start": 166.28,
+          "end": 166.9,
+          "confidence": 0
+        },
+        {
+          "text": "about",
+          "start": 166.9,
+          "end": 167.16,
+          "confidence": 0.397
+        },
+        {
+          "text": "[*]",
+          "start": 167.16,
+          "end": 167.74,
+          "confidence": 0
+        },
+        {
+          "text": "an",
+          "start": 167.74,
+          "end": 167.94,
+          "confidence": 0.05
+        },
+        {
+          "text": "hour",
+          "start": 167.94,
+          "end": 167.96,
+          "confidence": 0.69
+        },
+        {
+          "text": "and",
+          "start": 167.96,
+          "end": 167.98,
+          "confidence": 0.352
+        },
+        {
+          "text": "a",
+          "start": 167.98,
+          "end": 168.0,
+          "confidence": 0.829
+        },
+        {
+          "text": "half",
+          "start": 168.0,
+          "end": 168.06,
+          "confidence": 0.66
+        },
+        {
+          "text": "away",
+          "start": 168.5,
+          "end": 169.04,
+          "confidence": 0.201
+        },
+        {
+          "text": "in",
+          "start": 169.04,
+          "end": 169.14,
+          "confidence": 0.298
+        },
+        {
+          "text": "[*]",
+          "start": 169.14,
+          "end": 170.54,
+          "confidence": 0
+        },
+        {
+          "text": "Central",
+          "start": 170.54,
+          "end": 170.76,
+          "confidence": 0.685
+        },
+        {
+          "text": "[*]",
+          "start": 170.76,
+          "end": 171.2,
+          "confidence": 0
+        },
+        {
+          "text": "St.",
+          "start": 171.2,
+          "end": 171.56,
+          "confidence": 0.551
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 4300,
+      "start": 171.56,
+      "end": 199.93,
+      "text": " Very often, the smell of fish and pies comes up through the floor a lot. Yeah, I'm new management and the new lot, their chips aren't very good. Their fish is fine, but their chips are greasy.",
+      "tokens": [
+        50364,
+        4372,
+        2049,
+        11,
+        264,
+        4316,
+        295,
+        3506,
+        293,
+        29640,
+        1487,
+        493,
+        807,
+        264,
+        4123,
+        257,
+        688,
+        13,
+        865,
+        11,
+        286,
+        478,
+        777,
+        4592,
+        293,
+        264,
+        777,
+        688,
+        11,
+        641,
+        11583,
+        3212,
+        380,
+        588,
+        665,
+        13,
+        6710,
+        3506,
+        307,
+        2489,
+        11,
+        457,
+        641,
+        11583,
+        366,
+        36401,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3532542037963867,
+      "compression_ratio": 1.411764705882353,
+      "no_speech_prob": 0.8420875668525696,
+      "confidence": 0.606,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 171.56,
+          "end": 172.25,
+          "confidence": 0
+        },
+        {
+          "text": "Very",
+          "start": 177.63,
+          "end": 177.81,
+          "confidence": 0.109
+        },
+        {
+          "text": "often,",
+          "start": 177.81,
+          "end": 178.27,
+          "confidence": 0.456
+        },
+        {
+          "text": "[*]",
+          "start": 178.27,
+          "end": 178.9,
+          "confidence": 0
+        },
+        {
+          "text": "the",
+          "start": 180.18,
+          "end": 180.58,
+          "confidence": 0.603
+        },
+        {
+          "text": "smell",
+          "start": 180.58,
+          "end": 180.94,
+          "confidence": 0.88
+        },
+        {
+          "text": "of",
+          "start": 180.94,
+          "end": 181.18,
+          "confidence": 0.901
+        },
+        {
+          "text": "[*]",
+          "start": 181.18,
+          "end": 181.48,
+          "confidence": 0
+        },
+        {
+          "text": "fish",
+          "start": 181.48,
+          "end": 181.68,
+          "confidence": 0.864
+        },
+        {
+          "text": "and",
+          "start": 181.68,
+          "end": 181.86,
+          "confidence": 0.868
+        },
+        {
+          "text": "pies",
+          "start": 181.86,
+          "end": 182.36,
+          "confidence": 0.791
+        },
+        {
+          "text": "comes",
+          "start": 182.36,
+          "end": 182.76,
+          "confidence": 0.735
+        },
+        {
+          "text": "up",
+          "start": 182.76,
+          "end": 182.98,
+          "confidence": 0.858
+        },
+        {
+          "text": "through",
+          "start": 182.98,
+          "end": 183.18,
+          "confidence": 0.709
+        },
+        {
+          "text": "the",
+          "start": 183.18,
+          "end": 183.34,
+          "confidence": 0.807
+        },
+        {
+          "text": "floor",
+          "start": 183.34,
+          "end": 183.68,
+          "confidence": 0.903
+        },
+        {
+          "text": "a",
+          "start": 183.68,
+          "end": 183.8,
+          "confidence": 0.712
+        },
+        {
+          "text": "lot.",
+          "start": 183.8,
+          "end": 184.5,
+          "confidence": 0.742
+        },
+        {
+          "text": "[*]",
+          "start": 192.35,
+          "end": 192.85,
+          "confidence": 0
+        },
+        {
+          "text": "Yeah,",
+          "start": 192.85,
+          "end": 193.03,
+          "confidence": 0.232
+        },
+        {
+          "text": "[*]",
+          "start": 193.03,
+          "end": 193.49,
+          "confidence": 0
+        },
+        {
+          "text": "I'm",
+          "start": 193.49,
+          "end": 194.01,
+          "confidence": 0.233
+        },
+        {
+          "text": "new",
+          "start": 194.01,
+          "end": 194.21,
+          "confidence": 0.458
+        },
+        {
+          "text": "management",
+          "start": 194.21,
+          "end": 194.75,
+          "confidence": 0.196
+        },
+        {
+          "text": "and",
+          "start": 194.75,
+          "end": 195.11,
+          "confidence": 0.488
+        },
+        {
+          "text": "the",
+          "start": 195.11,
+          "end": 195.25,
+          "confidence": 0.404
+        },
+        {
+          "text": "new",
+          "start": 195.25,
+          "end": 195.47,
+          "confidence": 0.761
+        },
+        {
+          "text": "lot,",
+          "start": 195.47,
+          "end": 195.73,
+          "confidence": 0.704
+        },
+        {
+          "text": "their",
+          "start": 195.87,
+          "end": 195.95,
+          "confidence": 0.728
+        },
+        {
+          "text": "chips",
+          "start": 195.95,
+          "end": 196.29,
+          "confidence": 0.679
+        },
+        {
+          "text": "aren't",
+          "start": 196.29,
+          "end": 196.63,
+          "confidence": 0.88
+        },
+        {
+          "text": "very",
+          "start": 196.63,
+          "end": 196.85,
+          "confidence": 0.699
+        },
+        {
+          "text": "[*]",
+          "start": 196.85,
+          "end": 197.45,
+          "confidence": 0
+        },
+        {
+          "text": "good.",
+          "start": 197.45,
+          "end": 197.55,
+          "confidence": 0.835
+        },
+        {
+          "text": "Their",
+          "start": 197.83,
+          "end": 197.99,
+          "confidence": 0.375
+        },
+        {
+          "text": "fish",
+          "start": 197.99,
+          "end": 198.27,
+          "confidence": 0.894
+        },
+        {
+          "text": "is",
+          "start": 198.27,
+          "end": 198.45,
+          "confidence": 0.877
+        },
+        {
+          "text": "fine,",
+          "start": 198.45,
+          "end": 198.77,
+          "confidence": 0.591
+        },
+        {
+          "text": "but",
+          "start": 198.85,
+          "end": 198.93,
+          "confidence": 0.87
+        },
+        {
+          "text": "their",
+          "start": 198.93,
+          "end": 199.07,
+          "confidence": 0.873
+        },
+        {
+          "text": "chips",
+          "start": 199.07,
+          "end": 199.37,
+          "confidence": 0.702
+        },
+        {
+          "text": "are",
+          "start": 199.37,
+          "end": 199.55,
+          "confidence": 0.89
+        },
+        {
+          "text": "greasy.",
+          "start": 199.55,
+          "end": 199.93,
+          "confidence": 0.834
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 5800,
+      "start": 202.65,
+      "end": 248.7,
+      "text": " I'm not so keen on sweet stuff. I like Chinese food and prawn crackers and things like that. Well, not that much variety here, but there's a very nice Chinese buffet down in a place called Camelon.",
+      "tokens": [
+        50364,
+        286,
+        478,
+        406,
+        370,
+        20297,
+        322,
+        3844,
+        1507,
+        13,
+        286,
+        411,
+        4649,
+        1755,
+        293,
+        37047,
+        41407,
+        293,
+        721,
+        411,
+        300,
+        13,
+        1042,
+        11,
+        406,
+        300,
+        709,
+        5673,
+        510,
+        11,
+        457,
+        456,
+        311,
+        257,
+        588,
+        1481,
+        4649,
+        42904,
+        760,
+        294,
+        257,
+        1081,
+        1219,
+        6886,
+        338,
+        266,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3075967710845324,
+      "compression_ratio": 1.3680555555555556,
+      "no_speech_prob": 0.46656349301338196,
+      "confidence": 0.592,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 202.65,
+          "end": 204.05,
+          "confidence": 0
+        },
+        {
+          "text": "I'm",
+          "start": 207.25,
+          "end": 208.8,
+          "confidence": 0.271
+        },
+        {
+          "text": "not",
+          "start": 223.98,
+          "end": 224.12,
+          "confidence": 0.837
+        },
+        {
+          "text": "so",
+          "start": 224.12,
+          "end": 224.38,
+          "confidence": 0.83
+        },
+        {
+          "text": "keen",
+          "start": 224.38,
+          "end": 224.74,
+          "confidence": 0.828
+        },
+        {
+          "text": "on",
+          "start": 224.74,
+          "end": 224.98,
+          "confidence": 0.896
+        },
+        {
+          "text": "sweet",
+          "start": 224.98,
+          "end": 225.34,
+          "confidence": 0.822
+        },
+        {
+          "text": "stuff.",
+          "start": 225.34,
+          "end": 225.72,
+          "confidence": 0.343
+        },
+        {
+          "text": "I",
+          "start": 225.88,
+          "end": 225.9,
+          "confidence": 0.692
+        },
+        {
+          "text": "like",
+          "start": 225.9,
+          "end": 226.08,
+          "confidence": 0.802
+        },
+        {
+          "text": "Chinese",
+          "start": 226.08,
+          "end": 226.72,
+          "confidence": 0.576
+        },
+        {
+          "text": "[*]",
+          "start": 226.72,
+          "end": 227.26,
+          "confidence": 0
+        },
+        {
+          "text": "food",
+          "start": 227.26,
+          "end": 227.4,
+          "confidence": 0.833
+        },
+        {
+          "text": "[*]",
+          "start": 228.2,
+          "end": 229.13,
+          "confidence": 0
+        },
+        {
+          "text": "and",
+          "start": 229.13,
+          "end": 229.29,
+          "confidence": 0.531
+        },
+        {
+          "text": "prawn",
+          "start": 229.29,
+          "end": 229.69,
+          "confidence": 0.689
+        },
+        {
+          "text": "crackers",
+          "start": 229.69,
+          "end": 230.21,
+          "confidence": 0.892
+        },
+        {
+          "text": "and",
+          "start": 230.21,
+          "end": 230.59,
+          "confidence": 0.748
+        },
+        {
+          "text": "things",
+          "start": 230.59,
+          "end": 230.91,
+          "confidence": 0.599
+        },
+        {
+          "text": "like",
+          "start": 230.91,
+          "end": 231.29,
+          "confidence": 0.823
+        },
+        {
+          "text": "[*]",
+          "start": 231.29,
+          "end": 231.33,
+          "confidence": 0
+        },
+        {
+          "text": "that.",
+          "start": 231.33,
+          "end": 231.71,
+          "confidence": 0.834
+        },
+        {
+          "text": "[*]",
+          "start": 238.96,
+          "end": 239.55,
+          "confidence": 0
+        },
+        {
+          "text": "Well,",
+          "start": 241.62,
+          "end": 242.0,
+          "confidence": 0.074
+        },
+        {
+          "text": "[*]",
+          "start": 242.26,
+          "end": 242.86,
+          "confidence": 0
+        },
+        {
+          "text": "not",
+          "start": 242.86,
+          "end": 242.96,
+          "confidence": 0.175
+        },
+        {
+          "text": "that",
+          "start": 242.96,
+          "end": 243.28,
+          "confidence": 0.723
+        },
+        {
+          "text": "much",
+          "start": 243.28,
+          "end": 243.58,
+          "confidence": 0.764
+        },
+        {
+          "text": "[*]",
+          "start": 243.58,
+          "end": 244.02,
+          "confidence": 0
+        },
+        {
+          "text": "variety",
+          "start": 244.02,
+          "end": 244.14,
+          "confidence": 0.849
+        },
+        {
+          "text": "here,",
+          "start": 244.14,
+          "end": 244.48,
+          "confidence": 0.433
+        },
+        {
+          "text": "but",
+          "start": 244.6,
+          "end": 244.66,
+          "confidence": 0.757
+        },
+        {
+          "text": "there's",
+          "start": 244.66,
+          "end": 244.88,
+          "confidence": 0.832
+        },
+        {
+          "text": "a",
+          "start": 244.88,
+          "end": 245.0,
+          "confidence": 0.942
+        },
+        {
+          "text": "very",
+          "start": 245.0,
+          "end": 245.2,
+          "confidence": 0.624
+        },
+        {
+          "text": "[*]",
+          "start": 245.2,
+          "end": 245.22,
+          "confidence": 0
+        },
+        {
+          "text": "nice",
+          "start": 245.22,
+          "end": 245.6,
+          "confidence": 0.763
+        },
+        {
+          "text": "Chinese",
+          "start": 245.6,
+          "end": 246.18,
+          "confidence": 0.734
+        },
+        {
+          "text": "buffet",
+          "start": 246.18,
+          "end": 246.66,
+          "confidence": 0.776
+        },
+        {
+          "text": "down",
+          "start": 246.66,
+          "end": 247.1,
+          "confidence": 0.696
+        },
+        {
+          "text": "in",
+          "start": 247.1,
+          "end": 247.3,
+          "confidence": 0.762
+        },
+        {
+          "text": "a",
+          "start": 247.3,
+          "end": 247.42,
+          "confidence": 0.878
+        },
+        {
+          "text": "place",
+          "start": 247.42,
+          "end": 247.72,
+          "confidence": 0.782
+        },
+        {
+          "text": "called",
+          "start": 247.72,
+          "end": 247.98,
+          "confidence": 0.741
+        },
+        {
+          "text": "Camelon.",
+          "start": 247.98,
+          "end": 248.7,
+          "confidence": 0.611
+        }
+      ]
+    }
+  ],
+  "language": "English",
+  "speech_activity": [
+    {
+      "start": 10.05,
+      "end": 11.45
+    },
+    {
+      "start": 14.7,
+      "end": 15.85
+    },
+    {
+      "start": 16.15,
+      "end": 22.1
+    },
+    {
+      "start": 31.75,
+      "end": 34.25
+    },
+    {
+      "start": 42.1,
+      "end": 44.0
+    },
+    {
+      "start": 44.1,
+      "end": 49.1
+    },
+    {
+      "start": 53.3,
+      "end": 54.55
+    },
+    {
+      "start": 56.5,
+      "end": 57.6
+    },
+    {
+      "start": 63.6,
+      "end": 65.05
+    },
+    {
+      "start": 71.9,
+      "end": 73.3
+    },
+    {
+      "start": 116.2,
+      "end": 117.3
+    },
+    {
+      "start": 126.15,
+      "end": 131.8
+    },
+    {
+      "start": 132.7,
+      "end": 134.15
+    },
+    {
+      "start": 145.1,
+      "end": 146.2
+    },
+    {
+      "start": 147.05,
+      "end": 150.3
+    },
+    {
+      "start": 163.55,
+      "end": 164.75
+    },
+    {
+      "start": 165.45,
+      "end": 168.1
+    },
+    {
+      "start": 168.5,
+      "end": 172.25
+    },
+    {
+      "start": 177.2,
+      "end": 178.9
+    },
+    {
+      "start": 179.75,
+      "end": 185.0
+    },
+    {
+      "start": 192.35,
+      "end": 200.65
+    },
+    {
+      "start": 202.65,
+      "end": 204.75
+    },
+    {
+      "start": 207.25,
+      "end": 208.8
+    },
+    {
+      "start": 223.15,
+      "end": 227.95
+    },
+    {
+      "start": 228.2,
+      "end": 232.25
+    },
+    {
+      "start": 238.0,
+      "end": 239.55
+    },
+    {
+      "start": 241.25,
+      "end": 248.96
+    }
+  ]
+}

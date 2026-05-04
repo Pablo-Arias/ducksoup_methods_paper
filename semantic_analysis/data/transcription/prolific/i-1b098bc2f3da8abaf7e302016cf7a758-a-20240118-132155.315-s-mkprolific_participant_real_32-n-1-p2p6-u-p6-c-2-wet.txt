@@ -1,0 +1,138 @@
+{
+  "text": " I can't hear you, yeah, yeah I guess so, I'm so sorry.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 1.65,
+      "end": 23.75,
+      "text": " I can't hear you, yeah, yeah I guess so, I'm so sorry.",
+      "tokens": [
+        50364,
+        286,
+        393,
+        380,
+        1568,
+        291,
+        11,
+        1338,
+        11,
+        1338,
+        286,
+        2041,
+        370,
+        11,
+        286,
+        478,
+        370,
+        2597,
+        13,
+        50972
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7422743751889184,
+      "compression_ratio": 1.0,
+      "no_speech_prob": 0.17040351033210754,
+      "confidence": 0.489,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 1.65,
+          "end": 2.95,
+          "confidence": 0
+        },
+        {
+          "text": "I",
+          "start": 12.54,
+          "end": 12.94,
+          "confidence": 0.098
+        },
+        {
+          "text": "can't",
+          "start": 12.94,
+          "end": 13.96,
+          "confidence": 0.497
+        },
+        {
+          "text": "hear",
+          "start": 13.96,
+          "end": 14.06,
+          "confidence": 0.845
+        },
+        {
+          "text": "you,",
+          "start": 14.06,
+          "end": 14.28,
+          "confidence": 0.266
+        },
+        {
+          "text": "[*]",
+          "start": 16.33,
+          "end": 16.59,
+          "confidence": 0
+        },
+        {
+          "text": "yeah,",
+          "start": 16.59,
+          "end": 16.83,
+          "confidence": 0.418
+        },
+        {
+          "text": "[*]",
+          "start": 18.44,
+          "end": 18.84,
+          "confidence": 0
+        },
+        {
+          "text": "yeah",
+          "start": 18.84,
+          "end": 19.52,
+          "confidence": 0.477
+        },
+        {
+          "text": "[*]",
+          "start": 20.9,
+          "end": 21.63,
+          "confidence": 0
+        },
+        {
+          "text": "I",
+          "start": 21.63,
+          "end": 21.85,
+          "confidence": 0.471
+        },
+        {
+          "text": "guess",
+          "start": 21.85,
+          "end": 22.13,
+          "confidence": 0.856
+        },
+        {
+          "text": "so,",
+          "start": 22.13,
+          "end": 22.45,
+          "confidence": 0.435
+        },
+        {
+          "text": "I'm",
+          "start": 22.75,
+          "end": 23.19,
+          "confidence": 0.807
+        },
+        {
+          "text": "so",
+          "start": 23.19,
+          "end": 23.45,
+          "confidence": 0.82
+        },
+        {
+          "text": "sorry.",
+          "start": 23.45,
+          "end": 23.75,
+          "confidence": 0.725
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

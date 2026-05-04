@@ -1,0 +1,669 @@
+{
+  "text": " Hi, hi, I'm good. How are you doing? Can you hear me? It's not very loud So my name is Michelle My name is Michelle Was a difficult time So you don't do anything Really I guess I do prolific because I've not yet gotten a job. I study in Hull, Hull, Hull",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 8.65,
+      "end": 28.14,
+      "text": " Hi, hi, I'm good. How are you doing? Can you hear me? It's not very loud",
+      "tokens": [
+        50364,
+        2421,
+        11,
+        4879,
+        11,
+        286,
+        478,
+        665,
+        13,
+        1012,
+        366,
+        291,
+        884,
+        30,
+        1664,
+        291,
+        1568,
+        385,
+        30,
+        467,
+        311,
+        406,
+        588,
+        6588,
+        50694
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4431849585639106,
+      "compression_ratio": 1.2363636363636363,
+      "no_speech_prob": 0.2243090122938156,
+      "confidence": 0.756,
+      "words": [
+        {
+          "text": "Hi,",
+          "start": 8.65,
+          "end": 9.33,
+          "confidence": 0.519
+        },
+        {
+          "text": "[*]",
+          "start": 11.13,
+          "end": 11.61,
+          "confidence": 0
+        },
+        {
+          "text": "hi,",
+          "start": 11.61,
+          "end": 11.73,
+          "confidence": 0.616
+        },
+        {
+          "text": "I'm",
+          "start": 13.0,
+          "end": 13.38,
+          "confidence": 0.983
+        },
+        {
+          "text": "good.",
+          "start": 13.38,
+          "end": 13.68,
+          "confidence": 0.814
+        },
+        {
+          "text": "How",
+          "start": 13.78,
+          "end": 13.9,
+          "confidence": 0.825
+        },
+        {
+          "text": "are",
+          "start": 13.9,
+          "end": 14.0,
+          "confidence": 0.187
+        },
+        {
+          "text": "you",
+          "start": 14.0,
+          "end": 14.06,
+          "confidence": 0.898
+        },
+        {
+          "text": "doing?",
+          "start": 14.06,
+          "end": 14.36,
+          "confidence": 0.927
+        },
+        {
+          "text": "Can",
+          "start": 20.55,
+          "end": 20.75,
+          "confidence": 0.878
+        },
+        {
+          "text": "you",
+          "start": 20.75,
+          "end": 20.87,
+          "confidence": 0.901
+        },
+        {
+          "text": "hear",
+          "start": 20.87,
+          "end": 21.11,
+          "confidence": 0.884
+        },
+        {
+          "text": "me?",
+          "start": 21.11,
+          "end": 21.37,
+          "confidence": 0.925
+        },
+        {
+          "text": "[*]",
+          "start": 21.37,
+          "end": 21.8,
+          "confidence": 0
+        },
+        {
+          "text": "It's",
+          "start": 27.12,
+          "end": 27.46,
+          "confidence": 0.805
+        },
+        {
+          "text": "not",
+          "start": 27.46,
+          "end": 27.58,
+          "confidence": 0.816
+        },
+        {
+          "text": "very",
+          "start": 27.58,
+          "end": 27.82,
+          "confidence": 0.736
+        },
+        {
+          "text": "loud",
+          "start": 27.82,
+          "end": 28.14,
+          "confidence": 0.89
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 31.1,
+      "end": 34.55,
+      "text": " So my name is Michelle",
+      "tokens": [
+        50874,
+        407,
+        452,
+        1315,
+        307,
+        14933,
+        50974
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4431849585639106,
+      "compression_ratio": 1.2363636363636363,
+      "no_speech_prob": 0.2243090122938156,
+      "confidence": 0.671,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 31.1,
+          "end": 31.7,
+          "confidence": 0
+        },
+        {
+          "text": "So",
+          "start": 33.45,
+          "end": 33.57,
+          "confidence": 0.402
+        },
+        {
+          "text": "my",
+          "start": 33.57,
+          "end": 33.73,
+          "confidence": 0.748
+        },
+        {
+          "text": "name",
+          "start": 33.73,
+          "end": 33.93,
+          "confidence": 0.835
+        },
+        {
+          "text": "is",
+          "start": 33.93,
+          "end": 34.09,
+          "confidence": 0.904
+        },
+        {
+          "text": "Michelle",
+          "start": 34.09,
+          "end": 34.55,
+          "confidence": 0.599
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 47.11,
+      "end": 48.81,
+      "text": " My name is Michelle",
+      "tokens": [
+        51202,
+        1222,
+        1315,
+        307,
+        14933,
+        51302
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4431849585639106,
+      "compression_ratio": 1.2363636363636363,
+      "no_speech_prob": 0.2243090122938156,
+      "confidence": 0.608,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 47.11,
+          "end": 48.01,
+          "confidence": 0
+        },
+        {
+          "text": "My",
+          "start": 48.01,
+          "end": 48.15,
+          "confidence": 0.513
+        },
+        {
+          "text": "name",
+          "start": 48.15,
+          "end": 48.33,
+          "confidence": 0.848
+        },
+        {
+          "text": "is",
+          "start": 48.33,
+          "end": 48.45,
+          "confidence": 0.775
+        },
+        {
+          "text": "Michelle",
+          "start": 48.45,
+          "end": 48.81,
+          "confidence": 0.404
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 92.62,
+      "end": 95.33,
+      "text": " Was a difficult time",
+      "tokens": [
+        51730,
+        3027,
+        257,
+        2252,
+        565,
+        51830
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4431849585639106,
+      "compression_ratio": 1.2363636363636363,
+      "no_speech_prob": 0.2243090122938156,
+      "confidence": 0.14,
+      "words": [
+        {
+          "text": "Was",
+          "start": 92.62,
+          "end": 93.0,
+          "confidence": 0.274
+        },
+        {
+          "text": "[*]",
+          "start": 93.47,
+          "end": 94.01,
+          "confidence": 0
+        },
+        {
+          "text": "a",
+          "start": 94.01,
+          "end": 94.15,
+          "confidence": 0.002
+        },
+        {
+          "text": "[*]",
+          "start": 94.15,
+          "end": 94.53,
+          "confidence": 0
+        },
+        {
+          "text": "difficult",
+          "start": 94.53,
+          "end": 94.75,
+          "confidence": 0.86
+        },
+        {
+          "text": "[*]",
+          "start": 94.75,
+          "end": 95.03,
+          "confidence": 0
+        },
+        {
+          "text": "time",
+          "start": 95.03,
+          "end": 95.33,
+          "confidence": 0.8
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 3000,
+      "start": 110.46,
+      "end": 111.56,
+      "text": " So you don't do anything",
+      "tokens": [
+        50380,
+        407,
+        291,
+        500,
+        380,
+        360,
+        1340,
+        50480
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.606377363204956,
+      "compression_ratio": 1.1958762886597938,
+      "no_speech_prob": 0.0019674666691571474,
+      "confidence": 0.618,
+      "words": [
+        {
+          "text": "So",
+          "start": 110.46,
+          "end": 110.82,
+          "confidence": 0.451
+        },
+        {
+          "text": "you",
+          "start": 110.82,
+          "end": 110.94,
+          "confidence": 0.813
+        },
+        {
+          "text": "don't",
+          "start": 110.94,
+          "end": 111.14,
+          "confidence": 0.448
+        },
+        {
+          "text": "do",
+          "start": 111.14,
+          "end": 111.26,
+          "confidence": 0.896
+        },
+        {
+          "text": "anything",
+          "start": 111.26,
+          "end": 111.56,
+          "confidence": 0.843
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 3000,
+      "start": 125.6,
+      "end": 126.51,
+      "text": " Really",
+      "tokens": [
+        50818,
+        4083,
+        50918
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.606377363204956,
+      "compression_ratio": 1.1958762886597938,
+      "no_speech_prob": 0.0019674666691571474,
+      "confidence": 0.423,
+      "words": [
+        {
+          "text": "Really",
+          "start": 125.6,
+          "end": 126.51,
+          "confidence": 0.423
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 3000,
+      "start": 131.86,
+      "end": 150.93,
+      "text": " I guess I do prolific because I've not yet gotten a job. I study in Hull, Hull, Hull",
+      "tokens": [
+        51112,
+        286,
+        2041,
+        286,
+        360,
+        24398,
+        1089,
+        570,
+        286,
+        600,
+        406,
+        1939,
+        5768,
+        257,
+        1691,
+        13,
+        286,
+        2979,
+        294,
+        389,
+        858,
+        11,
+        389,
+        858,
+        11,
+        389,
+        858,
+        51424
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.606377363204956,
+      "compression_ratio": 1.1958762886597938,
+      "no_speech_prob": 0.0019674666691571474,
+      "confidence": 0.609,
+      "words": [
+        {
+          "text": "I",
+          "start": 131.86,
+          "end": 132.42,
+          "confidence": 0.758
+        },
+        {
+          "text": "[*]",
+          "start": 132.42,
+          "end": 132.66,
+          "confidence": 0
+        },
+        {
+          "text": "guess",
+          "start": 132.66,
+          "end": 132.82,
+          "confidence": 0.795
+        },
+        {
+          "text": "I",
+          "start": 132.82,
+          "end": 133.02,
+          "confidence": 0.966
+        },
+        {
+          "text": "do",
+          "start": 133.02,
+          "end": 133.18,
+          "confidence": 0.847
+        },
+        {
+          "text": "prolific",
+          "start": 133.18,
+          "end": 133.68,
+          "confidence": 0.661
+        },
+        {
+          "text": "because",
+          "start": 133.68,
+          "end": 134.04,
+          "confidence": 0.478
+        },
+        {
+          "text": "I've",
+          "start": 134.04,
+          "end": 134.34,
+          "confidence": 0.701
+        },
+        {
+          "text": "not",
+          "start": 134.34,
+          "end": 134.46,
+          "confidence": 0.478
+        },
+        {
+          "text": "yet",
+          "start": 134.46,
+          "end": 134.58,
+          "confidence": 0.84
+        },
+        {
+          "text": "gotten",
+          "start": 134.58,
+          "end": 134.76,
+          "confidence": 0.755
+        },
+        {
+          "text": "a",
+          "start": 134.76,
+          "end": 134.94,
+          "confidence": 0.977
+        },
+        {
+          "text": "[*]",
+          "start": 134.94,
+          "end": 135.18,
+          "confidence": 0
+        },
+        {
+          "text": "job.",
+          "start": 135.18,
+          "end": 135.32,
+          "confidence": 0.672
+        },
+        {
+          "text": "[*]",
+          "start": 135.32,
+          "end": 135.74,
+          "confidence": 0
+        },
+        {
+          "text": "I",
+          "start": 144.85,
+          "end": 145.18,
+          "confidence": 0.06
+        },
+        {
+          "text": "study",
+          "start": 145.18,
+          "end": 145.52,
+          "confidence": 0.7
+        },
+        {
+          "text": "in",
+          "start": 145.52,
+          "end": 145.72,
+          "confidence": 0.839
+        },
+        {
+          "text": "Hull,",
+          "start": 145.72,
+          "end": 146.14,
+          "confidence": 0.338
+        },
+        {
+          "text": "Hull,",
+          "start": 149.8,
+          "end": 150.55,
+          "confidence": 0.691
+        },
+        {
+          "text": "Hull",
+          "start": 150.67,
+          "end": 150.93,
+          "confidence": 0.914
+        }
+      ]
+    }
+  ],
+  "language": "English",
+  "speech_activity": [
+    {
+      "start": 8.65,
+      "end": 9.75
+    },
+    {
+      "start": 11.05,
+      "end": 12.25
+    },
+    {
+      "start": 13.0,
+      "end": 14.4
+    },
+    {
+      "start": 20.15,
+      "end": 21.8
+    },
+    {
+      "start": 26.75,
+      "end": 31.7
+    },
+    {
+      "start": 33.15,
+      "end": 35.3
+    },
+    {
+      "start": 42.65,
+      "end": 45.8
+    },
+    {
+      "start": 46.45,
+      "end": 48.85
+    },
+    {
+      "start": 51.25,
+      "end": 53.5
+    },
+    {
+      "start": 63.05,
+      "end": 64.65
+    },
+    {
+      "start": 70.0,
+      "end": 71.1
+    },
+    {
+      "start": 74.0,
+      "end": 75.5
+    },
+    {
+      "start": 76.7,
+      "end": 78.15
+    },
+    {
+      "start": 91.7,
+      "end": 93.0
+    },
+    {
+      "start": 93.45,
+      "end": 95.35
+    },
+    {
+      "start": 97.85,
+      "end": 98.95
+    },
+    {
+      "start": 110.3,
+      "end": 111.6
+    },
+    {
+      "start": 112.45,
+      "end": 119.6
+    },
+    {
+      "start": 125.6,
+      "end": 128.95
+    },
+    {
+      "start": 129.4,
+      "end": 135.85
+    },
+    {
+      "start": 144.85,
+      "end": 146.55
+    },
+    {
+      "start": 149.8,
+      "end": 150.95
+    }
+  ]
+}

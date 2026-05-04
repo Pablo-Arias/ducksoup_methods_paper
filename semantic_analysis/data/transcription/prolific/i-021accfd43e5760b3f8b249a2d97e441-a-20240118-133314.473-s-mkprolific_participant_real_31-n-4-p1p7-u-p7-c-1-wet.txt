@@ -1,0 +1,409 @@
+{
+  "text": " hello yes I can hear you can you hear me oh hi researcher I interacted with three people but the last person didn't come up okay so how's the research going yes the wind's all right yeah okay okay bye",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 12.25,
+      "end": 35.58,
+      "text": " hello yes I can hear you can you hear me oh hi researcher I interacted with",
+      "tokens": [
+        50364,
+        7751,
+        2086,
+        286,
+        393,
+        1568,
+        291,
+        393,
+        291,
+        1568,
+        385,
+        1954,
+        4879,
+        21751,
+        286,
+        49621,
+        365,
+        50950
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32094297653589493,
+      "compression_ratio": 1.3805309734513274,
+      "no_speech_prob": 0.519946813583374,
+      "confidence": 0.738,
+      "words": [
+        {
+          "text": "hello",
+          "start": 12.25,
+          "end": 12.97,
+          "confidence": 0.381
+        },
+        {
+          "text": "[*]",
+          "start": 12.97,
+          "end": 13.5,
+          "confidence": 0
+        },
+        {
+          "text": "yes",
+          "start": 16.7,
+          "end": 17.14,
+          "confidence": 0.714
+        },
+        {
+          "text": "I",
+          "start": 17.14,
+          "end": 17.32,
+          "confidence": 0.872
+        },
+        {
+          "text": "can",
+          "start": 17.32,
+          "end": 17.46,
+          "confidence": 0.895
+        },
+        {
+          "text": "hear",
+          "start": 17.46,
+          "end": 17.7,
+          "confidence": 0.865
+        },
+        {
+          "text": "you",
+          "start": 17.7,
+          "end": 17.9,
+          "confidence": 0.905
+        },
+        {
+          "text": "can",
+          "start": 17.9,
+          "end": 18.16,
+          "confidence": 0.769
+        },
+        {
+          "text": "you",
+          "start": 18.16,
+          "end": 18.28,
+          "confidence": 0.759
+        },
+        {
+          "text": "hear",
+          "start": 18.28,
+          "end": 18.42,
+          "confidence": 0.875
+        },
+        {
+          "text": "me",
+          "start": 18.42,
+          "end": 18.7,
+          "confidence": 0.869
+        },
+        {
+          "text": "[*]",
+          "start": 18.7,
+          "end": 19.15,
+          "confidence": 0
+        },
+        {
+          "text": "oh",
+          "start": 23.56,
+          "end": 23.98,
+          "confidence": 0.493
+        },
+        {
+          "text": "[*]",
+          "start": 23.98,
+          "end": 24.0,
+          "confidence": 0
+        },
+        {
+          "text": "hi",
+          "start": 24.0,
+          "end": 24.68,
+          "confidence": 0.833
+        },
+        {
+          "text": "researcher",
+          "start": 24.68,
+          "end": 25.26,
+          "confidence": 0.776
+        },
+        {
+          "text": "[*]",
+          "start": 26.75,
+          "end": 30.25,
+          "confidence": 0
+        },
+        {
+          "text": "I",
+          "start": 34.28,
+          "end": 34.64,
+          "confidence": 0.613
+        },
+        {
+          "text": "interacted",
+          "start": 34.64,
+          "end": 35.3,
+          "confidence": 0.663
+        },
+        {
+          "text": "with",
+          "start": 35.3,
+          "end": 35.58,
+          "confidence": 0.812
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 35.58,
+      "end": 49.13,
+      "text": " three people but the last person didn't come up okay so how's the research going",
+      "tokens": [
+        50950,
+        1045,
+        561,
+        457,
+        264,
+        1036,
+        954,
+        994,
+        380,
+        808,
+        493,
+        1392,
+        370,
+        577,
+        311,
+        264,
+        2132,
+        516,
+        51370
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32094297653589493,
+      "compression_ratio": 1.3805309734513274,
+      "no_speech_prob": 0.519946813583374,
+      "confidence": 0.685,
+      "words": [
+        {
+          "text": "three",
+          "start": 35.58,
+          "end": 35.8,
+          "confidence": 0.484
+        },
+        {
+          "text": "people",
+          "start": 35.8,
+          "end": 36.2,
+          "confidence": 0.924
+        },
+        {
+          "text": "but",
+          "start": 36.2,
+          "end": 36.58,
+          "confidence": 0.678
+        },
+        {
+          "text": "the",
+          "start": 36.58,
+          "end": 36.76,
+          "confidence": 0.819
+        },
+        {
+          "text": "last",
+          "start": 36.76,
+          "end": 37.04,
+          "confidence": 0.811
+        },
+        {
+          "text": "person",
+          "start": 37.04,
+          "end": 37.56,
+          "confidence": 0.821
+        },
+        {
+          "text": "didn't",
+          "start": 37.56,
+          "end": 37.94,
+          "confidence": 0.935
+        },
+        {
+          "text": "come",
+          "start": 37.94,
+          "end": 38.18,
+          "confidence": 0.723
+        },
+        {
+          "text": "up",
+          "start": 38.18,
+          "end": 38.4,
+          "confidence": 0.694
+        },
+        {
+          "text": "[*]",
+          "start": 42.9,
+          "end": 44.45,
+          "confidence": 0
+        },
+        {
+          "text": "okay",
+          "start": 45.75,
+          "end": 45.89,
+          "confidence": 0.067
+        },
+        {
+          "text": "[*]",
+          "start": 45.89,
+          "end": 46.5,
+          "confidence": 0
+        },
+        {
+          "text": "so",
+          "start": 47.67,
+          "end": 47.87,
+          "confidence": 0.736
+        },
+        {
+          "text": "how's",
+          "start": 47.87,
+          "end": 48.23,
+          "confidence": 0.934
+        },
+        {
+          "text": "the",
+          "start": 48.23,
+          "end": 48.37,
+          "confidence": 0.819
+        },
+        {
+          "text": "research",
+          "start": 48.37,
+          "end": 48.77,
+          "confidence": 0.782
+        },
+        {
+          "text": "going",
+          "start": 48.77,
+          "end": 49.13,
+          "confidence": 0.804
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2012,
+      "start": 49.13,
+      "end": 91.86,
+      "text": " yes the wind's all right yeah okay okay bye",
+      "tokens": [
+        50368,
+        2086,
+        264,
+        2468,
+        311,
+        439,
+        558,
+        1338,
+        1392,
+        1392,
+        6543,
+        51048
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7425032395582932,
+      "compression_ratio": 0.9347826086956522,
+      "no_speech_prob": 0.07990210503339767,
+      "confidence": 0.445,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 49.13,
+          "end": 50.07,
+          "confidence": 0
+        },
+        {
+          "text": "yes",
+          "start": 50.07,
+          "end": 50.61,
+          "confidence": 0.307
+        },
+        {
+          "text": "the",
+          "start": 50.61,
+          "end": 50.89,
+          "confidence": 0.516
+        },
+        {
+          "text": "wind's",
+          "start": 50.89,
+          "end": 51.21,
+          "confidence": 0.421
+        },
+        {
+          "text": "all",
+          "start": 51.21,
+          "end": 51.35,
+          "confidence": 0.344
+        },
+        {
+          "text": "right",
+          "start": 51.35,
+          "end": 51.67,
+          "confidence": 0.847
+        },
+        {
+          "text": "[*]",
+          "start": 56.0,
+          "end": 57.3,
+          "confidence": 0
+        },
+        {
+          "text": "yeah",
+          "start": 67.59,
+          "end": 67.79,
+          "confidence": 0.32
+        },
+        {
+          "text": "[*]",
+          "start": 73.15,
+          "end": 75.4,
+          "confidence": 0
+        },
+        {
+          "text": "okay",
+          "start": 86.92,
+          "end": 87.24,
+          "confidence": 0.561
+        },
+        {
+          "text": "[*]",
+          "start": 87.24,
+          "end": 87.8,
+          "confidence": 0
+        },
+        {
+          "text": "okay",
+          "start": 87.8,
+          "end": 88.08,
+          "confidence": 0.549
+        },
+        {
+          "text": "[*]",
+          "start": 91.15,
+          "end": 91.72,
+          "confidence": 0
+        },
+        {
+          "text": "bye",
+          "start": 91.72,
+          "end": 91.86,
+          "confidence": 0.38
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

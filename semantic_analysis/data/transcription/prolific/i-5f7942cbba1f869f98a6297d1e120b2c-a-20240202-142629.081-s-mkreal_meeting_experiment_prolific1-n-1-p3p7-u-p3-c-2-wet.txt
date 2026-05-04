@@ -1,0 +1,471 @@
+{
+  "text": " Hiya, can you hear me now? No. What a pain. Sound. No, still no sound. Sorry about this. I'm trying to think. Going on the camera a bit. Chatting to Android. I'm sorry about this. I'll try and refresh one more time. Android sound.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 8.85,
+      "end": 34.91,
+      "text": " Hiya, can you hear me now? No. What a pain. Sound. No, still no sound. Sorry about this.",
+      "tokens": [
+        50364,
+        2421,
+        3016,
+        11,
+        393,
+        291,
+        1568,
+        385,
+        586,
+        30,
+        883,
+        13,
+        708,
+        257,
+        1822,
+        13,
+        14673,
+        13,
+        883,
+        11,
+        920,
+        572,
+        1626,
+        13,
+        4919,
+        466,
+        341,
+        13,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4579054309475806,
+      "compression_ratio": 1.035294117647059,
+      "no_speech_prob": 0.07593564689159393,
+      "confidence": 0.692,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 8.85,
+          "end": 10.43,
+          "confidence": 0
+        },
+        {
+          "text": "Hiya,",
+          "start": 10.43,
+          "end": 10.71,
+          "confidence": 0.396
+        },
+        {
+          "text": "can",
+          "start": 10.79,
+          "end": 10.91,
+          "confidence": 0.886
+        },
+        {
+          "text": "you",
+          "start": 10.91,
+          "end": 11.01,
+          "confidence": 0.911
+        },
+        {
+          "text": "hear",
+          "start": 11.01,
+          "end": 11.13,
+          "confidence": 0.886
+        },
+        {
+          "text": "me",
+          "start": 11.13,
+          "end": 11.23,
+          "confidence": 0.907
+        },
+        {
+          "text": "now?",
+          "start": 11.23,
+          "end": 11.51,
+          "confidence": 0.897
+        },
+        {
+          "text": "[*]",
+          "start": 11.51,
+          "end": 12.05,
+          "confidence": 0
+        },
+        {
+          "text": "No.",
+          "start": 12.53,
+          "end": 12.99,
+          "confidence": 0.422
+        },
+        {
+          "text": "[*]",
+          "start": 15.01,
+          "end": 18.75,
+          "confidence": 0
+        },
+        {
+          "text": "What",
+          "start": 18.75,
+          "end": 18.93,
+          "confidence": 0.501
+        },
+        {
+          "text": "a",
+          "start": 18.93,
+          "end": 19.07,
+          "confidence": 0.975
+        },
+        {
+          "text": "pain.",
+          "start": 19.07,
+          "end": 19.51,
+          "confidence": 0.858
+        },
+        {
+          "text": "[*]",
+          "start": 24.92,
+          "end": 26.6,
+          "confidence": 0
+        },
+        {
+          "text": "Sound.",
+          "start": 28.33,
+          "end": 28.57,
+          "confidence": 0.424
+        },
+        {
+          "text": "[*]",
+          "start": 31.71,
+          "end": 32.51,
+          "confidence": 0
+        },
+        {
+          "text": "No,",
+          "start": 32.51,
+          "end": 32.85,
+          "confidence": 0.8
+        },
+        {
+          "text": "still",
+          "start": 32.97,
+          "end": 33.21,
+          "confidence": 0.818
+        },
+        {
+          "text": "no",
+          "start": 33.21,
+          "end": 33.39,
+          "confidence": 0.893
+        },
+        {
+          "text": "sound.",
+          "start": 33.39,
+          "end": 33.81,
+          "confidence": 0.728
+        },
+        {
+          "text": "Sorry",
+          "start": 34.03,
+          "end": 34.33,
+          "confidence": 0.728
+        },
+        {
+          "text": "about",
+          "start": 34.33,
+          "end": 34.55,
+          "confidence": 0.841
+        },
+        {
+          "text": "this.",
+          "start": 34.55,
+          "end": 34.91,
+          "confidence": 0.915
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 2900,
+      "start": 36.05,
+      "end": 57.84,
+      "text": " I'm trying to think. Going on the camera a bit. Chatting to Android. I'm sorry about",
+      "tokens": [
+        50364,
+        286,
+        478,
+        1382,
+        281,
+        519,
+        13,
+        10963,
+        322,
+        264,
+        2799,
+        257,
+        857,
+        13,
+        27503,
+        783,
+        281,
+        8853,
+        13,
+        286,
+        478,
+        2597,
+        466,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.46680636283678884,
+      "compression_ratio": 1.2115384615384615,
+      "no_speech_prob": 0.5715115666389465,
+      "confidence": 0.507,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 36.05,
+          "end": 40.19,
+          "confidence": 0.355
+        },
+        {
+          "text": "trying",
+          "start": 40.19,
+          "end": 40.35,
+          "confidence": 0.561
+        },
+        {
+          "text": "to",
+          "start": 40.35,
+          "end": 40.53,
+          "confidence": 0.891
+        },
+        {
+          "text": "think.",
+          "start": 40.53,
+          "end": 40.83,
+          "confidence": 0.44
+        },
+        {
+          "text": "Going",
+          "start": 41.31,
+          "end": 41.73,
+          "confidence": 0.405
+        },
+        {
+          "text": "on",
+          "start": 41.73,
+          "end": 41.89,
+          "confidence": 0.893
+        },
+        {
+          "text": "the",
+          "start": 41.89,
+          "end": 42.03,
+          "confidence": 0.806
+        },
+        {
+          "text": "camera",
+          "start": 42.03,
+          "end": 42.33,
+          "confidence": 0.851
+        },
+        {
+          "text": "a",
+          "start": 42.33,
+          "end": 42.55,
+          "confidence": 0.342
+        },
+        {
+          "text": "bit.",
+          "start": 42.55,
+          "end": 42.69,
+          "confidence": 0.854
+        },
+        {
+          "text": "[*]",
+          "start": 42.69,
+          "end": 43.59,
+          "confidence": 0
+        },
+        {
+          "text": "Chatting",
+          "start": 46.25,
+          "end": 46.88,
+          "confidence": 0.313
+        },
+        {
+          "text": "to",
+          "start": 46.88,
+          "end": 47.08,
+          "confidence": 0.863
+        },
+        {
+          "text": "Android.",
+          "start": 47.08,
+          "end": 47.52,
+          "confidence": 0.439
+        },
+        {
+          "text": "[*]",
+          "start": 47.52,
+          "end": 49.3,
+          "confidence": 0
+        },
+        {
+          "text": "I'm",
+          "start": 49.3,
+          "end": 50.32,
+          "confidence": 0.322
+        },
+        {
+          "text": "[*]",
+          "start": 50.32,
+          "end": 52.02,
+          "confidence": 0
+        },
+        {
+          "text": "sorry",
+          "start": 52.02,
+          "end": 52.5,
+          "confidence": 0.315
+        },
+        {
+          "text": "[*]",
+          "start": 52.5,
+          "end": 54.25,
+          "confidence": 0
+        },
+        {
+          "text": "about",
+          "start": 57.54,
+          "end": 57.84,
+          "confidence": 0.794
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2900,
+      "start": 57.84,
+      "end": 61.89,
+      "text": " this. I'll try and refresh one more time.",
+      "tokens": [
+        51264,
+        341,
+        13,
+        286,
+        603,
+        853,
+        293,
+        15134,
+        472,
+        544,
+        565,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.46680636283678884,
+      "compression_ratio": 1.2115384615384615,
+      "no_speech_prob": 0.5715115666389465,
+      "confidence": 0.677,
+      "words": [
+        {
+          "text": "this.",
+          "start": 57.84,
+          "end": 58.18,
+          "confidence": 0.306
+        },
+        {
+          "text": "[*]",
+          "start": 59.25,
+          "end": 59.49,
+          "confidence": 0
+        },
+        {
+          "text": "I'll",
+          "start": 59.49,
+          "end": 60.51,
+          "confidence": 0.863
+        },
+        {
+          "text": "try",
+          "start": 60.51,
+          "end": 60.65,
+          "confidence": 0.845
+        },
+        {
+          "text": "and",
+          "start": 60.65,
+          "end": 60.79,
+          "confidence": 0.853
+        },
+        {
+          "text": "refresh",
+          "start": 60.79,
+          "end": 61.09,
+          "confidence": 0.808
+        },
+        {
+          "text": "one",
+          "start": 61.09,
+          "end": 61.29,
+          "confidence": 0.713
+        },
+        {
+          "text": "more",
+          "start": 61.29,
+          "end": 61.51,
+          "confidence": 0.882
+        },
+        {
+          "text": "time.",
+          "start": 61.51,
+          "end": 61.89,
+          "confidence": 0.736
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 5400,
+      "start": 65.2,
+      "end": 66.28,
+      "text": " Android sound.",
+      "tokens": [
+        50364,
+        8853,
+        1626,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6549146970113119,
+      "compression_ratio": 0.6363636363636364,
+      "no_speech_prob": 0.9182565808296204,
+      "confidence": 0.008,
+      "words": [
+        {
+          "text": "Android",
+          "start": 65.2,
+          "end": 65.48,
+          "confidence": 0.0
+        },
+        {
+          "text": "[*]",
+          "start": 65.48,
+          "end": 66.18,
+          "confidence": 0
+        },
+        {
+          "text": "sound.",
+          "start": 66.18,
+          "end": 66.28,
+          "confidence": 0.167
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

@@ -1,0 +1,272 @@
+{
+  "text": " Hello. Hello. Hello. Can you hear me please? Hello. Autopilot ON We'll get to that later.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 0.4,
+      "text": " Hello.",
+      "tokens": [
+        50364,
+        2425,
+        13,
+        50414
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.400047779083252,
+      "compression_ratio": 0.42857142857142855,
+      "no_speech_prob": 0.2901436388492584,
+      "confidence": 0.005,
+      "words": [
+        {
+          "text": "Hello.",
+          "start": 0.0,
+          "end": 0.4,
+          "confidence": 0.005
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 100,
+      "start": 0.5,
+      "end": 0.76,
+      "text": " Hello.",
+      "tokens": [
+        50364,
+        2425,
+        13,
+        50464
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.7012377239408947,
+      "compression_ratio": 1.0476190476190477,
+      "no_speech_prob": 0.36736759543418884,
+      "confidence": 0.008,
+      "words": [
+        {
+          "text": "Hello.",
+          "start": 0.5,
+          "end": 0.76,
+          "confidence": 0.008
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 100,
+      "start": 10.5,
+      "end": 13.0,
+      "text": " Hello.",
+      "tokens": [
+        50864,
+        2425,
+        13,
+        50964
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.7012377239408947,
+      "compression_ratio": 1.0476190476190477,
+      "no_speech_prob": 0.36736759543418884,
+      "confidence": 0.218,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 10.5,
+          "end": 12.66,
+          "confidence": 0
+        },
+        {
+          "text": "Hello.",
+          "start": 12.66,
+          "end": 13.0,
+          "confidence": 0.218
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 100,
+      "start": 16.5,
+      "end": 19.38,
+      "text": " Can you hear me please?",
+      "tokens": [
+        51164,
+        1664,
+        291,
+        1568,
+        385,
+        1767,
+        30,
+        51264
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.7012377239408947,
+      "compression_ratio": 1.0476190476190477,
+      "no_speech_prob": 0.36736759543418884,
+      "confidence": 0.272,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 16.5,
+          "end": 18.44,
+          "confidence": 0
+        },
+        {
+          "text": "Can",
+          "start": 18.44,
+          "end": 18.62,
+          "confidence": 0.047
+        },
+        {
+          "text": "you",
+          "start": 18.62,
+          "end": 18.78,
+          "confidence": 0.735
+        },
+        {
+          "text": "hear",
+          "start": 18.78,
+          "end": 18.92,
+          "confidence": 0.655
+        },
+        {
+          "text": "me",
+          "start": 18.92,
+          "end": 19.12,
+          "confidence": 0.267
+        },
+        {
+          "text": "please?",
+          "start": 19.12,
+          "end": 19.38,
+          "confidence": 0.259
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 100,
+      "start": 27.4,
+      "end": 27.7,
+      "text": " Hello.",
+      "tokens": [
+        51614,
+        2425,
+        13,
+        51714
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.7012377239408947,
+      "compression_ratio": 1.0476190476190477,
+      "no_speech_prob": 0.36736759543418884,
+      "confidence": 0.294,
+      "words": [
+        {
+          "text": "Hello.",
+          "start": 27.4,
+          "end": 27.7,
+          "confidence": 0.294
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 3100,
+      "start": 30.5,
+      "end": 31.24,
+      "text": " Autopilot ON",
+      "tokens": [
+        50364,
+        6049,
+        404,
+        31516,
+        9299,
+        50396
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.925074713570731,
+      "compression_ratio": 0.6,
+      "no_speech_prob": 0.5653560161590576,
+      "confidence": 0.013,
+      "words": [
+        {
+          "text": "Autopilot",
+          "start": 30.5,
+          "end": 30.8,
+          "confidence": 0.012
+        },
+        {
+          "text": "ON",
+          "start": 30.8,
+          "end": 31.24,
+          "confidence": 0.018
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 21100,
+      "start": 233.1,
+      "end": 235.82,
+      "text": " We'll get to that later.",
+      "tokens": [
+        50364,
+        492,
+        603,
+        483,
+        220,
+        1353,
+        300,
+        1780,
+        13,
+        51860
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.1570752461751304,
+      "compression_ratio": 0.75,
+      "no_speech_prob": 0.5921030640602112,
+      "confidence": 0.081,
+      "words": [
+        {
+          "text": "We'll",
+          "start": 233.1,
+          "end": 233.12,
+          "confidence": 0.013
+        },
+        {
+          "text": "[*]",
+          "start": 233.12,
+          "end": 234.14,
+          "confidence": 0
+        },
+        {
+          "text": "get",
+          "start": 234.14,
+          "end": 234.32,
+          "confidence": 0.051
+        },
+        {
+          "text": "to",
+          "start": 234.32,
+          "end": 235.0,
+          "confidence": 0.084
+        },
+        {
+          "text": "that",
+          "start": 235.0,
+          "end": 235.02,
+          "confidence": 0.458
+        },
+        {
+          "text": "later.",
+          "start": 235.02,
+          "end": 235.82,
+          "confidence": 0.259
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

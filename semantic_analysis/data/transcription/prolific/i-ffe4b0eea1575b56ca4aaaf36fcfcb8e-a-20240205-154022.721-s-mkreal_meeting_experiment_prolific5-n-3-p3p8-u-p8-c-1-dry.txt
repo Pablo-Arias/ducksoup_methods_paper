@@ -1,0 +1,171 @@
+{
+  "text": " Hi! How are you? I'm fine, and you? Okay. Do you have the moon?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.25,
+      "end": 22.23,
+      "text": " Hi! How are you? I'm fine, and you? Okay.",
+      "tokens": [
+        50364,
+        2421,
+        0,
+        1012,
+        366,
+        291,
+        30,
+        286,
+        478,
+        2489,
+        11,
+        293,
+        291,
+        30,
+        1033,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6923362330386513,
+      "compression_ratio": 0.9111111111111111,
+      "no_speech_prob": 0.20077693462371826,
+      "confidence": 0.553,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 0.25,
+          "end": 12.11,
+          "confidence": 0
+        },
+        {
+          "text": "Hi!",
+          "start": 12.11,
+          "end": 12.49,
+          "confidence": 0.187
+        },
+        {
+          "text": "[*]",
+          "start": 12.49,
+          "end": 13.25,
+          "confidence": 0
+        },
+        {
+          "text": "How",
+          "start": 13.25,
+          "end": 13.73,
+          "confidence": 0.432
+        },
+        {
+          "text": "are",
+          "start": 13.73,
+          "end": 13.85,
+          "confidence": 0.912
+        },
+        {
+          "text": "you?",
+          "start": 13.85,
+          "end": 14.03,
+          "confidence": 0.915
+        },
+        {
+          "text": "[*]",
+          "start": 15.51,
+          "end": 15.77,
+          "confidence": 0
+        },
+        {
+          "text": "I'm",
+          "start": 15.77,
+          "end": 16.03,
+          "confidence": 0.756
+        },
+        {
+          "text": "fine,",
+          "start": 16.03,
+          "end": 16.25,
+          "confidence": 0.578
+        },
+        {
+          "text": "and",
+          "start": 16.31,
+          "end": 16.41,
+          "confidence": 0.548
+        },
+        {
+          "text": "you?",
+          "start": 16.41,
+          "end": 16.53,
+          "confidence": 0.939
+        },
+        {
+          "text": "[*]",
+          "start": 21.47,
+          "end": 21.85,
+          "confidence": 0
+        },
+        {
+          "text": "Okay.",
+          "start": 21.85,
+          "end": 22.23,
+          "confidence": 0.36
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 2000,
+      "start": 23.37,
+      "end": 24.03,
+      "text": " Do you have the moon?",
+      "tokens": [
+        50364,
+        1144,
+        291,
+        362,
+        264,
+        7135,
+        30,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7281961970859103,
+      "compression_ratio": 0.7241379310344828,
+      "no_speech_prob": 0.12998777627944946,
+      "confidence": 0.215,
+      "words": [
+        {
+          "text": "Do",
+          "start": 23.37,
+          "end": 23.63,
+          "confidence": 0.003
+        },
+        {
+          "text": "you",
+          "start": 23.63,
+          "end": 23.65,
+          "confidence": 0.755
+        },
+        {
+          "text": "have",
+          "start": 23.65,
+          "end": 23.77,
+          "confidence": 0.448
+        },
+        {
+          "text": "the",
+          "start": 23.77,
+          "end": 23.87,
+          "confidence": 0.256
+        },
+        {
+          "text": "moon?",
+          "start": 23.87,
+          "end": 24.03,
+          "confidence": 0.614
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

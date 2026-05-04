@@ -1,0 +1,701 @@
+{
+  "text": " hello you're back hello can you hear me yes I was gonna say froze for quite a while yeah I couldn't it was just there was just like a still image I don't know it's it technology is a nightmare isn't it yeah it's one of these things isn't it you know especially if there's things like bad weather that as well I get that here where I live because especially and I mean I've got I've got storm",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 6.95,
+      "end": 32.7,
+      "text": " hello you're back hello can you hear me yes I was gonna say froze for quite a",
+      "tokens": [
+        50364,
+        7751,
+        291,
+        434,
+        646,
+        7751,
+        393,
+        291,
+        1568,
+        385,
+        2086,
+        286,
+        390,
+        799,
+        584,
+        46077,
+        337,
+        1596,
+        257,
+        50703
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2762740261583443,
+      "compression_ratio": 1.6528497409326426,
+      "no_speech_prob": 0.35001978278160095,
+      "confidence": 0.69,
+      "words": [
+        {
+          "text": "hello",
+          "start": 6.95,
+          "end": 7.61,
+          "confidence": 0.314
+        },
+        {
+          "text": "you're",
+          "start": 7.61,
+          "end": 7.89,
+          "confidence": 0.452
+        },
+        {
+          "text": "back",
+          "start": 7.89,
+          "end": 8.17,
+          "confidence": 0.838
+        },
+        {
+          "text": "[*]",
+          "start": 8.17,
+          "end": 8.55,
+          "confidence": 0
+        },
+        {
+          "text": "hello",
+          "start": 26.72,
+          "end": 27.06,
+          "confidence": 0.647
+        },
+        {
+          "text": "can",
+          "start": 27.06,
+          "end": 27.32,
+          "confidence": 0.864
+        },
+        {
+          "text": "you",
+          "start": 27.32,
+          "end": 27.42,
+          "confidence": 0.902
+        },
+        {
+          "text": "hear",
+          "start": 27.42,
+          "end": 27.6,
+          "confidence": 0.889
+        },
+        {
+          "text": "me",
+          "start": 27.6,
+          "end": 28.06,
+          "confidence": 0.908
+        },
+        {
+          "text": "[*]",
+          "start": 29.2,
+          "end": 30.64,
+          "confidence": 0
+        },
+        {
+          "text": "yes",
+          "start": 30.64,
+          "end": 30.76,
+          "confidence": 0.687
+        },
+        {
+          "text": "I",
+          "start": 30.76,
+          "end": 31.16,
+          "confidence": 0.9
+        },
+        {
+          "text": "was",
+          "start": 31.16,
+          "end": 31.26,
+          "confidence": 0.898
+        },
+        {
+          "text": "gonna",
+          "start": 31.26,
+          "end": 31.4,
+          "confidence": 0.719
+        },
+        {
+          "text": "say",
+          "start": 31.4,
+          "end": 31.6,
+          "confidence": 0.616
+        },
+        {
+          "text": "froze",
+          "start": 31.6,
+          "end": 32.0,
+          "confidence": 0.302
+        },
+        {
+          "text": "for",
+          "start": 32.0,
+          "end": 32.24,
+          "confidence": 0.886
+        },
+        {
+          "text": "quite",
+          "start": 32.24,
+          "end": 32.54,
+          "confidence": 0.894
+        },
+        {
+          "text": "a",
+          "start": 32.54,
+          "end": 32.7,
+          "confidence": 0.979
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 36.34,
+      "end": 41.14,
+      "text": " while yeah I couldn't it was just there was just like a still image I don't know",
+      "tokens": [
+        50703,
+        1339,
+        1338,
+        286,
+        2809,
+        380,
+        309,
+        390,
+        445,
+        456,
+        390,
+        445,
+        411,
+        257,
+        920,
+        3256,
+        286,
+        500,
+        380,
+        458,
+        51135
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2762740261583443,
+      "compression_ratio": 1.6528497409326426,
+      "no_speech_prob": 0.35001978278160095,
+      "confidence": 0.665,
+      "words": [
+        {
+          "text": "while",
+          "start": 36.34,
+          "end": 36.36,
+          "confidence": 0.202
+        },
+        {
+          "text": "yeah",
+          "start": 36.36,
+          "end": 36.6,
+          "confidence": 0.243
+        },
+        {
+          "text": "I",
+          "start": 36.6,
+          "end": 36.76,
+          "confidence": 0.813
+        },
+        {
+          "text": "couldn't",
+          "start": 36.76,
+          "end": 37.08,
+          "confidence": 0.879
+        },
+        {
+          "text": "it",
+          "start": 37.08,
+          "end": 37.2,
+          "confidence": 0.774
+        },
+        {
+          "text": "was",
+          "start": 37.2,
+          "end": 37.3,
+          "confidence": 0.827
+        },
+        {
+          "text": "just",
+          "start": 37.3,
+          "end": 37.44,
+          "confidence": 0.878
+        },
+        {
+          "text": "there",
+          "start": 37.44,
+          "end": 37.62,
+          "confidence": 0.254
+        },
+        {
+          "text": "was",
+          "start": 37.62,
+          "end": 37.74,
+          "confidence": 0.767
+        },
+        {
+          "text": "just",
+          "start": 37.74,
+          "end": 37.9,
+          "confidence": 0.835
+        },
+        {
+          "text": "like",
+          "start": 37.9,
+          "end": 38.26,
+          "confidence": 0.444
+        },
+        {
+          "text": "a",
+          "start": 38.26,
+          "end": 38.64,
+          "confidence": 0.976
+        },
+        {
+          "text": "[*]",
+          "start": 38.64,
+          "end": 39.04,
+          "confidence": 0
+        },
+        {
+          "text": "still",
+          "start": 39.04,
+          "end": 39.18,
+          "confidence": 0.928
+        },
+        {
+          "text": "image",
+          "start": 39.18,
+          "end": 39.64,
+          "confidence": 0.824
+        },
+        {
+          "text": "[*]",
+          "start": 39.64,
+          "end": 40.02,
+          "confidence": 0
+        },
+        {
+          "text": "I",
+          "start": 40.02,
+          "end": 40.32,
+          "confidence": 0.828
+        },
+        {
+          "text": "don't",
+          "start": 40.32,
+          "end": 41.0,
+          "confidence": 0.865
+        },
+        {
+          "text": "know",
+          "start": 41.0,
+          "end": 41.14,
+          "confidence": 0.747
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 41.14,
+      "end": 52.71,
+      "text": " it's it technology is a nightmare isn't it yeah it's one of these things isn't",
+      "tokens": [
+        51135,
+        309,
+        311,
+        309,
+        2899,
+        307,
+        257,
+        18724,
+        1943,
+        380,
+        309,
+        1338,
+        309,
+        311,
+        472,
+        295,
+        613,
+        721,
+        1943,
+        380,
+        51507
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2762740261583443,
+      "compression_ratio": 1.6528497409326426,
+      "no_speech_prob": 0.35001978278160095,
+      "confidence": 0.717,
+      "words": [
+        {
+          "text": "it's",
+          "start": 41.14,
+          "end": 41.46,
+          "confidence": 0.373
+        },
+        {
+          "text": "it",
+          "start": 41.46,
+          "end": 41.66,
+          "confidence": 0.234
+        },
+        {
+          "text": "technology",
+          "start": 41.66,
+          "end": 42.16,
+          "confidence": 0.798
+        },
+        {
+          "text": "is",
+          "start": 42.16,
+          "end": 42.38,
+          "confidence": 0.864
+        },
+        {
+          "text": "a",
+          "start": 42.38,
+          "end": 42.52,
+          "confidence": 0.983
+        },
+        {
+          "text": "nightmare",
+          "start": 42.52,
+          "end": 42.84,
+          "confidence": 0.809
+        },
+        {
+          "text": "isn't",
+          "start": 42.84,
+          "end": 43.32,
+          "confidence": 0.924
+        },
+        {
+          "text": "it",
+          "start": 43.32,
+          "end": 43.56,
+          "confidence": 0.888
+        },
+        {
+          "text": "[*]",
+          "start": 45.45,
+          "end": 46.7,
+          "confidence": 0
+        },
+        {
+          "text": "yeah",
+          "start": 49.95,
+          "end": 50.33,
+          "confidence": 0.472
+        },
+        {
+          "text": "[*]",
+          "start": 50.33,
+          "end": 51.27,
+          "confidence": 0
+        },
+        {
+          "text": "it's",
+          "start": 51.27,
+          "end": 51.47,
+          "confidence": 0.906
+        },
+        {
+          "text": "one",
+          "start": 51.47,
+          "end": 51.61,
+          "confidence": 0.811
+        },
+        {
+          "text": "of",
+          "start": 51.61,
+          "end": 51.73,
+          "confidence": 0.911
+        },
+        {
+          "text": "these",
+          "start": 51.73,
+          "end": 51.93,
+          "confidence": 0.711
+        },
+        {
+          "text": "things",
+          "start": 51.93,
+          "end": 52.33,
+          "confidence": 0.744
+        },
+        {
+          "text": "isn't",
+          "start": 52.33,
+          "end": 52.71,
+          "confidence": 0.93
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 52.71,
+      "end": 58.56,
+      "text": " it you know especially if there's things like bad weather that as well I get that",
+      "tokens": [
+        51507,
+        309,
+        291,
+        458,
+        2318,
+        498,
+        456,
+        311,
+        721,
+        411,
+        1578,
+        5503,
+        300,
+        382,
+        731,
+        286,
+        483,
+        300,
+        51735
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2762740261583443,
+      "compression_ratio": 1.6528497409326426,
+      "no_speech_prob": 0.35001978278160095,
+      "confidence": 0.577,
+      "words": [
+        {
+          "text": "it",
+          "start": 52.71,
+          "end": 52.93,
+          "confidence": 0.106
+        },
+        {
+          "text": "[*]",
+          "start": 52.93,
+          "end": 53.51,
+          "confidence": 0
+        },
+        {
+          "text": "you",
+          "start": 54.8,
+          "end": 55.4,
+          "confidence": 0.078
+        },
+        {
+          "text": "know",
+          "start": 55.4,
+          "end": 55.58,
+          "confidence": 0.828
+        },
+        {
+          "text": "especially",
+          "start": 55.58,
+          "end": 56.0,
+          "confidence": 0.627
+        },
+        {
+          "text": "if",
+          "start": 56.0,
+          "end": 56.2,
+          "confidence": 0.741
+        },
+        {
+          "text": "there's",
+          "start": 56.2,
+          "end": 56.32,
+          "confidence": 0.679
+        },
+        {
+          "text": "things",
+          "start": 56.32,
+          "end": 56.52,
+          "confidence": 0.725
+        },
+        {
+          "text": "like",
+          "start": 56.52,
+          "end": 56.74,
+          "confidence": 0.847
+        },
+        {
+          "text": "bad",
+          "start": 56.74,
+          "end": 57.0,
+          "confidence": 0.875
+        },
+        {
+          "text": "weather",
+          "start": 57.0,
+          "end": 57.3,
+          "confidence": 0.872
+        },
+        {
+          "text": "that",
+          "start": 57.3,
+          "end": 57.54,
+          "confidence": 0.54
+        },
+        {
+          "text": "as",
+          "start": 57.54,
+          "end": 57.72,
+          "confidence": 0.758
+        },
+        {
+          "text": "well",
+          "start": 57.72,
+          "end": 57.9,
+          "confidence": 0.879
+        },
+        {
+          "text": "I",
+          "start": 57.9,
+          "end": 58.06,
+          "confidence": 0.813
+        },
+        {
+          "text": "get",
+          "start": 58.06,
+          "end": 58.3,
+          "confidence": 0.849
+        },
+        {
+          "text": "that",
+          "start": 58.3,
+          "end": 58.56,
+          "confidence": 0.502
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2742,
+      "start": 58.56,
+      "end": 62.44,
+      "text": " here where I live because especially and I mean I've got I've got storm",
+      "tokens": [
+        50364,
+        510,
+        689,
+        286,
+        1621,
+        570,
+        2318,
+        293,
+        286,
+        914,
+        286,
+        600,
+        658,
+        286,
+        600,
+        658,
+        7679,
+        50678
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4695218236822831,
+      "compression_ratio": 1.0757575757575757,
+      "no_speech_prob": 0.8648719787597656,
+      "confidence": 0.63,
+      "words": [
+        {
+          "text": "here",
+          "start": 58.56,
+          "end": 58.78,
+          "confidence": 0.513
+        },
+        {
+          "text": "where",
+          "start": 58.78,
+          "end": 58.98,
+          "confidence": 0.801
+        },
+        {
+          "text": "I",
+          "start": 58.98,
+          "end": 59.18,
+          "confidence": 0.945
+        },
+        {
+          "text": "live",
+          "start": 59.18,
+          "end": 59.48,
+          "confidence": 0.885
+        },
+        {
+          "text": "because",
+          "start": 59.48,
+          "end": 59.74,
+          "confidence": 0.415
+        },
+        {
+          "text": "especially",
+          "start": 59.74,
+          "end": 60.18,
+          "confidence": 0.335
+        },
+        {
+          "text": "and",
+          "start": 60.18,
+          "end": 60.44,
+          "confidence": 0.311
+        },
+        {
+          "text": "I",
+          "start": 60.44,
+          "end": 60.56,
+          "confidence": 0.943
+        },
+        {
+          "text": "mean",
+          "start": 60.56,
+          "end": 60.68,
+          "confidence": 0.781
+        },
+        {
+          "text": "I've",
+          "start": 60.68,
+          "end": 60.92,
+          "confidence": 0.909
+        },
+        {
+          "text": "got",
+          "start": 60.92,
+          "end": 61.1,
+          "confidence": 0.887
+        },
+        {
+          "text": "I've",
+          "start": 61.1,
+          "end": 61.88,
+          "confidence": 0.634
+        },
+        {
+          "text": "got",
+          "start": 61.88,
+          "end": 62.04,
+          "confidence": 0.89
+        },
+        {
+          "text": "storm",
+          "start": 62.04,
+          "end": 62.44,
+          "confidence": 0.216
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

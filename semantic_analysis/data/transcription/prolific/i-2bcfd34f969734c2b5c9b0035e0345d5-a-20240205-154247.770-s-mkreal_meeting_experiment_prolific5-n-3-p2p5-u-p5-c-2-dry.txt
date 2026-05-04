@@ -1,0 +1,32 @@
+{
+  "text": " Hello.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 3000,
+      "start": 55.82,
+      "end": 56.14,
+      "text": " Hello.",
+      "tokens": [
+        50364,
+        2425,
+        13,
+        51728
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.7562931378682454,
+      "compression_ratio": 0.42857142857142855,
+      "no_speech_prob": 0.495272696018219,
+      "confidence": 0.271,
+      "words": [
+        {
+          "text": "Hello.",
+          "start": 55.82,
+          "end": 56.14,
+          "confidence": 0.271
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

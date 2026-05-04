@@ -1,0 +1,791 @@
+{
+  "text": " Hi. Hi, Sue. Can you hear me now? Yeah. I'm all right. How about you? I'm good. Nice to meet you, Sue. Finally. Happy New Year. Happy New Year, Sue. Oh, it's so nice to meet you. Yeah, yeah. I can't wait for it to be over. It's so cool. I have multiple layers on. Yeah, yeah. Yeah, definitely. I'm about to do it, Sue. Happy New Year. It's all right. Yeah, sure, sure. Lovely to see you too.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 8.95,
+      "end": 23.33,
+      "text": " Hi. Hi, Sue. Can you hear me now? Yeah. I'm all right. How about you? I'm good. Nice to meet you, Sue.",
+      "tokens": [
+        50364,
+        2421,
+        13,
+        2421,
+        11,
+        25332,
+        13,
+        1664,
+        291,
+        1568,
+        385,
+        586,
+        30,
+        865,
+        13,
+        286,
+        478,
+        439,
+        558,
+        13,
+        1012,
+        466,
+        291,
+        30,
+        286,
+        478,
+        665,
+        13,
+        5490,
+        281,
+        1677,
+        291,
+        11,
+        25332,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3502789296601948,
+      "compression_ratio": 1.5,
+      "no_speech_prob": 0.1429702639579773,
+      "confidence": 0.73,
+      "words": [
+        {
+          "text": "Hi.",
+          "start": 8.95,
+          "end": 9.75,
+          "confidence": 0.461
+        },
+        {
+          "text": "[*]",
+          "start": 10.45,
+          "end": 10.8,
+          "confidence": 0
+        },
+        {
+          "text": "Hi,",
+          "start": 10.8,
+          "end": 11.1,
+          "confidence": 0.509
+        },
+        {
+          "text": "Sue.",
+          "start": 11.2,
+          "end": 11.48,
+          "confidence": 0.893
+        },
+        {
+          "text": "[*]",
+          "start": 11.94,
+          "end": 13.64,
+          "confidence": 0
+        },
+        {
+          "text": "Can",
+          "start": 13.64,
+          "end": 13.78,
+          "confidence": 0.482
+        },
+        {
+          "text": "you",
+          "start": 13.78,
+          "end": 13.94,
+          "confidence": 0.901
+        },
+        {
+          "text": "hear",
+          "start": 13.94,
+          "end": 14.14,
+          "confidence": 0.866
+        },
+        {
+          "text": "me",
+          "start": 14.14,
+          "end": 14.36,
+          "confidence": 0.899
+        },
+        {
+          "text": "now?",
+          "start": 14.36,
+          "end": 14.64,
+          "confidence": 0.921
+        },
+        {
+          "text": "Yeah.",
+          "start": 15.1,
+          "end": 15.5,
+          "confidence": 0.654
+        },
+        {
+          "text": "[*]",
+          "start": 17.4,
+          "end": 17.88,
+          "confidence": 0
+        },
+        {
+          "text": "I'm",
+          "start": 17.88,
+          "end": 19.12,
+          "confidence": 0.732
+        },
+        {
+          "text": "all",
+          "start": 19.12,
+          "end": 19.34,
+          "confidence": 0.434
+        },
+        {
+          "text": "right.",
+          "start": 19.34,
+          "end": 19.72,
+          "confidence": 0.901
+        },
+        {
+          "text": "How",
+          "start": 20.0,
+          "end": 20.22,
+          "confidence": 0.711
+        },
+        {
+          "text": "about",
+          "start": 20.22,
+          "end": 20.44,
+          "confidence": 0.584
+        },
+        {
+          "text": "you?",
+          "start": 20.44,
+          "end": 20.58,
+          "confidence": 0.847
+        },
+        {
+          "text": "I'm",
+          "start": 20.6,
+          "end": 20.74,
+          "confidence": 0.946
+        },
+        {
+          "text": "good.",
+          "start": 20.74,
+          "end": 21.14,
+          "confidence": 0.909
+        },
+        {
+          "text": "[*]",
+          "start": 21.14,
+          "end": 21.6,
+          "confidence": 0
+        },
+        {
+          "text": "Nice",
+          "start": 21.99,
+          "end": 22.49,
+          "confidence": 0.559
+        },
+        {
+          "text": "to",
+          "start": 22.49,
+          "end": 22.67,
+          "confidence": 0.799
+        },
+        {
+          "text": "meet",
+          "start": 22.67,
+          "end": 22.83,
+          "confidence": 0.683
+        },
+        {
+          "text": "you,",
+          "start": 22.83,
+          "end": 23.05,
+          "confidence": 0.593
+        },
+        {
+          "text": "Sue.",
+          "start": 23.29,
+          "end": 23.33,
+          "confidence": 0.971
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 24.15,
+      "end": 40.99,
+      "text": " Finally. Happy New Year. Happy New Year, Sue. Oh, it's so nice to meet you. Yeah, yeah. I can't wait for it to be over.",
+      "tokens": [
+        51114,
+        6288,
+        13,
+        8277,
+        1873,
+        10289,
+        13,
+        8277,
+        1873,
+        10289,
+        11,
+        25332,
+        13,
+        876,
+        11,
+        309,
+        311,
+        370,
+        1481,
+        281,
+        1677,
+        291,
+        13,
+        865,
+        11,
+        1338,
+        13,
+        286,
+        393,
+        380,
+        1699,
+        337,
+        309,
+        281,
+        312,
+        670,
+        13,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3502789296601948,
+      "compression_ratio": 1.5,
+      "no_speech_prob": 0.1429702639579773,
+      "confidence": 0.5,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 24.15,
+          "end": 24.83,
+          "confidence": 0
+        },
+        {
+          "text": "Finally.",
+          "start": 24.83,
+          "end": 25.17,
+          "confidence": 0.298
+        },
+        {
+          "text": "[*]",
+          "start": 25.65,
+          "end": 26.19,
+          "confidence": 0
+        },
+        {
+          "text": "Happy",
+          "start": 26.19,
+          "end": 26.35,
+          "confidence": 0.545
+        },
+        {
+          "text": "New",
+          "start": 26.35,
+          "end": 26.71,
+          "confidence": 0.603
+        },
+        {
+          "text": "Year.",
+          "start": 26.71,
+          "end": 27.07,
+          "confidence": 0.68
+        },
+        {
+          "text": "[*]",
+          "start": 27.27,
+          "end": 27.53,
+          "confidence": 0
+        },
+        {
+          "text": "Happy",
+          "start": 27.53,
+          "end": 28.01,
+          "confidence": 0.43
+        },
+        {
+          "text": "New",
+          "start": 28.01,
+          "end": 28.23,
+          "confidence": 0.832
+        },
+        {
+          "text": "Year,",
+          "start": 28.23,
+          "end": 28.43,
+          "confidence": 0.235
+        },
+        {
+          "text": "Sue.",
+          "start": 28.57,
+          "end": 28.81,
+          "confidence": 0.051
+        },
+        {
+          "text": "[*]",
+          "start": 29.31,
+          "end": 30.87,
+          "confidence": 0
+        },
+        {
+          "text": "Oh,",
+          "start": 30.87,
+          "end": 31.05,
+          "confidence": 0.223
+        },
+        {
+          "text": "[*]",
+          "start": 31.05,
+          "end": 32.99,
+          "confidence": 0
+        },
+        {
+          "text": "it's",
+          "start": 32.99,
+          "end": 33.11,
+          "confidence": 0.883
+        },
+        {
+          "text": "so",
+          "start": 33.11,
+          "end": 33.25,
+          "confidence": 0.889
+        },
+        {
+          "text": "nice",
+          "start": 33.25,
+          "end": 33.49,
+          "confidence": 0.818
+        },
+        {
+          "text": "to",
+          "start": 33.49,
+          "end": 33.65,
+          "confidence": 0.899
+        },
+        {
+          "text": "meet",
+          "start": 33.65,
+          "end": 33.85,
+          "confidence": 0.851
+        },
+        {
+          "text": "you.",
+          "start": 33.85,
+          "end": 34.01,
+          "confidence": 0.931
+        },
+        {
+          "text": "Yeah,",
+          "start": 38.13,
+          "end": 38.63,
+          "confidence": 0.634
+        },
+        {
+          "text": "yeah.",
+          "start": 38.89,
+          "end": 39.17,
+          "confidence": 0.494
+        },
+        {
+          "text": "I",
+          "start": 39.33,
+          "end": 39.49,
+          "confidence": 0.459
+        },
+        {
+          "text": "can't",
+          "start": 39.49,
+          "end": 39.97,
+          "confidence": 0.931
+        },
+        {
+          "text": "wait",
+          "start": 39.97,
+          "end": 40.21,
+          "confidence": 0.81
+        },
+        {
+          "text": "for",
+          "start": 40.21,
+          "end": 40.41,
+          "confidence": 0.484
+        },
+        {
+          "text": "it",
+          "start": 40.41,
+          "end": 40.55,
+          "confidence": 0.562
+        },
+        {
+          "text": "to",
+          "start": 40.55,
+          "end": 40.65,
+          "confidence": 0.787
+        },
+        {
+          "text": "be",
+          "start": 40.65,
+          "end": 40.79,
+          "confidence": 0.443
+        },
+        {
+          "text": "over.",
+          "start": 40.79,
+          "end": 40.99,
+          "confidence": 0.624
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2900,
+      "start": 41.65,
+      "end": 71.41,
+      "text": " It's so cool. I have multiple layers on. Yeah, yeah. Yeah, definitely. I'm about to do it, Sue. Happy New Year. It's all right. Yeah, sure, sure. Lovely to see you too.",
+      "tokens": [
+        50364,
+        467,
+        311,
+        370,
+        1627,
+        13,
+        286,
+        362,
+        3866,
+        7914,
+        322,
+        13,
+        865,
+        11,
+        1338,
+        13,
+        865,
+        11,
+        2138,
+        13,
+        286,
+        478,
+        466,
+        281,
+        360,
+        309,
+        11,
+        25332,
+        13,
+        8277,
+        1873,
+        10289,
+        13,
+        467,
+        311,
+        439,
+        558,
+        13,
+        865,
+        11,
+        988,
+        11,
+        988,
+        13,
+        33925,
+        281,
+        536,
+        291,
+        886,
+        13,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2969362368950477,
+      "compression_ratio": 1.3125,
+      "no_speech_prob": 0.03509097546339035,
+      "confidence": 0.44,
+      "words": [
+        {
+          "text": "It's",
+          "start": 41.65,
+          "end": 43.33,
+          "confidence": 0.522
+        },
+        {
+          "text": "so",
+          "start": 43.33,
+          "end": 43.55,
+          "confidence": 0.88
+        },
+        {
+          "text": "cool.",
+          "start": 43.55,
+          "end": 43.83,
+          "confidence": 0.366
+        },
+        {
+          "text": "I",
+          "start": 43.99,
+          "end": 44.07,
+          "confidence": 0.851
+        },
+        {
+          "text": "have",
+          "start": 44.07,
+          "end": 44.33,
+          "confidence": 0.875
+        },
+        {
+          "text": "[*]",
+          "start": 44.33,
+          "end": 44.77,
+          "confidence": 0
+        },
+        {
+          "text": "multiple",
+          "start": 44.77,
+          "end": 45.25,
+          "confidence": 0.719
+        },
+        {
+          "text": "layers",
+          "start": 45.25,
+          "end": 45.77,
+          "confidence": 0.936
+        },
+        {
+          "text": "on.",
+          "start": 45.77,
+          "end": 46.09,
+          "confidence": 0.788
+        },
+        {
+          "text": "Yeah,",
+          "start": 49.14,
+          "end": 49.68,
+          "confidence": 0.35
+        },
+        {
+          "text": "[*]",
+          "start": 49.68,
+          "end": 50.48,
+          "confidence": 0
+        },
+        {
+          "text": "yeah.",
+          "start": 50.48,
+          "end": 51.14,
+          "confidence": 0.431
+        },
+        {
+          "text": "[*]",
+          "start": 52.2,
+          "end": 54.15,
+          "confidence": 0
+        },
+        {
+          "text": "Yeah,",
+          "start": 55.01,
+          "end": 55.61,
+          "confidence": 0.492
+        },
+        {
+          "text": "definitely.",
+          "start": 55.93,
+          "end": 56.61,
+          "confidence": 0.689
+        },
+        {
+          "text": "I'm",
+          "start": 56.97,
+          "end": 57.19,
+          "confidence": 0.846
+        },
+        {
+          "text": "about",
+          "start": 57.19,
+          "end": 57.41,
+          "confidence": 0.813
+        },
+        {
+          "text": "to",
+          "start": 57.41,
+          "end": 57.59,
+          "confidence": 0.877
+        },
+        {
+          "text": "do",
+          "start": 57.59,
+          "end": 57.75,
+          "confidence": 0.829
+        },
+        {
+          "text": "it,",
+          "start": 57.75,
+          "end": 58.01,
+          "confidence": 0.281
+        },
+        {
+          "text": "Sue.",
+          "start": 58.05,
+          "end": 58.27,
+          "confidence": 0.005
+        },
+        {
+          "text": "[*]",
+          "start": 59.12,
+          "end": 59.8,
+          "confidence": 0
+        },
+        {
+          "text": "Happy",
+          "start": 61.62,
+          "end": 62.04,
+          "confidence": 0.129
+        },
+        {
+          "text": "New",
+          "start": 62.04,
+          "end": 62.48,
+          "confidence": 0.006
+        },
+        {
+          "text": "Year.",
+          "start": 62.48,
+          "end": 62.58,
+          "confidence": 0.776
+        },
+        {
+          "text": "It's",
+          "start": 63.83,
+          "end": 64.15,
+          "confidence": 0.66
+        },
+        {
+          "text": "all",
+          "start": 64.15,
+          "end": 64.31,
+          "confidence": 0.104
+        },
+        {
+          "text": "right.",
+          "start": 64.31,
+          "end": 64.57,
+          "confidence": 0.848
+        },
+        {
+          "text": "Yeah,",
+          "start": 66.43,
+          "end": 66.69,
+          "confidence": 0.508
+        },
+        {
+          "text": "sure,",
+          "start": 66.87,
+          "end": 67.27,
+          "confidence": 0.74
+        },
+        {
+          "text": "sure.",
+          "start": 67.49,
+          "end": 67.75,
+          "confidence": 0.828
+        },
+        {
+          "text": "[*]",
+          "start": 68.01,
+          "end": 68.65,
+          "confidence": 0
+        },
+        {
+          "text": "Lovely",
+          "start": 70.31,
+          "end": 70.43,
+          "confidence": 0.264
+        },
+        {
+          "text": "to",
+          "start": 70.43,
+          "end": 70.69,
+          "confidence": 0.903
+        },
+        {
+          "text": "see",
+          "start": 70.69,
+          "end": 70.91,
+          "confidence": 0.817
+        },
+        {
+          "text": "you",
+          "start": 70.91,
+          "end": 71.09,
+          "confidence": 0.895
+        },
+        {
+          "text": "too.",
+          "start": 71.09,
+          "end": 71.41,
+          "confidence": 0.726
+        }
+      ]
+    }
+  ],
+  "language": "English",
+  "speech_activity": [
+    {
+      "start": 8.95,
+      "end": 10.3
+    },
+    {
+      "start": 10.45,
+      "end": 21.6
+    },
+    {
+      "start": 21.65,
+      "end": 23.75
+    },
+    {
+      "start": 24.15,
+      "end": 34.25
+    },
+    {
+      "start": 37.85,
+      "end": 46.45
+    },
+    {
+      "start": 48.6,
+      "end": 51.65
+    },
+    {
+      "start": 52.15,
+      "end": 54.15
+    },
+    {
+      "start": 54.9,
+      "end": 58.35
+    },
+    {
+      "start": 58.7,
+      "end": 59.8
+    },
+    {
+      "start": 61.3,
+      "end": 62.65
+    },
+    {
+      "start": 63.6,
+      "end": 64.75
+    },
+    {
+      "start": 65.95,
+      "end": 68.65
+    },
+    {
+      "start": 69.75,
+      "end": 71.637375
+    }
+  ]
+}

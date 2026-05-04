@@ -1,0 +1,402 @@
+{
+  "text": " Oh hi there can you hear me yeah yeah I don't know it froze and it says the conversation is over in like 15 seconds we're not gonna get much time now yeah sorry oh no I feel really bad I don't know what happened",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 9.74,
+      "end": 15.83,
+      "text": " Oh hi there can you hear me yeah yeah I don't know it froze and it says the",
+      "tokens": [
+        50364,
+        876,
+        4879,
+        456,
+        393,
+        291,
+        1568,
+        385,
+        1338,
+        1338,
+        286,
+        500,
+        380,
+        458,
+        309,
+        46077,
+        293,
+        309,
+        1619,
+        264,
+        50992
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39279053427956323,
+      "compression_ratio": 1.4256756756756757,
+      "no_speech_prob": 0.14039133489131927,
+      "confidence": 0.614,
+      "words": [
+        {
+          "text": "Oh",
+          "start": 9.74,
+          "end": 9.76,
+          "confidence": 0.036
+        },
+        {
+          "text": "hi",
+          "start": 9.76,
+          "end": 10.16,
+          "confidence": 0.506
+        },
+        {
+          "text": "there",
+          "start": 10.16,
+          "end": 10.4,
+          "confidence": 0.836
+        },
+        {
+          "text": "can",
+          "start": 10.4,
+          "end": 10.58,
+          "confidence": 0.439
+        },
+        {
+          "text": "you",
+          "start": 10.58,
+          "end": 10.68,
+          "confidence": 0.874
+        },
+        {
+          "text": "hear",
+          "start": 10.68,
+          "end": 10.78,
+          "confidence": 0.851
+        },
+        {
+          "text": "me",
+          "start": 10.78,
+          "end": 10.98,
+          "confidence": 0.892
+        },
+        {
+          "text": "yeah",
+          "start": 10.98,
+          "end": 11.28,
+          "confidence": 0.518
+        },
+        {
+          "text": "[*]",
+          "start": 11.28,
+          "end": 11.95,
+          "confidence": 0
+        },
+        {
+          "text": "yeah",
+          "start": 12.71,
+          "end": 13.15,
+          "confidence": 0.343
+        },
+        {
+          "text": "I",
+          "start": 13.15,
+          "end": 13.61,
+          "confidence": 0.854
+        },
+        {
+          "text": "don't",
+          "start": 13.61,
+          "end": 13.77,
+          "confidence": 0.899
+        },
+        {
+          "text": "know",
+          "start": 13.77,
+          "end": 13.87,
+          "confidence": 0.767
+        },
+        {
+          "text": "it",
+          "start": 13.87,
+          "end": 14.05,
+          "confidence": 0.746
+        },
+        {
+          "text": "froze",
+          "start": 14.05,
+          "end": 14.61,
+          "confidence": 0.764
+        },
+        {
+          "text": "[*]",
+          "start": 14.61,
+          "end": 15.15,
+          "confidence": 0
+        },
+        {
+          "text": "and",
+          "start": 15.15,
+          "end": 15.35,
+          "confidence": 0.832
+        },
+        {
+          "text": "it",
+          "start": 15.35,
+          "end": 15.47,
+          "confidence": 0.879
+        },
+        {
+          "text": "says",
+          "start": 15.47,
+          "end": 15.67,
+          "confidence": 0.715
+        },
+        {
+          "text": "the",
+          "start": 15.67,
+          "end": 15.83,
+          "confidence": 0.744
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 15.83,
+      "end": 22.21,
+      "text": " conversation is over in like 15 seconds we're not gonna get much time now yeah",
+      "tokens": [
+        50992,
+        3761,
+        307,
+        670,
+        294,
+        411,
+        2119,
+        3949,
+        321,
+        434,
+        406,
+        799,
+        483,
+        709,
+        565,
+        586,
+        1338,
+        51294
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39279053427956323,
+      "compression_ratio": 1.4256756756756757,
+      "no_speech_prob": 0.14039133489131927,
+      "confidence": 0.559,
+      "words": [
+        {
+          "text": "conversation",
+          "start": 15.83,
+          "end": 16.21,
+          "confidence": 0.285
+        },
+        {
+          "text": "is",
+          "start": 16.21,
+          "end": 16.49,
+          "confidence": 0.596
+        },
+        {
+          "text": "over",
+          "start": 16.49,
+          "end": 16.67,
+          "confidence": 0.883
+        },
+        {
+          "text": "in",
+          "start": 16.67,
+          "end": 16.85,
+          "confidence": 0.877
+        },
+        {
+          "text": "like",
+          "start": 16.85,
+          "end": 17.03,
+          "confidence": 0.78
+        },
+        {
+          "text": "15",
+          "start": 17.03,
+          "end": 17.45,
+          "confidence": 0.858
+        },
+        {
+          "text": "seconds",
+          "start": 17.45,
+          "end": 17.89,
+          "confidence": 0.707
+        },
+        {
+          "text": "we're",
+          "start": 17.89,
+          "end": 18.21,
+          "confidence": 0.544
+        },
+        {
+          "text": "not",
+          "start": 18.21,
+          "end": 18.35,
+          "confidence": 0.885
+        },
+        {
+          "text": "gonna",
+          "start": 18.35,
+          "end": 18.49,
+          "confidence": 0.226
+        },
+        {
+          "text": "get",
+          "start": 18.49,
+          "end": 18.63,
+          "confidence": 0.896
+        },
+        {
+          "text": "much",
+          "start": 18.63,
+          "end": 18.87,
+          "confidence": 0.815
+        },
+        {
+          "text": "time",
+          "start": 18.87,
+          "end": 19.15,
+          "confidence": 0.802
+        },
+        {
+          "text": "now",
+          "start": 19.15,
+          "end": 19.49,
+          "confidence": 0.48
+        },
+        {
+          "text": "[*]",
+          "start": 20.5,
+          "end": 21.89,
+          "confidence": 0
+        },
+        {
+          "text": "yeah",
+          "start": 21.89,
+          "end": 22.21,
+          "confidence": 0.089
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 22.21,
+      "end": 25.23,
+      "text": " sorry oh no I feel really bad I don't know what happened",
+      "tokens": [
+        51294,
+        2597,
+        1954,
+        572,
+        286,
+        841,
+        534,
+        1578,
+        286,
+        500,
+        380,
+        458,
+        437,
+        2011,
+        51552
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39279053427956323,
+      "compression_ratio": 1.4256756756756757,
+      "no_speech_prob": 0.14039133489131927,
+      "confidence": 0.636,
+      "words": [
+        {
+          "text": "sorry",
+          "start": 22.21,
+          "end": 22.77,
+          "confidence": 0.064
+        },
+        {
+          "text": "oh",
+          "start": 22.77,
+          "end": 23.13,
+          "confidence": 0.282
+        },
+        {
+          "text": "no",
+          "start": 23.13,
+          "end": 23.27,
+          "confidence": 0.869
+        },
+        {
+          "text": "I",
+          "start": 23.27,
+          "end": 23.39,
+          "confidence": 0.874
+        },
+        {
+          "text": "feel",
+          "start": 23.39,
+          "end": 23.51,
+          "confidence": 0.938
+        },
+        {
+          "text": "really",
+          "start": 23.51,
+          "end": 23.67,
+          "confidence": 0.795
+        },
+        {
+          "text": "bad",
+          "start": 23.67,
+          "end": 23.99,
+          "confidence": 0.878
+        },
+        {
+          "text": "[*]",
+          "start": 23.99,
+          "end": 24.33,
+          "confidence": 0
+        },
+        {
+          "text": "I",
+          "start": 24.33,
+          "end": 24.47,
+          "confidence": 0.773
+        },
+        {
+          "text": "don't",
+          "start": 24.47,
+          "end": 24.65,
+          "confidence": 0.945
+        },
+        {
+          "text": "know",
+          "start": 24.65,
+          "end": 24.73,
+          "confidence": 0.751
+        },
+        {
+          "text": "what",
+          "start": 24.73,
+          "end": 24.89,
+          "confidence": 0.864
+        },
+        {
+          "text": "happened",
+          "start": 24.89,
+          "end": 25.23,
+          "confidence": 0.685
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

@@ -1,0 +1,90 @@
+{
+  "text": " Hmm Thank you for watching!",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.56,
+      "end": 1.36,
+      "text": " Hmm",
+      "tokens": [
+        50403,
+        8239,
+        50503
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.2243711948394775,
+      "compression_ratio": 0.2727272727272727,
+      "no_speech_prob": 0.4631490707397461,
+      "confidence": 0.001,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 0.56,
+          "end": 1.14,
+          "confidence": 0
+        },
+        {
+          "text": "Hmm",
+          "start": 1.14,
+          "end": 1.36,
+          "confidence": 0.001
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 29.5,
+      "end": 31.36,
+      "text": " Thank you for watching!",
+      "tokens": [
+        50364,
+        1044,
+        291,
+        337,
+        1976,
+        0,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9461053609848022,
+      "compression_ratio": 0.7419354838709677,
+      "no_speech_prob": 0.8544852137565613,
+      "confidence": 0.236,
+      "words": [
+        {
+          "text": "Thank",
+          "start": 29.5,
+          "end": 29.82,
+          "confidence": 0.016
+        },
+        {
+          "text": "you",
+          "start": 29.82,
+          "end": 30.0,
+          "confidence": 0.838
+        },
+        {
+          "text": "[*]",
+          "start": 30.0,
+          "end": 30.56,
+          "confidence": 0
+        },
+        {
+          "text": "for",
+          "start": 30.56,
+          "end": 31.28,
+          "confidence": 0.316
+        },
+        {
+          "text": "watching!",
+          "start": 31.28,
+          "end": 31.36,
+          "confidence": 0.411
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

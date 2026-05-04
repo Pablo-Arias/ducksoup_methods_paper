@@ -1,0 +1,63 @@
+{
+  "text": " heheh you",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.64,
+      "end": 1.52,
+      "text": " heheh",
+      "tokens": [
+        50414,
+        37791,
+        13301,
+        50464
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.9159915924072266,
+      "compression_ratio": 0.38461538461538464,
+      "no_speech_prob": 0.4834357500076294,
+      "confidence": 0.029,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 0.64,
+          "end": 1.12,
+          "confidence": 0
+        },
+        {
+          "text": "heheh",
+          "start": 1.12,
+          "end": 1.52,
+          "confidence": 0.029
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 29.5,
+      "end": 29.9,
+      "text": " you",
+      "tokens": [
+        50364,
+        291,
+        50467
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8191150426864624,
+      "compression_ratio": 0.2727272727272727,
+      "no_speech_prob": 0.8983370661735535,
+      "confidence": 0.014,
+      "words": [
+        {
+          "text": "you",
+          "start": 29.5,
+          "end": 29.9,
+          "confidence": 0.014
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

@@ -1,0 +1,65 @@
+{
+  "text": " Silence. Thank you.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 3000,
+      "start": 57.34,
+      "end": 57.38,
+      "text": " Silence.",
+      "tokens": [
+        50364,
+        34570,
+        13,
+        51709
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.349860986073812,
+      "compression_ratio": 0.5,
+      "no_speech_prob": 0.5124895572662354,
+      "confidence": 0.03,
+      "words": [
+        {
+          "text": "Silence.",
+          "start": 57.34,
+          "end": 57.38,
+          "confidence": 0.03
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 8690,
+      "start": 97.14,
+      "end": 97.18,
+      "text": " Thank you.",
+      "tokens": [
+        50364,
+        1044,
+        291,
+        13,
+        50852
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.987917979558309,
+      "compression_ratio": 0.5555555555555556,
+      "no_speech_prob": 0.8017565011978149,
+      "confidence": 0.199,
+      "words": [
+        {
+          "text": "Thank",
+          "start": 97.14,
+          "end": 97.16,
+          "confidence": 0.014
+        },
+        {
+          "text": "you.",
+          "start": 97.16,
+          "end": 97.18,
+          "confidence": 0.754
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

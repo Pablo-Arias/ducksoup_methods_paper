@@ -1,0 +1,56 @@
+{
+  "text": " You You",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 0.42,
+      "text": " You",
+      "tokens": [
+        50364,
+        509,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8577505350112915,
+      "compression_ratio": 0.2727272727272727,
+      "no_speech_prob": 0.9372686743736267,
+      "confidence": 0.01,
+      "words": [
+        {
+          "text": "You",
+          "start": 0.0,
+          "end": 0.42,
+          "confidence": 0.01
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 29.5,
+      "end": 29.88,
+      "text": " You",
+      "tokens": [
+        50364,
+        509,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30481642484664917,
+      "compression_ratio": 0.2727272727272727,
+      "no_speech_prob": 0.4802587330341339,
+      "confidence": 0.005,
+      "words": [
+        {
+          "text": "You",
+          "start": 29.5,
+          "end": 29.88,
+          "confidence": 0.005
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

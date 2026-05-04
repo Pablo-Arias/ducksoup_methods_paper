@@ -1,0 +1,99 @@
+{
+  "text": " I'll see you in the next video.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 55.9,
+      "end": 70.95,
+      "text": " I'll see you in the next video.",
+      "tokens": [
+        50364,
+        286,
+        603,
+        536,
+        291,
+        294,
+        264,
+        958,
+        960,
+        13,
+        51142
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.982222318649292,
+      "compression_ratio": 0.7948717948717948,
+      "no_speech_prob": 0.8588672280311584,
+      "confidence": 0.299,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 55.9,
+          "end": 59.68,
+          "confidence": 0
+        },
+        {
+          "text": "I'll",
+          "start": 60.1,
+          "end": 60.71,
+          "confidence": 0.026
+        },
+        {
+          "text": "[*]",
+          "start": 60.71,
+          "end": 61.05,
+          "confidence": 0
+        },
+        {
+          "text": "see",
+          "start": 61.05,
+          "end": 61.45,
+          "confidence": 0.579
+        },
+        {
+          "text": "you",
+          "start": 61.45,
+          "end": 61.53,
+          "confidence": 0.853
+        },
+        {
+          "text": "in",
+          "start": 61.53,
+          "end": 61.55,
+          "confidence": 0.263
+        },
+        {
+          "text": "the",
+          "start": 61.55,
+          "end": 62.43,
+          "confidence": 0.58
+        },
+        {
+          "text": "[*]",
+          "start": 62.43,
+          "end": 65.89,
+          "confidence": 0
+        },
+        {
+          "text": "next",
+          "start": 65.89,
+          "end": 66.53,
+          "confidence": 0.855
+        },
+        {
+          "text": "[*]",
+          "start": 66.53,
+          "end": 70.65,
+          "confidence": 0
+        },
+        {
+          "text": "video.",
+          "start": 70.65,
+          "end": 70.95,
+          "confidence": 0.66
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

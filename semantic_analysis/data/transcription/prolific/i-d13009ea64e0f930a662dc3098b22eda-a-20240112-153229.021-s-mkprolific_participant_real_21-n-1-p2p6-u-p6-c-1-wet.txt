@@ -1,0 +1,3462 @@
+{
+  "text": " Hi. Hi, how are you? Hi. No, it sounds a little weird, but I haven't got any feedback. I'm fine, I'm Sharon. I'm in Norfolk, just with my husband, no kids. Just recently retired, so I've been retired a year. And I'm absolutely loving it. Well, it's sort of semi-retirement, because I'm still doing a little bit for my old employer. Because they're putting up a new wind turbine, and they need some project management help. So that's what I'm doing at the moment, but only part-time, a few hours a week. And the rest of it is doing things like Prolific, which is nice. Because when you retire early, you think, oh my God, am I going to have enough money? And this sort of helps, it sort of softens the blow a bit. Yeah, yeah, I mean stuff like this, you know. I did one earlier where it was green and orange people. And you had to guess what a person's score was, depending on a little grid that came up. And you had to roughly count the number of black dots, it was weird. But you get all sorts. So do you work, or do you work from home, or retired, or homemaker? Yeah, I help my husband with my mother-in-law. She's 91, a bit of dementia. And there's always something, hospital visits, issues with the medication, you name it. It can be quite stressful, I think. Well, I know my husband finds it quite stressful, because he hasn't got the most gentle of temperaments. He gets worked up quite easily. Yeah, I think especially if it's your own relative, I think. Knitting, I like knitting and cross-stitch. Because I made my dad a jumper last year, and it was taking up so much space. I thought, I'll do something with it. So I do like to have something to do with my hands, just to keep them busy, so I don't get up to mischief. Oh, yeah. Oh, no! Yeah!",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 11.1,
+      "end": 13.84,
+      "text": " Hi. Hi, how are you?",
+      "tokens": [
+        50364,
+        2421,
+        13,
+        2421,
+        11,
+        577,
+        366,
+        291,
+        30,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.326915947787733,
+      "compression_ratio": 1.3542857142857143,
+      "no_speech_prob": 0.1855515092611313,
+      "confidence": 0.671,
+      "words": [
+        {
+          "text": "Hi.",
+          "start": 11.1,
+          "end": 11.88,
+          "confidence": 0.467
+        },
+        {
+          "text": "[*]",
+          "start": 12.48,
+          "end": 12.82,
+          "confidence": 0
+        },
+        {
+          "text": "Hi,",
+          "start": 12.82,
+          "end": 13.24,
+          "confidence": 0.521
+        },
+        {
+          "text": "how",
+          "start": 13.38,
+          "end": 13.56,
+          "confidence": 0.886
+        },
+        {
+          "text": "are",
+          "start": 13.56,
+          "end": 13.66,
+          "confidence": 0.897
+        },
+        {
+          "text": "you?",
+          "start": 13.66,
+          "end": 13.84,
+          "confidence": 0.937
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 13.84,
+      "end": 14.14,
+      "text": " Hi.",
+      "tokens": [
+        50514,
+        2421,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.326915947787733,
+      "compression_ratio": 1.3542857142857143,
+      "no_speech_prob": 0.1855515092611313,
+      "confidence": 0.039,
+      "words": [
+        {
+          "text": "Hi.",
+          "start": 13.84,
+          "end": 14.14,
+          "confidence": 0.039
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 18.85,
+      "end": 26.36,
+      "text": " No, it sounds a little weird, but I haven't got any feedback.",
+      "tokens": [
+        50614,
+        883,
+        11,
+        309,
+        3263,
+        257,
+        707,
+        3657,
+        11,
+        457,
+        286,
+        2378,
+        380,
+        658,
+        604,
+        5824,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.326915947787733,
+      "compression_ratio": 1.3542857142857143,
+      "no_speech_prob": 0.1855515092611313,
+      "confidence": 0.662,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 18.85,
+          "end": 20.24,
+          "confidence": 0
+        },
+        {
+          "text": "No,",
+          "start": 20.24,
+          "end": 20.42,
+          "confidence": 0.197
+        },
+        {
+          "text": "it",
+          "start": 20.8,
+          "end": 21.02,
+          "confidence": 0.833
+        },
+        {
+          "text": "[*]",
+          "start": 21.02,
+          "end": 21.48,
+          "confidence": 0
+        },
+        {
+          "text": "sounds",
+          "start": 21.48,
+          "end": 21.86,
+          "confidence": 0.664
+        },
+        {
+          "text": "a",
+          "start": 21.86,
+          "end": 22.08,
+          "confidence": 0.99
+        },
+        {
+          "text": "little",
+          "start": 22.08,
+          "end": 22.34,
+          "confidence": 0.826
+        },
+        {
+          "text": "weird,",
+          "start": 22.34,
+          "end": 23.0,
+          "confidence": 0.568
+        },
+        {
+          "text": "but",
+          "start": 23.28,
+          "end": 23.3,
+          "confidence": 0.831
+        },
+        {
+          "text": "I",
+          "start": 23.3,
+          "end": 23.42,
+          "confidence": 0.946
+        },
+        {
+          "text": "haven't",
+          "start": 23.42,
+          "end": 25.56,
+          "confidence": 0.8
+        },
+        {
+          "text": "got",
+          "start": 25.56,
+          "end": 25.68,
+          "confidence": 0.849
+        },
+        {
+          "text": "any",
+          "start": 25.68,
+          "end": 25.84,
+          "confidence": 0.817
+        },
+        {
+          "text": "feedback.",
+          "start": 25.84,
+          "end": 26.36,
+          "confidence": 0.828
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 26.36,
+      "end": 35.7,
+      "text": " I'm fine, I'm Sharon.",
+      "tokens": [
+        51014,
+        286,
+        478,
+        2489,
+        11,
+        286,
+        478,
+        28573,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.326915947787733,
+      "compression_ratio": 1.3542857142857143,
+      "no_speech_prob": 0.1855515092611313,
+      "confidence": 0.291,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 26.36,
+          "end": 26.76,
+          "confidence": 0
+        },
+        {
+          "text": "I'm",
+          "start": 34.0,
+          "end": 34.68,
+          "confidence": 0.711
+        },
+        {
+          "text": "fine,",
+          "start": 34.68,
+          "end": 34.96,
+          "confidence": 0.636
+        },
+        {
+          "text": "I'm",
+          "start": 35.08,
+          "end": 35.24,
+          "confidence": 0.985
+        },
+        {
+          "text": "Sharon.",
+          "start": 35.24,
+          "end": 35.7,
+          "confidence": 0.016
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 43.0,
+      "end": 49.24,
+      "text": " I'm in Norfolk, just with my husband, no kids.",
+      "tokens": [
+        51164,
+        286,
+        478,
+        294,
+        6966,
+        39705,
+        11,
+        445,
+        365,
+        452,
+        5213,
+        11,
+        572,
+        2301,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.326915947787733,
+      "compression_ratio": 1.3542857142857143,
+      "no_speech_prob": 0.1855515092611313,
+      "confidence": 0.73,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 43.0,
+          "end": 43.86,
+          "confidence": 0
+        },
+        {
+          "text": "I'm",
+          "start": 43.86,
+          "end": 44.12,
+          "confidence": 0.759
+        },
+        {
+          "text": "in",
+          "start": 44.12,
+          "end": 44.3,
+          "confidence": 0.822
+        },
+        {
+          "text": "[*]",
+          "start": 45.15,
+          "end": 46.02,
+          "confidence": 0
+        },
+        {
+          "text": "Norfolk,",
+          "start": 46.02,
+          "end": 46.76,
+          "confidence": 0.659
+        },
+        {
+          "text": "[*]",
+          "start": 46.76,
+          "end": 47.34,
+          "confidence": 0
+        },
+        {
+          "text": "just",
+          "start": 47.34,
+          "end": 47.74,
+          "confidence": 0.745
+        },
+        {
+          "text": "with",
+          "start": 47.74,
+          "end": 47.92,
+          "confidence": 0.801
+        },
+        {
+          "text": "my",
+          "start": 47.92,
+          "end": 48.04,
+          "confidence": 0.9
+        },
+        {
+          "text": "husband,",
+          "start": 48.04,
+          "end": 48.34,
+          "confidence": 0.723
+        },
+        {
+          "text": "no",
+          "start": 48.56,
+          "end": 48.68,
+          "confidence": 0.868
+        },
+        {
+          "text": "kids.",
+          "start": 48.68,
+          "end": 49.24,
+          "confidence": 0.606
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 49.24,
+      "end": 53.12,
+      "text": " Just recently retired, so I've been retired a year.",
+      "tokens": [
+        51464,
+        1449,
+        3938,
+        16776,
+        11,
+        370,
+        286,
+        600,
+        668,
+        16776,
+        257,
+        1064,
+        13,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.326915947787733,
+      "compression_ratio": 1.3542857142857143,
+      "no_speech_prob": 0.1855515092611313,
+      "confidence": 0.697,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 49.24,
+          "end": 49.84,
+          "confidence": 0
+        },
+        {
+          "text": "Just",
+          "start": 49.84,
+          "end": 50.04,
+          "confidence": 0.232
+        },
+        {
+          "text": "recently",
+          "start": 50.04,
+          "end": 50.58,
+          "confidence": 0.829
+        },
+        {
+          "text": "[*]",
+          "start": 50.58,
+          "end": 51.1,
+          "confidence": 0
+        },
+        {
+          "text": "retired,",
+          "start": 51.1,
+          "end": 51.24,
+          "confidence": 0.667
+        },
+        {
+          "text": "so",
+          "start": 51.42,
+          "end": 51.5,
+          "confidence": 0.819
+        },
+        {
+          "text": "I've",
+          "start": 51.5,
+          "end": 51.66,
+          "confidence": 0.679
+        },
+        {
+          "text": "been",
+          "start": 51.66,
+          "end": 51.78,
+          "confidence": 0.745
+        },
+        {
+          "text": "[*]",
+          "start": 51.78,
+          "end": 52.16,
+          "confidence": 0
+        },
+        {
+          "text": "retired",
+          "start": 52.16,
+          "end": 52.58,
+          "confidence": 0.714
+        },
+        {
+          "text": "a",
+          "start": 52.58,
+          "end": 52.82,
+          "confidence": 0.99
+        },
+        {
+          "text": "year.",
+          "start": 52.82,
+          "end": 53.12,
+          "confidence": 0.883
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 53.12,
+      "end": 55.6,
+      "text": " And I'm absolutely loving it.",
+      "tokens": [
+        51664,
+        400,
+        286,
+        478,
+        3122,
+        9344,
+        309,
+        13,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.326915947787733,
+      "compression_ratio": 1.3542857142857143,
+      "no_speech_prob": 0.1855515092611313,
+      "confidence": 0.617,
+      "words": [
+        {
+          "text": "And",
+          "start": 53.12,
+          "end": 54.08,
+          "confidence": 0.132
+        },
+        {
+          "text": "I'm",
+          "start": 54.08,
+          "end": 54.26,
+          "confidence": 0.95
+        },
+        {
+          "text": "absolutely",
+          "start": 54.26,
+          "end": 54.82,
+          "confidence": 0.718
+        },
+        {
+          "text": "loving",
+          "start": 54.82,
+          "end": 55.32,
+          "confidence": 0.864
+        },
+        {
+          "text": "it.",
+          "start": 55.32,
+          "end": 55.6,
+          "confidence": 0.681
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2900,
+      "start": 56.9,
+      "end": 65.95,
+      "text": " Well, it's sort of semi-retirement, because I'm still doing a little bit for my old employer.",
+      "tokens": [
+        50414,
+        1042,
+        11,
+        309,
+        311,
+        1333,
+        295,
+        12909,
+        12,
+        1505,
+        28575,
+        11,
+        570,
+        286,
+        478,
+        920,
+        884,
+        257,
+        707,
+        857,
+        337,
+        452,
+        1331,
+        16205,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20468269016431725,
+      "compression_ratio": 1.5961538461538463,
+      "no_speech_prob": 0.1994025707244873,
+      "confidence": 0.751,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 56.9,
+          "end": 58.36,
+          "confidence": 0
+        },
+        {
+          "text": "Well,",
+          "start": 60.75,
+          "end": 61.45,
+          "confidence": 0.344
+        },
+        {
+          "text": "it's",
+          "start": 61.61,
+          "end": 61.75,
+          "confidence": 0.899
+        },
+        {
+          "text": "sort",
+          "start": 61.75,
+          "end": 61.93,
+          "confidence": 0.788
+        },
+        {
+          "text": "of",
+          "start": 61.93,
+          "end": 62.07,
+          "confidence": 0.908
+        },
+        {
+          "text": "semi-retirement,",
+          "start": 62.07,
+          "end": 63.07,
+          "confidence": 0.648
+        },
+        {
+          "text": "because",
+          "start": 63.25,
+          "end": 63.37,
+          "confidence": 0.6
+        },
+        {
+          "text": "I'm",
+          "start": 63.37,
+          "end": 63.53,
+          "confidence": 0.963
+        },
+        {
+          "text": "still",
+          "start": 63.53,
+          "end": 63.81,
+          "confidence": 0.886
+        },
+        {
+          "text": "doing",
+          "start": 63.81,
+          "end": 64.11,
+          "confidence": 0.89
+        },
+        {
+          "text": "a",
+          "start": 64.11,
+          "end": 64.31,
+          "confidence": 0.984
+        },
+        {
+          "text": "little",
+          "start": 64.31,
+          "end": 64.57,
+          "confidence": 0.804
+        },
+        {
+          "text": "bit",
+          "start": 64.57,
+          "end": 64.81,
+          "confidence": 0.893
+        },
+        {
+          "text": "for",
+          "start": 64.81,
+          "end": 64.97,
+          "confidence": 0.867
+        },
+        {
+          "text": "my",
+          "start": 64.97,
+          "end": 65.13,
+          "confidence": 0.896
+        },
+        {
+          "text": "old",
+          "start": 65.13,
+          "end": 65.39,
+          "confidence": 0.907
+        },
+        {
+          "text": "[*]",
+          "start": 65.39,
+          "end": 65.79,
+          "confidence": 0
+        },
+        {
+          "text": "employer.",
+          "start": 65.79,
+          "end": 65.95,
+          "confidence": 0.774
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2900,
+      "start": 65.95,
+      "end": 71.23,
+      "text": " Because they're putting up a new wind turbine, and they need some project management help.",
+      "tokens": [
+        50714,
+        1436,
+        436,
+        434,
+        3372,
+        493,
+        257,
+        777,
+        2468,
+        27536,
+        11,
+        293,
+        436,
+        643,
+        512,
+        1716,
+        4592,
+        854,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20468269016431725,
+      "compression_ratio": 1.5961538461538463,
+      "no_speech_prob": 0.1994025707244873,
+      "confidence": 0.62,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 65.95,
+          "end": 67.25,
+          "confidence": 0
+        },
+        {
+          "text": "Because",
+          "start": 67.25,
+          "end": 67.35,
+          "confidence": 0.072
+        },
+        {
+          "text": "they're",
+          "start": 67.35,
+          "end": 67.57,
+          "confidence": 0.653
+        },
+        {
+          "text": "putting",
+          "start": 67.57,
+          "end": 67.77,
+          "confidence": 0.929
+        },
+        {
+          "text": "up",
+          "start": 67.77,
+          "end": 67.93,
+          "confidence": 0.901
+        },
+        {
+          "text": "a",
+          "start": 67.93,
+          "end": 68.05,
+          "confidence": 0.992
+        },
+        {
+          "text": "new",
+          "start": 68.05,
+          "end": 68.21,
+          "confidence": 0.817
+        },
+        {
+          "text": "wind",
+          "start": 68.21,
+          "end": 68.49,
+          "confidence": 0.892
+        },
+        {
+          "text": "turbine,",
+          "start": 68.49,
+          "end": 69.07,
+          "confidence": 0.3
+        },
+        {
+          "text": "and",
+          "start": 69.39,
+          "end": 69.59,
+          "confidence": 0.708
+        },
+        {
+          "text": "they",
+          "start": 69.59,
+          "end": 69.73,
+          "confidence": 0.742
+        },
+        {
+          "text": "need",
+          "start": 69.73,
+          "end": 69.95,
+          "confidence": 0.828
+        },
+        {
+          "text": "some",
+          "start": 69.95,
+          "end": 70.13,
+          "confidence": 0.792
+        },
+        {
+          "text": "project",
+          "start": 70.13,
+          "end": 70.47,
+          "confidence": 0.785
+        },
+        {
+          "text": "management",
+          "start": 70.47,
+          "end": 70.99,
+          "confidence": 0.697
+        },
+        {
+          "text": "help.",
+          "start": 70.99,
+          "end": 71.23,
+          "confidence": 0.764
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2900,
+      "start": 71.23,
+      "end": 76.23,
+      "text": " So that's what I'm doing at the moment, but only part-time, a few hours a week.",
+      "tokens": [
+        50964,
+        407,
+        300,
+        311,
+        437,
+        286,
+        478,
+        884,
+        412,
+        264,
+        1623,
+        11,
+        457,
+        787,
+        644,
+        12,
+        3766,
+        11,
+        257,
+        1326,
+        2496,
+        257,
+        1243,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20468269016431725,
+      "compression_ratio": 1.5961538461538463,
+      "no_speech_prob": 0.1994025707244873,
+      "confidence": 0.732,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 71.23,
+          "end": 71.99,
+          "confidence": 0
+        },
+        {
+          "text": "So",
+          "start": 71.99,
+          "end": 72.19,
+          "confidence": 0.42
+        },
+        {
+          "text": "that's",
+          "start": 72.19,
+          "end": 72.67,
+          "confidence": 0.777
+        },
+        {
+          "text": "what",
+          "start": 72.67,
+          "end": 72.79,
+          "confidence": 0.88
+        },
+        {
+          "text": "I'm",
+          "start": 72.79,
+          "end": 73.03,
+          "confidence": 0.969
+        },
+        {
+          "text": "doing",
+          "start": 73.03,
+          "end": 73.33,
+          "confidence": 0.918
+        },
+        {
+          "text": "at",
+          "start": 73.33,
+          "end": 73.49,
+          "confidence": 0.905
+        },
+        {
+          "text": "the",
+          "start": 73.49,
+          "end": 73.63,
+          "confidence": 0.818
+        },
+        {
+          "text": "moment,",
+          "start": 73.63,
+          "end": 73.93,
+          "confidence": 0.492
+        },
+        {
+          "text": "but",
+          "start": 74.21,
+          "end": 74.33,
+          "confidence": 0.732
+        },
+        {
+          "text": "only",
+          "start": 74.33,
+          "end": 74.65,
+          "confidence": 0.835
+        },
+        {
+          "text": "part-time,",
+          "start": 74.65,
+          "end": 75.35,
+          "confidence": 0.679
+        },
+        {
+          "text": "a",
+          "start": 75.47,
+          "end": 75.51,
+          "confidence": 0.386
+        },
+        {
+          "text": "few",
+          "start": 75.51,
+          "end": 75.65,
+          "confidence": 0.837
+        },
+        {
+          "text": "hours",
+          "start": 75.65,
+          "end": 75.93,
+          "confidence": 0.813
+        },
+        {
+          "text": "a",
+          "start": 75.93,
+          "end": 76.09,
+          "confidence": 0.992
+        },
+        {
+          "text": "week.",
+          "start": 76.09,
+          "end": 76.23,
+          "confidence": 0.806
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2900,
+      "start": 76.23,
+      "end": 81.23,
+      "text": " And the rest of it is doing things like Prolific, which is nice.",
+      "tokens": [
+        51214,
+        400,
+        264,
+        1472,
+        295,
+        309,
+        307,
+        884,
+        721,
+        411,
+        1705,
+        75,
+        1089,
+        11,
+        597,
+        307,
+        1481,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20468269016431725,
+      "compression_ratio": 1.5961538461538463,
+      "no_speech_prob": 0.1994025707244873,
+      "confidence": 0.609,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 76.23,
+          "end": 77.21,
+          "confidence": 0
+        },
+        {
+          "text": "And",
+          "start": 77.21,
+          "end": 77.41,
+          "confidence": 0.182
+        },
+        {
+          "text": "the",
+          "start": 77.41,
+          "end": 77.63,
+          "confidence": 0.805
+        },
+        {
+          "text": "rest",
+          "start": 77.63,
+          "end": 77.91,
+          "confidence": 0.815
+        },
+        {
+          "text": "of",
+          "start": 77.91,
+          "end": 78.09,
+          "confidence": 0.898
+        },
+        {
+          "text": "it",
+          "start": 78.09,
+          "end": 78.25,
+          "confidence": 0.899
+        },
+        {
+          "text": "is",
+          "start": 78.25,
+          "end": 78.51,
+          "confidence": 0.892
+        },
+        {
+          "text": "doing",
+          "start": 78.51,
+          "end": 78.81,
+          "confidence": 0.9
+        },
+        {
+          "text": "things",
+          "start": 78.81,
+          "end": 79.09,
+          "confidence": 0.735
+        },
+        {
+          "text": "like",
+          "start": 79.09,
+          "end": 79.29,
+          "confidence": 0.86
+        },
+        {
+          "text": "Prolific,",
+          "start": 79.29,
+          "end": 79.79,
+          "confidence": 0.72
+        },
+        {
+          "text": "which",
+          "start": 80.09,
+          "end": 80.31,
+          "confidence": 0.8
+        },
+        {
+          "text": "is",
+          "start": 80.31,
+          "end": 80.57,
+          "confidence": 0.865
+        },
+        {
+          "text": "[*]",
+          "start": 80.57,
+          "end": 80.87,
+          "confidence": 0
+        },
+        {
+          "text": "nice.",
+          "start": 80.87,
+          "end": 81.23,
+          "confidence": 0.155
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2900,
+      "start": 81.23,
+      "end": 86.21,
+      "text": " Because when you retire early, you think, oh my God, am I going to have enough money?",
+      "tokens": [
+        51464,
+        1436,
+        562,
+        291,
+        10731,
+        2440,
+        11,
+        291,
+        519,
+        11,
+        1954,
+        452,
+        1265,
+        11,
+        669,
+        286,
+        516,
+        281,
+        362,
+        1547,
+        1460,
+        30,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20468269016431725,
+      "compression_ratio": 1.5961538461538463,
+      "no_speech_prob": 0.1994025707244873,
+      "confidence": 0.656,
+      "words": [
+        {
+          "text": "Because",
+          "start": 81.23,
+          "end": 81.61,
+          "confidence": 0.117
+        },
+        {
+          "text": "[*]",
+          "start": 81.61,
+          "end": 82.41,
+          "confidence": 0
+        },
+        {
+          "text": "when",
+          "start": 82.41,
+          "end": 82.57,
+          "confidence": 0.787
+        },
+        {
+          "text": "you",
+          "start": 82.57,
+          "end": 82.75,
+          "confidence": 0.902
+        },
+        {
+          "text": "retire",
+          "start": 82.75,
+          "end": 83.23,
+          "confidence": 0.869
+        },
+        {
+          "text": "early,",
+          "start": 83.23,
+          "end": 83.73,
+          "confidence": 0.658
+        },
+        {
+          "text": "you",
+          "start": 83.91,
+          "end": 83.95,
+          "confidence": 0.808
+        },
+        {
+          "text": "think,",
+          "start": 83.95,
+          "end": 84.19,
+          "confidence": 0.744
+        },
+        {
+          "text": "oh",
+          "start": 84.37,
+          "end": 84.63,
+          "confidence": 0.226
+        },
+        {
+          "text": "my",
+          "start": 84.63,
+          "end": 84.83,
+          "confidence": 0.716
+        },
+        {
+          "text": "God,",
+          "start": 84.83,
+          "end": 85.09,
+          "confidence": 0.645
+        },
+        {
+          "text": "am",
+          "start": 85.17,
+          "end": 85.25,
+          "confidence": 0.54
+        },
+        {
+          "text": "I",
+          "start": 85.25,
+          "end": 85.31,
+          "confidence": 0.964
+        },
+        {
+          "text": "going",
+          "start": 85.31,
+          "end": 85.43,
+          "confidence": 0.713
+        },
+        {
+          "text": "to",
+          "start": 85.43,
+          "end": 85.51,
+          "confidence": 0.881
+        },
+        {
+          "text": "have",
+          "start": 85.51,
+          "end": 85.63,
+          "confidence": 0.887
+        },
+        {
+          "text": "enough",
+          "start": 85.63,
+          "end": 85.91,
+          "confidence": 0.791
+        },
+        {
+          "text": "money?",
+          "start": 85.91,
+          "end": 86.21,
+          "confidence": 0.813
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5600,
+      "start": 86.25,
+      "end": 90.25,
+      "text": " And this sort of helps, it sort of softens the blow a bit.",
+      "tokens": [
+        50414,
+        400,
+        341,
+        1333,
+        295,
+        3665,
+        11,
+        309,
+        1333,
+        295,
+        2787,
+        694,
+        264,
+        6327,
+        257,
+        857,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22274943457709417,
+      "compression_ratio": 1.536231884057971,
+      "no_speech_prob": 0.09987807273864746,
+      "confidence": 0.712,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 86.25,
+          "end": 87.35,
+          "confidence": 0
+        },
+        {
+          "text": "And",
+          "start": 87.35,
+          "end": 87.47,
+          "confidence": 0.134
+        },
+        {
+          "text": "this",
+          "start": 87.47,
+          "end": 87.69,
+          "confidence": 0.863
+        },
+        {
+          "text": "sort",
+          "start": 87.69,
+          "end": 87.89,
+          "confidence": 0.611
+        },
+        {
+          "text": "of",
+          "start": 87.89,
+          "end": 88.03,
+          "confidence": 0.898
+        },
+        {
+          "text": "helps,",
+          "start": 88.03,
+          "end": 88.49,
+          "confidence": 0.616
+        },
+        {
+          "text": "it",
+          "start": 88.63,
+          "end": 88.75,
+          "confidence": 0.814
+        },
+        {
+          "text": "sort",
+          "start": 88.75,
+          "end": 88.91,
+          "confidence": 0.68
+        },
+        {
+          "text": "of",
+          "start": 88.91,
+          "end": 89.05,
+          "confidence": 0.893
+        },
+        {
+          "text": "softens",
+          "start": 89.05,
+          "end": 89.47,
+          "confidence": 0.918
+        },
+        {
+          "text": "the",
+          "start": 89.47,
+          "end": 89.59,
+          "confidence": 0.783
+        },
+        {
+          "text": "blow",
+          "start": 89.59,
+          "end": 89.79,
+          "confidence": 0.819
+        },
+        {
+          "text": "a",
+          "start": 89.79,
+          "end": 89.99,
+          "confidence": 0.977
+        },
+        {
+          "text": "bit.",
+          "start": 89.99,
+          "end": 90.25,
+          "confidence": 0.835
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 5600,
+      "start": 96.5,
+      "end": 99.35,
+      "text": " Yeah, yeah, I mean stuff like this, you know.",
+      "tokens": [
+        50714,
+        865,
+        11,
+        1338,
+        11,
+        286,
+        914,
+        1507,
+        411,
+        341,
+        11,
+        291,
+        458,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22274943457709417,
+      "compression_ratio": 1.536231884057971,
+      "no_speech_prob": 0.09987807273864746,
+      "confidence": 0.641,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 96.5,
+          "end": 96.99,
+          "confidence": 0
+        },
+        {
+          "text": "Yeah,",
+          "start": 96.99,
+          "end": 97.29,
+          "confidence": 0.48
+        },
+        {
+          "text": "yeah,",
+          "start": 97.55,
+          "end": 97.73,
+          "confidence": 0.569
+        },
+        {
+          "text": "I",
+          "start": 97.89,
+          "end": 97.91,
+          "confidence": 0.952
+        },
+        {
+          "text": "mean",
+          "start": 97.91,
+          "end": 98.03,
+          "confidence": 0.908
+        },
+        {
+          "text": "stuff",
+          "start": 98.03,
+          "end": 98.29,
+          "confidence": 0.63
+        },
+        {
+          "text": "like",
+          "start": 98.29,
+          "end": 98.51,
+          "confidence": 0.879
+        },
+        {
+          "text": "[*]",
+          "start": 98.51,
+          "end": 98.79,
+          "confidence": 0
+        },
+        {
+          "text": "this,",
+          "start": 98.79,
+          "end": 98.97,
+          "confidence": 0.689
+        },
+        {
+          "text": "you",
+          "start": 99.03,
+          "end": 99.17,
+          "confidence": 0.851
+        },
+        {
+          "text": "know.",
+          "start": 99.17,
+          "end": 99.35,
+          "confidence": 0.465
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 5600,
+      "start": 99.35,
+      "end": 104.95,
+      "text": " I did one earlier where it was green and orange people.",
+      "tokens": [
+        50864,
+        286,
+        630,
+        472,
+        3071,
+        689,
+        309,
+        390,
+        3092,
+        293,
+        7671,
+        561,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22274943457709417,
+      "compression_ratio": 1.536231884057971,
+      "no_speech_prob": 0.09987807273864746,
+      "confidence": 0.767,
+      "words": [
+        {
+          "text": "I",
+          "start": 99.35,
+          "end": 100.19,
+          "confidence": 0.427
+        },
+        {
+          "text": "[*]",
+          "start": 100.19,
+          "end": 100.53,
+          "confidence": 0
+        },
+        {
+          "text": "did",
+          "start": 100.53,
+          "end": 100.67,
+          "confidence": 0.866
+        },
+        {
+          "text": "one",
+          "start": 100.67,
+          "end": 100.87,
+          "confidence": 0.819
+        },
+        {
+          "text": "earlier",
+          "start": 100.87,
+          "end": 101.31,
+          "confidence": 0.924
+        },
+        {
+          "text": "where",
+          "start": 101.31,
+          "end": 101.71,
+          "confidence": 0.806
+        },
+        {
+          "text": "[*]",
+          "start": 101.71,
+          "end": 102.31,
+          "confidence": 0
+        },
+        {
+          "text": "it",
+          "start": 102.31,
+          "end": 102.43,
+          "confidence": 0.836
+        },
+        {
+          "text": "was",
+          "start": 102.43,
+          "end": 102.61,
+          "confidence": 0.894
+        },
+        {
+          "text": "green",
+          "start": 102.61,
+          "end": 103.03,
+          "confidence": 0.842
+        },
+        {
+          "text": "[*]",
+          "start": 103.03,
+          "end": 103.93,
+          "confidence": 0
+        },
+        {
+          "text": "and",
+          "start": 103.93,
+          "end": 104.07,
+          "confidence": 0.737
+        },
+        {
+          "text": "orange",
+          "start": 104.07,
+          "end": 104.53,
+          "confidence": 0.808
+        },
+        {
+          "text": "people.",
+          "start": 104.53,
+          "end": 104.95,
+          "confidence": 0.703
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 5600,
+      "start": 104.95,
+      "end": 112.89,
+      "text": " And you had to guess what a person's score was, depending on a little grid that came up.",
+      "tokens": [
+        51114,
+        400,
+        291,
+        632,
+        281,
+        2041,
+        437,
+        257,
+        954,
+        311,
+        6175,
+        390,
+        11,
+        5413,
+        322,
+        257,
+        707,
+        10748,
+        300,
+        1361,
+        493,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22274943457709417,
+      "compression_ratio": 1.536231884057971,
+      "no_speech_prob": 0.09987807273864746,
+      "confidence": 0.664,
+      "words": [
+        {
+          "text": "And",
+          "start": 104.95,
+          "end": 105.65,
+          "confidence": 0.126
+        },
+        {
+          "text": "you",
+          "start": 105.65,
+          "end": 105.79,
+          "confidence": 0.863
+        },
+        {
+          "text": "had",
+          "start": 105.79,
+          "end": 105.95,
+          "confidence": 0.815
+        },
+        {
+          "text": "to",
+          "start": 105.95,
+          "end": 106.13,
+          "confidence": 0.906
+        },
+        {
+          "text": "[*]",
+          "start": 106.13,
+          "end": 106.33,
+          "confidence": 0
+        },
+        {
+          "text": "guess",
+          "start": 106.33,
+          "end": 106.57,
+          "confidence": 0.909
+        },
+        {
+          "text": "what",
+          "start": 106.57,
+          "end": 106.97,
+          "confidence": 0.869
+        },
+        {
+          "text": "a",
+          "start": 106.97,
+          "end": 107.13,
+          "confidence": 0.982
+        },
+        {
+          "text": "person's",
+          "start": 107.13,
+          "end": 107.65,
+          "confidence": 0.84
+        },
+        {
+          "text": "score",
+          "start": 107.65,
+          "end": 108.05,
+          "confidence": 0.833
+        },
+        {
+          "text": "[*]",
+          "start": 108.05,
+          "end": 108.47,
+          "confidence": 0
+        },
+        {
+          "text": "was,",
+          "start": 108.47,
+          "end": 108.63,
+          "confidence": 0.525
+        },
+        {
+          "text": "[*]",
+          "start": 108.77,
+          "end": 109.61,
+          "confidence": 0
+        },
+        {
+          "text": "depending",
+          "start": 109.61,
+          "end": 109.77,
+          "confidence": 0.602
+        },
+        {
+          "text": "on",
+          "start": 109.77,
+          "end": 110.33,
+          "confidence": 0.898
+        },
+        {
+          "text": "[*]",
+          "start": 110.33,
+          "end": 111.53,
+          "confidence": 0
+        },
+        {
+          "text": "a",
+          "start": 111.53,
+          "end": 111.65,
+          "confidence": 0.853
+        },
+        {
+          "text": "little",
+          "start": 111.65,
+          "end": 111.83,
+          "confidence": 0.787
+        },
+        {
+          "text": "grid",
+          "start": 111.83,
+          "end": 112.11,
+          "confidence": 0.815
+        },
+        {
+          "text": "that",
+          "start": 112.11,
+          "end": 112.29,
+          "confidence": 0.859
+        },
+        {
+          "text": "came",
+          "start": 112.29,
+          "end": 112.61,
+          "confidence": 0.819
+        },
+        {
+          "text": "up.",
+          "start": 112.61,
+          "end": 112.89,
+          "confidence": 0.298
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 5600,
+      "start": 112.89,
+      "end": 116.51,
+      "text": " And you had to roughly count the number of black dots, it was weird.",
+      "tokens": [
+        51514,
+        400,
+        291,
+        632,
+        281,
+        9810,
+        1207,
+        264,
+        1230,
+        295,
+        2211,
+        15026,
+        11,
+        309,
+        390,
+        3657,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22274943457709417,
+      "compression_ratio": 1.536231884057971,
+      "no_speech_prob": 0.09987807273864746,
+      "confidence": 0.555,
+      "words": [
+        {
+          "text": "And",
+          "start": 112.89,
+          "end": 113.07,
+          "confidence": 0.055
+        },
+        {
+          "text": "you",
+          "start": 113.07,
+          "end": 113.43,
+          "confidence": 0.167
+        },
+        {
+          "text": "had",
+          "start": 113.43,
+          "end": 113.63,
+          "confidence": 0.814
+        },
+        {
+          "text": "to",
+          "start": 113.63,
+          "end": 113.75,
+          "confidence": 0.886
+        },
+        {
+          "text": "[*]",
+          "start": 113.75,
+          "end": 114.07,
+          "confidence": 0
+        },
+        {
+          "text": "roughly",
+          "start": 114.07,
+          "end": 114.35,
+          "confidence": 0.597
+        },
+        {
+          "text": "count",
+          "start": 114.35,
+          "end": 114.65,
+          "confidence": 0.767
+        },
+        {
+          "text": "the",
+          "start": 114.65,
+          "end": 114.81,
+          "confidence": 0.79
+        },
+        {
+          "text": "number",
+          "start": 114.81,
+          "end": 114.97,
+          "confidence": 0.882
+        },
+        {
+          "text": "of",
+          "start": 114.97,
+          "end": 115.09,
+          "confidence": 0.885
+        },
+        {
+          "text": "black",
+          "start": 115.09,
+          "end": 115.35,
+          "confidence": 0.831
+        },
+        {
+          "text": "dots,",
+          "start": 115.35,
+          "end": 115.71,
+          "confidence": 0.444
+        },
+        {
+          "text": "it",
+          "start": 115.81,
+          "end": 115.91,
+          "confidence": 0.762
+        },
+        {
+          "text": "was",
+          "start": 115.91,
+          "end": 116.05,
+          "confidence": 0.898
+        },
+        {
+          "text": "[*]",
+          "start": 116.05,
+          "end": 116.07,
+          "confidence": 0
+        },
+        {
+          "text": "weird.",
+          "start": 116.07,
+          "end": 116.51,
+          "confidence": 0.621
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 8300,
+      "start": 117.25,
+      "end": 119.67,
+      "text": " But you get all sorts.",
+      "tokens": [
+        50414,
+        583,
+        291,
+        483,
+        439,
+        7527,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.251637968523749,
+      "compression_ratio": 1.296875,
+      "no_speech_prob": 0.00421285443007946,
+      "confidence": 0.64,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 117.25,
+          "end": 118.49,
+          "confidence": 0
+        },
+        {
+          "text": "But",
+          "start": 118.49,
+          "end": 118.63,
+          "confidence": 0.271
+        },
+        {
+          "text": "you",
+          "start": 118.63,
+          "end": 118.73,
+          "confidence": 0.857
+        },
+        {
+          "text": "get",
+          "start": 118.73,
+          "end": 118.87,
+          "confidence": 0.896
+        },
+        {
+          "text": "all",
+          "start": 118.87,
+          "end": 119.13,
+          "confidence": 0.883
+        },
+        {
+          "text": "sorts.",
+          "start": 119.13,
+          "end": 119.67,
+          "confidence": 0.611
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 8300,
+      "start": 121.25,
+      "end": 130.75,
+      "text": " So do you work, or do you work from home, or retired, or homemaker?",
+      "tokens": [
+        50614,
+        407,
+        360,
+        291,
+        589,
+        11,
+        420,
+        360,
+        291,
+        589,
+        490,
+        1280,
+        11,
+        420,
+        16776,
+        11,
+        420,
+        1280,
+        18821,
+        30,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.251637968523749,
+      "compression_ratio": 1.296875,
+      "no_speech_prob": 0.00421285443007946,
+      "confidence": 0.627,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 121.25,
+          "end": 122.19,
+          "confidence": 0
+        },
+        {
+          "text": "So",
+          "start": 122.19,
+          "end": 122.45,
+          "confidence": 0.407
+        },
+        {
+          "text": "[*]",
+          "start": 122.45,
+          "end": 123.21,
+          "confidence": 0
+        },
+        {
+          "text": "do",
+          "start": 123.21,
+          "end": 123.53,
+          "confidence": 0.314
+        },
+        {
+          "text": "you",
+          "start": 123.53,
+          "end": 123.63,
+          "confidence": 0.899
+        },
+        {
+          "text": "[*]",
+          "start": 123.63,
+          "end": 124.77,
+          "confidence": 0
+        },
+        {
+          "text": "work,",
+          "start": 124.77,
+          "end": 125.23,
+          "confidence": 0.438
+        },
+        {
+          "text": "or",
+          "start": 125.25,
+          "end": 125.47,
+          "confidence": 0.49
+        },
+        {
+          "text": "do",
+          "start": 125.47,
+          "end": 126.11,
+          "confidence": 0.832
+        },
+        {
+          "text": "you",
+          "start": 126.11,
+          "end": 126.23,
+          "confidence": 0.899
+        },
+        {
+          "text": "work",
+          "start": 126.23,
+          "end": 126.43,
+          "confidence": 0.815
+        },
+        {
+          "text": "from",
+          "start": 126.43,
+          "end": 126.61,
+          "confidence": 0.797
+        },
+        {
+          "text": "home,",
+          "start": 126.61,
+          "end": 127.07,
+          "confidence": 0.57
+        },
+        {
+          "text": "or",
+          "start": 127.33,
+          "end": 127.49,
+          "confidence": 0.761
+        },
+        {
+          "text": "[*]",
+          "start": 127.49,
+          "end": 128.11,
+          "confidence": 0
+        },
+        {
+          "text": "retired,",
+          "start": 128.11,
+          "end": 128.23,
+          "confidence": 0.582
+        },
+        {
+          "text": "or",
+          "start": 128.49,
+          "end": 128.67,
+          "confidence": 0.693
+        },
+        {
+          "text": "[*]",
+          "start": 129.8,
+          "end": 130.37,
+          "confidence": 0
+        },
+        {
+          "text": "homemaker?",
+          "start": 130.37,
+          "end": 130.75,
+          "confidence": 0.774
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 8300,
+      "start": 141.77,
+      "end": 144.33,
+      "text": " Yeah, I help my husband with my mother-in-law.",
+      "tokens": [
+        51114,
+        865,
+        11,
+        286,
+        854,
+        452,
+        5213,
+        365,
+        452,
+        2895,
+        12,
+        259,
+        12,
+        5901,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.251637968523749,
+      "compression_ratio": 1.296875,
+      "no_speech_prob": 0.00421285443007946,
+      "confidence": 0.707,
+      "words": [
+        {
+          "text": "Yeah,",
+          "start": 141.77,
+          "end": 141.99,
+          "confidence": 0.471
+        },
+        {
+          "text": "I",
+          "start": 142.19,
+          "end": 142.27,
+          "confidence": 0.985
+        },
+        {
+          "text": "help",
+          "start": 142.27,
+          "end": 142.57,
+          "confidence": 0.625
+        },
+        {
+          "text": "my",
+          "start": 142.57,
+          "end": 142.71,
+          "confidence": 0.906
+        },
+        {
+          "text": "husband",
+          "start": 142.71,
+          "end": 143.09,
+          "confidence": 0.847
+        },
+        {
+          "text": "with",
+          "start": 143.09,
+          "end": 143.41,
+          "confidence": 0.809
+        },
+        {
+          "text": "my",
+          "start": 143.41,
+          "end": 143.61,
+          "confidence": 0.897
+        },
+        {
+          "text": "mother-in-law.",
+          "start": 143.61,
+          "end": 144.33,
+          "confidence": 0.684
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 8300,
+      "start": 144.33,
+      "end": 147.53,
+      "text": " She's 91, a bit of dementia.",
+      "tokens": [
+        51264,
+        1240,
+        311,
+        31064,
+        11,
+        257,
+        857,
+        295,
+        31734,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.251637968523749,
+      "compression_ratio": 1.296875,
+      "no_speech_prob": 0.00421285443007946,
+      "confidence": 0.71,
+      "words": [
+        {
+          "text": "She's",
+          "start": 144.33,
+          "end": 144.61,
+          "confidence": 0.496
+        },
+        {
+          "text": "91,",
+          "start": 144.61,
+          "end": 145.43,
+          "confidence": 0.678
+        },
+        {
+          "text": "[*]",
+          "start": 145.43,
+          "end": 146.37,
+          "confidence": 0
+        },
+        {
+          "text": "a",
+          "start": 146.37,
+          "end": 146.59,
+          "confidence": 0.771
+        },
+        {
+          "text": "bit",
+          "start": 146.59,
+          "end": 146.79,
+          "confidence": 0.896
+        },
+        {
+          "text": "of",
+          "start": 146.79,
+          "end": 146.93,
+          "confidence": 0.898
+        },
+        {
+          "text": "dementia.",
+          "start": 146.93,
+          "end": 147.53,
+          "confidence": 0.808
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 10500,
+      "start": 148.35,
+      "end": 155.63,
+      "text": " And there's always something, hospital visits, issues with the medication, you name it.",
+      "tokens": [
+        50414,
+        400,
+        456,
+        311,
+        1009,
+        746,
+        11,
+        4530,
+        17753,
+        11,
+        2663,
+        365,
+        264,
+        13851,
+        11,
+        291,
+        1315,
+        309,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1955910867719508,
+      "compression_ratio": 1.4689265536723164,
+      "no_speech_prob": 0.11692281067371368,
+      "confidence": 0.716,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 148.35,
+          "end": 149.03,
+          "confidence": 0
+        },
+        {
+          "text": "And",
+          "start": 149.03,
+          "end": 149.13,
+          "confidence": 0.364
+        },
+        {
+          "text": "there's",
+          "start": 149.13,
+          "end": 149.31,
+          "confidence": 0.899
+        },
+        {
+          "text": "always",
+          "start": 149.31,
+          "end": 149.61,
+          "confidence": 0.786
+        },
+        {
+          "text": "something,",
+          "start": 149.61,
+          "end": 150.09,
+          "confidence": 0.462
+        },
+        {
+          "text": "[*]",
+          "start": 150.29,
+          "end": 150.49,
+          "confidence": 0
+        },
+        {
+          "text": "hospital",
+          "start": 150.49,
+          "end": 150.79,
+          "confidence": 0.727
+        },
+        {
+          "text": "visits,",
+          "start": 150.79,
+          "end": 151.47,
+          "confidence": 0.904
+        },
+        {
+          "text": "[*]",
+          "start": 152.05,
+          "end": 152.77,
+          "confidence": 0
+        },
+        {
+          "text": "issues",
+          "start": 152.77,
+          "end": 152.89,
+          "confidence": 0.492
+        },
+        {
+          "text": "with",
+          "start": 152.89,
+          "end": 153.39,
+          "confidence": 0.807
+        },
+        {
+          "text": "the",
+          "start": 153.39,
+          "end": 153.69,
+          "confidence": 0.714
+        },
+        {
+          "text": "[*]",
+          "start": 153.69,
+          "end": 154.45,
+          "confidence": 0
+        },
+        {
+          "text": "medication,",
+          "start": 154.45,
+          "end": 154.57,
+          "confidence": 0.786
+        },
+        {
+          "text": "you",
+          "start": 154.93,
+          "end": 155.05,
+          "confidence": 0.859
+        },
+        {
+          "text": "name",
+          "start": 155.05,
+          "end": 155.37,
+          "confidence": 0.758
+        },
+        {
+          "text": "it.",
+          "start": 155.37,
+          "end": 155.63,
+          "confidence": 0.856
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 10500,
+      "start": 155.63,
+      "end": 158.63,
+      "text": " It can be quite stressful, I think.",
+      "tokens": [
+        50764,
+        467,
+        393,
+        312,
+        1596,
+        19108,
+        11,
+        286,
+        519,
+        13,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1955910867719508,
+      "compression_ratio": 1.4689265536723164,
+      "no_speech_prob": 0.11692281067371368,
+      "confidence": 0.699,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 155.63,
+          "end": 156.55,
+          "confidence": 0
+        },
+        {
+          "text": "It",
+          "start": 156.55,
+          "end": 156.69,
+          "confidence": 0.372
+        },
+        {
+          "text": "can",
+          "start": 156.69,
+          "end": 156.89,
+          "confidence": 0.896
+        },
+        {
+          "text": "be",
+          "start": 156.89,
+          "end": 157.05,
+          "confidence": 0.908
+        },
+        {
+          "text": "quite",
+          "start": 157.05,
+          "end": 157.27,
+          "confidence": 0.884
+        },
+        {
+          "text": "[*]",
+          "start": 157.27,
+          "end": 157.67,
+          "confidence": 0
+        },
+        {
+          "text": "stressful,",
+          "start": 157.67,
+          "end": 157.95,
+          "confidence": 0.474
+        },
+        {
+          "text": "I",
+          "start": 158.21,
+          "end": 158.27,
+          "confidence": 0.989
+        },
+        {
+          "text": "think.",
+          "start": 158.27,
+          "end": 158.63,
+          "confidence": 0.819
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 10500,
+      "start": 162.4,
+      "end": 171.62,
+      "text": " Well, I know my husband finds it quite stressful, because he hasn't got the most gentle of temperaments.",
+      "tokens": [
+        51014,
+        1042,
+        11,
+        286,
+        458,
+        452,
+        5213,
+        10704,
+        309,
+        1596,
+        19108,
+        11,
+        570,
+        415,
+        6132,
+        380,
+        658,
+        264,
+        881,
+        6424,
+        295,
+        3393,
+        28401,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1955910867719508,
+      "compression_ratio": 1.4689265536723164,
+      "no_speech_prob": 0.11692281067371368,
+      "confidence": 0.634,
+      "words": [
+        {
+          "text": "Well,",
+          "start": 162.4,
+          "end": 163.04,
+          "confidence": 0.156
+        },
+        {
+          "text": "I",
+          "start": 163.74,
+          "end": 163.88,
+          "confidence": 0.942
+        },
+        {
+          "text": "know",
+          "start": 163.88,
+          "end": 164.28,
+          "confidence": 0.83
+        },
+        {
+          "text": "my",
+          "start": 164.28,
+          "end": 164.44,
+          "confidence": 0.899
+        },
+        {
+          "text": "husband",
+          "start": 164.44,
+          "end": 164.74,
+          "confidence": 0.835
+        },
+        {
+          "text": "finds",
+          "start": 164.74,
+          "end": 165.16,
+          "confidence": 0.768
+        },
+        {
+          "text": "it",
+          "start": 165.16,
+          "end": 165.34,
+          "confidence": 0.902
+        },
+        {
+          "text": "quite",
+          "start": 165.34,
+          "end": 165.56,
+          "confidence": 0.856
+        },
+        {
+          "text": "stressful,",
+          "start": 165.56,
+          "end": 166.06,
+          "confidence": 0.357
+        },
+        {
+          "text": "because",
+          "start": 166.32,
+          "end": 166.42,
+          "confidence": 0.499
+        },
+        {
+          "text": "he",
+          "start": 166.42,
+          "end": 166.54,
+          "confidence": 0.89
+        },
+        {
+          "text": "hasn't",
+          "start": 166.54,
+          "end": 166.8,
+          "confidence": 0.886
+        },
+        {
+          "text": "got",
+          "start": 166.8,
+          "end": 166.96,
+          "confidence": 0.898
+        },
+        {
+          "text": "the",
+          "start": 166.96,
+          "end": 167.22,
+          "confidence": 0.778
+        },
+        {
+          "text": "[*]",
+          "start": 167.22,
+          "end": 168.02,
+          "confidence": 0
+        },
+        {
+          "text": "most",
+          "start": 168.02,
+          "end": 168.44,
+          "confidence": 0.72
+        },
+        {
+          "text": "[*]",
+          "start": 168.44,
+          "end": 169.92,
+          "confidence": 0
+        },
+        {
+          "text": "gentle",
+          "start": 169.92,
+          "end": 170.44,
+          "confidence": 0.781
+        },
+        {
+          "text": "of",
+          "start": 170.44,
+          "end": 170.72,
+          "confidence": 0.895
+        },
+        {
+          "text": "temperaments.",
+          "start": 170.72,
+          "end": 171.62,
+          "confidence": 0.595
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 10500,
+      "start": 171.62,
+      "end": 174.88,
+      "text": " He gets worked up quite easily.",
+      "tokens": [
+        51464,
+        634,
+        2170,
+        2732,
+        493,
+        1596,
+        3612,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1955910867719508,
+      "compression_ratio": 1.4689265536723164,
+      "no_speech_prob": 0.11692281067371368,
+      "confidence": 0.612,
+      "words": [
+        {
+          "text": "He",
+          "start": 171.62,
+          "end": 171.94,
+          "confidence": 0.213
+        },
+        {
+          "text": "gets",
+          "start": 171.94,
+          "end": 172.3,
+          "confidence": 0.776
+        },
+        {
+          "text": "[*]",
+          "start": 172.3,
+          "end": 173.4,
+          "confidence": 0
+        },
+        {
+          "text": "worked",
+          "start": 173.4,
+          "end": 173.64,
+          "confidence": 0.608
+        },
+        {
+          "text": "up",
+          "start": 173.64,
+          "end": 173.98,
+          "confidence": 0.833
+        },
+        {
+          "text": "quite",
+          "start": 173.98,
+          "end": 174.32,
+          "confidence": 0.844
+        },
+        {
+          "text": "easily.",
+          "start": 174.32,
+          "end": 174.88,
+          "confidence": 0.675
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 13000,
+      "start": 175.4,
+      "end": 183.74,
+      "text": " Yeah, I think especially if it's your own relative, I think.",
+      "tokens": [
+        50414,
+        865,
+        11,
+        286,
+        519,
+        2318,
+        498,
+        309,
+        311,
+        428,
+        1065,
+        4972,
+        11,
+        286,
+        519,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2512315644158257,
+      "compression_ratio": 1.348148148148148,
+      "no_speech_prob": 0.09151969105005264,
+      "confidence": 0.683,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 175.4,
+          "end": 176.12,
+          "confidence": 0
+        },
+        {
+          "text": "Yeah,",
+          "start": 180.2,
+          "end": 180.86,
+          "confidence": 0.215
+        },
+        {
+          "text": "I",
+          "start": 181.08,
+          "end": 181.2,
+          "confidence": 0.882
+        },
+        {
+          "text": "think",
+          "start": 181.2,
+          "end": 181.36,
+          "confidence": 0.808
+        },
+        {
+          "text": "[*]",
+          "start": 181.36,
+          "end": 181.4,
+          "confidence": 0
+        },
+        {
+          "text": "especially",
+          "start": 181.4,
+          "end": 181.82,
+          "confidence": 0.636
+        },
+        {
+          "text": "if",
+          "start": 181.82,
+          "end": 182.04,
+          "confidence": 0.866
+        },
+        {
+          "text": "it's",
+          "start": 182.04,
+          "end": 182.24,
+          "confidence": 0.924
+        },
+        {
+          "text": "your",
+          "start": 182.24,
+          "end": 182.38,
+          "confidence": 0.81
+        },
+        {
+          "text": "own",
+          "start": 182.38,
+          "end": 182.56,
+          "confidence": 0.83
+        },
+        {
+          "text": "relative,",
+          "start": 182.56,
+          "end": 183.1,
+          "confidence": 0.686
+        },
+        {
+          "text": "I",
+          "start": 183.28,
+          "end": 183.36,
+          "confidence": 0.929
+        },
+        {
+          "text": "think.",
+          "start": 183.36,
+          "end": 183.74,
+          "confidence": 0.846
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 13000,
+      "start": 196.56,
+      "end": 200.08,
+      "text": " Knitting, I like knitting and cross-stitch.",
+      "tokens": [
+        51064,
+        10519,
+        2414,
+        11,
+        286,
+        411,
+        25498,
+        293,
+        3278,
+        12,
+        372,
+        1549,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2512315644158257,
+      "compression_ratio": 1.348148148148148,
+      "no_speech_prob": 0.09151969105005264,
+      "confidence": 0.581,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 196.56,
+          "end": 196.9,
+          "confidence": 0
+        },
+        {
+          "text": "Knitting,",
+          "start": 196.9,
+          "end": 197.82,
+          "confidence": 0.455
+        },
+        {
+          "text": "[*]",
+          "start": 197.82,
+          "end": 198.16,
+          "confidence": 0
+        },
+        {
+          "text": "I",
+          "start": 198.16,
+          "end": 198.3,
+          "confidence": 0.895
+        },
+        {
+          "text": "like",
+          "start": 198.3,
+          "end": 198.52,
+          "confidence": 0.885
+        },
+        {
+          "text": "knitting",
+          "start": 198.52,
+          "end": 198.94,
+          "confidence": 0.798
+        },
+        {
+          "text": "and",
+          "start": 198.94,
+          "end": 199.18,
+          "confidence": 0.805
+        },
+        {
+          "text": "cross-stitch.",
+          "start": 199.18,
+          "end": 200.08,
+          "confidence": 0.499
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 13000,
+      "start": 204.4,
+      "end": 215.9,
+      "text": " Because I made my dad a jumper last year, and it was taking up so much space.",
+      "tokens": [
+        51464,
+        1436,
+        286,
+        1027,
+        452,
+        3546,
+        257,
+        44061,
+        1036,
+        1064,
+        11,
+        293,
+        309,
+        390,
+        1940,
+        493,
+        370,
+        709,
+        1901,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2512315644158257,
+      "compression_ratio": 1.348148148148148,
+      "no_speech_prob": 0.09151969105005264,
+      "confidence": 0.655,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 204.4,
+          "end": 204.9,
+          "confidence": 0
+        },
+        {
+          "text": "Because",
+          "start": 211.38,
+          "end": 211.56,
+          "confidence": 0.144
+        },
+        {
+          "text": "I",
+          "start": 211.56,
+          "end": 211.72,
+          "confidence": 0.948
+        },
+        {
+          "text": "made",
+          "start": 211.72,
+          "end": 212.0,
+          "confidence": 0.809
+        },
+        {
+          "text": "[*]",
+          "start": 212.0,
+          "end": 212.54,
+          "confidence": 0
+        },
+        {
+          "text": "my",
+          "start": 212.54,
+          "end": 212.82,
+          "confidence": 0.647
+        },
+        {
+          "text": "dad",
+          "start": 212.82,
+          "end": 213.04,
+          "confidence": 0.518
+        },
+        {
+          "text": "a",
+          "start": 213.04,
+          "end": 213.16,
+          "confidence": 0.984
+        },
+        {
+          "text": "jumper",
+          "start": 213.16,
+          "end": 213.42,
+          "confidence": 0.83
+        },
+        {
+          "text": "last",
+          "start": 213.42,
+          "end": 213.82,
+          "confidence": 0.814
+        },
+        {
+          "text": "year,",
+          "start": 213.82,
+          "end": 214.1,
+          "confidence": 0.375
+        },
+        {
+          "text": "and",
+          "start": 214.24,
+          "end": 214.26,
+          "confidence": 0.668
+        },
+        {
+          "text": "it",
+          "start": 214.26,
+          "end": 214.36,
+          "confidence": 0.897
+        },
+        {
+          "text": "was",
+          "start": 214.36,
+          "end": 214.5,
+          "confidence": 0.836
+        },
+        {
+          "text": "taking",
+          "start": 214.5,
+          "end": 214.7,
+          "confidence": 0.759
+        },
+        {
+          "text": "up",
+          "start": 214.7,
+          "end": 214.88,
+          "confidence": 0.91
+        },
+        {
+          "text": "so",
+          "start": 214.88,
+          "end": 215.02,
+          "confidence": 0.897
+        },
+        {
+          "text": "much",
+          "start": 215.02,
+          "end": 215.3,
+          "confidence": 0.819
+        },
+        {
+          "text": "[*]",
+          "start": 215.3,
+          "end": 215.68,
+          "confidence": 0
+        },
+        {
+          "text": "space.",
+          "start": 215.68,
+          "end": 215.9,
+          "confidence": 0.602
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 15700,
+      "start": 215.9,
+      "end": 218.6,
+      "text": " I thought, I'll do something with it.",
+      "tokens": [
+        50364,
+        286,
+        1194,
+        11,
+        286,
+        603,
+        360,
+        746,
+        365,
+        309,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22206118901570637,
+      "compression_ratio": 1.3228346456692914,
+      "no_speech_prob": 0.004334946162998676,
+      "confidence": 0.686,
+      "words": [
+        {
+          "text": "I",
+          "start": 215.9,
+          "end": 216.38,
+          "confidence": 0.826
+        },
+        {
+          "text": "thought,",
+          "start": 216.38,
+          "end": 216.64,
+          "confidence": 0.398
+        },
+        {
+          "text": "I'll",
+          "start": 216.74,
+          "end": 217.46,
+          "confidence": 0.78
+        },
+        {
+          "text": "do",
+          "start": 217.46,
+          "end": 217.66,
+          "confidence": 0.905
+        },
+        {
+          "text": "something",
+          "start": 217.66,
+          "end": 218.1,
+          "confidence": 0.749
+        },
+        {
+          "text": "with",
+          "start": 218.1,
+          "end": 218.4,
+          "confidence": 0.809
+        },
+        {
+          "text": "it.",
+          "start": 218.4,
+          "end": 218.6,
+          "confidence": 0.73
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 15700,
+      "start": 219.4,
+      "end": 227.76,
+      "text": " So I do like to have something to do with my hands, just to keep them busy, so I don't get up to mischief.",
+      "tokens": [
+        50564,
+        407,
+        286,
+        360,
+        411,
+        281,
+        362,
+        746,
+        281,
+        360,
+        365,
+        452,
+        2377,
+        11,
+        445,
+        281,
+        1066,
+        552,
+        5856,
+        11,
+        370,
+        286,
+        500,
+        380,
+        483,
+        493,
+        281,
+        3346,
+        30189,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22206118901570637,
+      "compression_ratio": 1.3228346456692914,
+      "no_speech_prob": 0.004334946162998676,
+      "confidence": 0.733,
+      "words": [
+        {
+          "text": "So",
+          "start": 219.4,
+          "end": 220.08,
+          "confidence": 0.576
+        },
+        {
+          "text": "I",
+          "start": 220.08,
+          "end": 220.5,
+          "confidence": 0.713
+        },
+        {
+          "text": "do",
+          "start": 220.5,
+          "end": 220.68,
+          "confidence": 0.879
+        },
+        {
+          "text": "like",
+          "start": 220.68,
+          "end": 220.88,
+          "confidence": 0.878
+        },
+        {
+          "text": "to",
+          "start": 220.88,
+          "end": 221.0,
+          "confidence": 0.893
+        },
+        {
+          "text": "have",
+          "start": 221.0,
+          "end": 221.14,
+          "confidence": 0.862
+        },
+        {
+          "text": "something",
+          "start": 221.14,
+          "end": 221.8,
+          "confidence": 0.723
+        },
+        {
+          "text": "[*]",
+          "start": 221.8,
+          "end": 222.52,
+          "confidence": 0
+        },
+        {
+          "text": "to",
+          "start": 222.52,
+          "end": 222.66,
+          "confidence": 0.789
+        },
+        {
+          "text": "do",
+          "start": 222.66,
+          "end": 222.82,
+          "confidence": 0.907
+        },
+        {
+          "text": "with",
+          "start": 222.82,
+          "end": 222.96,
+          "confidence": 0.806
+        },
+        {
+          "text": "my",
+          "start": 222.96,
+          "end": 223.1,
+          "confidence": 0.9
+        },
+        {
+          "text": "hands,",
+          "start": 223.1,
+          "end": 223.62,
+          "confidence": 0.619
+        },
+        {
+          "text": "just",
+          "start": 223.9,
+          "end": 224.34,
+          "confidence": 0.121
+        },
+        {
+          "text": "to",
+          "start": 224.34,
+          "end": 224.66,
+          "confidence": 0.891
+        },
+        {
+          "text": "[*]",
+          "start": 224.66,
+          "end": 225.24,
+          "confidence": 0
+        },
+        {
+          "text": "keep",
+          "start": 225.24,
+          "end": 225.44,
+          "confidence": 0.78
+        },
+        {
+          "text": "them",
+          "start": 225.44,
+          "end": 225.64,
+          "confidence": 0.744
+        },
+        {
+          "text": "busy,",
+          "start": 225.64,
+          "end": 226.04,
+          "confidence": 0.562
+        },
+        {
+          "text": "so",
+          "start": 226.62,
+          "end": 226.74,
+          "confidence": 0.759
+        },
+        {
+          "text": "I",
+          "start": 226.74,
+          "end": 226.84,
+          "confidence": 0.728
+        },
+        {
+          "text": "don't",
+          "start": 226.84,
+          "end": 226.9,
+          "confidence": 0.948
+        },
+        {
+          "text": "get",
+          "start": 226.9,
+          "end": 227.04,
+          "confidence": 0.668
+        },
+        {
+          "text": "up",
+          "start": 227.04,
+          "end": 227.16,
+          "confidence": 0.883
+        },
+        {
+          "text": "to",
+          "start": 227.16,
+          "end": 227.3,
+          "confidence": 0.904
+        },
+        {
+          "text": "mischief.",
+          "start": 227.3,
+          "end": 227.76,
+          "confidence": 0.872
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 15700,
+      "start": 233.1,
+      "end": 233.92,
+      "text": " Oh, yeah.",
+      "tokens": [
+        51164,
+        876,
+        11,
+        1338,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22206118901570637,
+      "compression_ratio": 1.3228346456692914,
+      "no_speech_prob": 0.004334946162998676,
+      "confidence": 0.468,
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 233.1,
+          "end": 233.52,
+          "confidence": 0.329
+        },
+        {
+          "text": "yeah.",
+          "start": 233.72,
+          "end": 233.92,
+          "confidence": 0.666
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 15700,
+      "start": 237.52,
+      "end": 238.24,
+      "text": " Oh, no!",
+      "tokens": [
+        51264,
+        876,
+        11,
+        572,
+        0,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22206118901570637,
+      "compression_ratio": 1.3228346456692914,
+      "no_speech_prob": 0.004334946162998676,
+      "confidence": 0.485,
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 237.52,
+          "end": 237.88,
+          "confidence": 0.377
+        },
+        {
+          "text": "no!",
+          "start": 237.96,
+          "end": 238.24,
+          "confidence": 0.625
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 15700,
+      "start": 238.24,
+      "end": 239.04,
+      "text": " Yeah!",
+      "tokens": [
+        51314,
+        865,
+        0,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22206118901570637,
+      "compression_ratio": 1.3228346456692914,
+      "no_speech_prob": 0.004334946162998676,
+      "confidence": 0.16,
+      "words": [
+        {
+          "text": "Yeah!",
+          "start": 238.24,
+          "end": 239.04,
+          "confidence": 0.16
+        }
+      ]
+    }
+  ],
+  "language": "English",
+  "speech_activity": [
+    {
+      "start": 11.1,
+      "end": 16.15
+    },
+    {
+      "start": 18.85,
+      "end": 27.4
+    },
+    {
+      "start": 34.0,
+      "end": 36.4
+    },
+    {
+      "start": 43.0,
+      "end": 44.75
+    },
+    {
+      "start": 45.15,
+      "end": 58.4
+    },
+    {
+      "start": 60.75,
+      "end": 92.5
+    },
+    {
+      "start": 96.5,
+      "end": 129.2
+    },
+    {
+      "start": 129.8,
+      "end": 131.4
+    },
+    {
+      "start": 131.85,
+      "end": 133.1
+    },
+    {
+      "start": 141.15,
+      "end": 160.05
+    },
+    {
+      "start": 162.1,
+      "end": 176.6
+    },
+    {
+      "start": 180.2,
+      "end": 184.35
+    },
+    {
+      "start": 184.7,
+      "end": 186.4
+    },
+    {
+      "start": 188.0,
+      "end": 191.9
+    },
+    {
+      "start": 193.5,
+      "end": 194.85
+    },
+    {
+      "start": 195.4,
+      "end": 201.4
+    },
+    {
+      "start": 201.7,
+      "end": 204.9
+    },
+    {
+      "start": 210.9,
+      "end": 229.45
+    },
+    {
+      "start": 229.6,
+      "end": 231.85
+    },
+    {
+      "start": 232.7,
+      "end": 234.6
+    },
+    {
+      "start": 237.1,
+      "end": 241.55
+    }
+  ]
+}

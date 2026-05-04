@@ -1,0 +1,544 @@
+{
+  "text": " yeah can you hear me yeah oh I know I refreshed the page and then yeah well the call before there was really bad like distortion I couldn't hear a word she was saying so I don't know I don't know if it's deliberate mate yeah maybe it's I don't know yeah oh are you in Ireland?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 25.15,
+      "end": 41.45,
+      "text": " yeah can you hear me yeah oh I know I refreshed the page and then yeah well",
+      "tokens": [
+        50364,
+        1338,
+        393,
+        291,
+        1568,
+        385,
+        1338,
+        1954,
+        286,
+        458,
+        286,
+        46330,
+        264,
+        3028,
+        293,
+        550,
+        1338,
+        731,
+        50908
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45919867737652503,
+      "compression_ratio": 1.6626506024096386,
+      "no_speech_prob": 0.0038490828592330217,
+      "confidence": 0.446,
+      "words": [
+        {
+          "text": "yeah",
+          "start": 25.15,
+          "end": 25.87,
+          "confidence": 0.031
+        },
+        {
+          "text": "can",
+          "start": 25.87,
+          "end": 26.17,
+          "confidence": 0.582
+        },
+        {
+          "text": "you",
+          "start": 26.17,
+          "end": 26.29,
+          "confidence": 0.902
+        },
+        {
+          "text": "hear",
+          "start": 26.29,
+          "end": 26.45,
+          "confidence": 0.886
+        },
+        {
+          "text": "me",
+          "start": 26.45,
+          "end": 26.77,
+          "confidence": 0.912
+        },
+        {
+          "text": "[*]",
+          "start": 26.77,
+          "end": 27.2,
+          "confidence": 0
+        },
+        {
+          "text": "yeah",
+          "start": 27.88,
+          "end": 28.32,
+          "confidence": 0.542
+        },
+        {
+          "text": "oh",
+          "start": 28.32,
+          "end": 28.82,
+          "confidence": 0.551
+        },
+        {
+          "text": "[*]",
+          "start": 28.82,
+          "end": 29.3,
+          "confidence": 0
+        },
+        {
+          "text": "I",
+          "start": 30.29,
+          "end": 30.49,
+          "confidence": 0.89
+        },
+        {
+          "text": "know",
+          "start": 30.49,
+          "end": 30.67,
+          "confidence": 0.784
+        },
+        {
+          "text": "I",
+          "start": 30.67,
+          "end": 30.85,
+          "confidence": 0.96
+        },
+        {
+          "text": "refreshed",
+          "start": 30.85,
+          "end": 31.29,
+          "confidence": 0.337
+        },
+        {
+          "text": "the",
+          "start": 31.29,
+          "end": 31.47,
+          "confidence": 0.727
+        },
+        {
+          "text": "[*]",
+          "start": 31.47,
+          "end": 31.83,
+          "confidence": 0
+        },
+        {
+          "text": "page",
+          "start": 31.83,
+          "end": 31.97,
+          "confidence": 0.821
+        },
+        {
+          "text": "and",
+          "start": 31.97,
+          "end": 32.15,
+          "confidence": 0.826
+        },
+        {
+          "text": "then",
+          "start": 32.15,
+          "end": 32.33,
+          "confidence": 0.732
+        },
+        {
+          "text": "[*]",
+          "start": 33.65,
+          "end": 34.8,
+          "confidence": 0
+        },
+        {
+          "text": "yeah",
+          "start": 35.36,
+          "end": 35.52,
+          "confidence": 0.374
+        },
+        {
+          "text": "[*]",
+          "start": 35.52,
+          "end": 36.75,
+          "confidence": 0
+        },
+        {
+          "text": "well",
+          "start": 41.13,
+          "end": 41.45,
+          "confidence": 0.009
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 41.45,
+      "end": 45.37,
+      "text": " the call before there was really bad like distortion I couldn't hear a word",
+      "tokens": [
+        50908,
+        264,
+        818,
+        949,
+        456,
+        390,
+        534,
+        1578,
+        411,
+        28426,
+        286,
+        2809,
+        380,
+        1568,
+        257,
+        1349,
+        51104
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45919867737652503,
+      "compression_ratio": 1.6626506024096386,
+      "no_speech_prob": 0.0038490828592330217,
+      "confidence": 0.576,
+      "words": [
+        {
+          "text": "the",
+          "start": 41.45,
+          "end": 41.75,
+          "confidence": 0.395
+        },
+        {
+          "text": "call",
+          "start": 41.75,
+          "end": 42.23,
+          "confidence": 0.459
+        },
+        {
+          "text": "before",
+          "start": 42.23,
+          "end": 42.63,
+          "confidence": 0.795
+        },
+        {
+          "text": "there",
+          "start": 42.63,
+          "end": 42.87,
+          "confidence": 0.592
+        },
+        {
+          "text": "was",
+          "start": 42.87,
+          "end": 43.03,
+          "confidence": 0.898
+        },
+        {
+          "text": "really",
+          "start": 43.03,
+          "end": 43.29,
+          "confidence": 0.383
+        },
+        {
+          "text": "bad",
+          "start": 43.29,
+          "end": 43.61,
+          "confidence": 0.838
+        },
+        {
+          "text": "like",
+          "start": 43.61,
+          "end": 43.83,
+          "confidence": 0.101
+        },
+        {
+          "text": "[*]",
+          "start": 43.83,
+          "end": 44.31,
+          "confidence": 0
+        },
+        {
+          "text": "distortion",
+          "start": 44.31,
+          "end": 44.49,
+          "confidence": 0.872
+        },
+        {
+          "text": "I",
+          "start": 44.49,
+          "end": 44.71,
+          "confidence": 0.618
+        },
+        {
+          "text": "couldn't",
+          "start": 44.71,
+          "end": 44.93,
+          "confidence": 0.86
+        },
+        {
+          "text": "hear",
+          "start": 44.93,
+          "end": 45.09,
+          "confidence": 0.86
+        },
+        {
+          "text": "a",
+          "start": 45.09,
+          "end": 45.21,
+          "confidence": 0.4
+        },
+        {
+          "text": "word",
+          "start": 45.21,
+          "end": 45.37,
+          "confidence": 0.751
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 45.37,
+      "end": 52.39,
+      "text": " she was saying so I don't know I don't know if it's deliberate mate yeah maybe",
+      "tokens": [
+        51104,
+        750,
+        390,
+        1566,
+        370,
+        286,
+        500,
+        380,
+        458,
+        286,
+        500,
+        380,
+        458,
+        498,
+        309,
+        311,
+        30515,
+        11709,
+        1338,
+        1310,
+        51416
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45919867737652503,
+      "compression_ratio": 1.6626506024096386,
+      "no_speech_prob": 0.0038490828592330217,
+      "confidence": 0.585,
+      "words": [
+        {
+          "text": "she",
+          "start": 45.37,
+          "end": 45.51,
+          "confidence": 0.477
+        },
+        {
+          "text": "was",
+          "start": 45.51,
+          "end": 45.67,
+          "confidence": 0.877
+        },
+        {
+          "text": "saying",
+          "start": 45.67,
+          "end": 45.99,
+          "confidence": 0.839
+        },
+        {
+          "text": "so",
+          "start": 45.99,
+          "end": 46.39,
+          "confidence": 0.644
+        },
+        {
+          "text": "I",
+          "start": 46.39,
+          "end": 46.73,
+          "confidence": 0.767
+        },
+        {
+          "text": "don't",
+          "start": 46.73,
+          "end": 46.95,
+          "confidence": 0.937
+        },
+        {
+          "text": "know",
+          "start": 46.95,
+          "end": 47.4,
+          "confidence": 0.818
+        },
+        {
+          "text": "I",
+          "start": 47.76,
+          "end": 48.14,
+          "confidence": 0.062
+        },
+        {
+          "text": "don't",
+          "start": 48.14,
+          "end": 48.3,
+          "confidence": 0.872
+        },
+        {
+          "text": "know",
+          "start": 48.3,
+          "end": 48.38,
+          "confidence": 0.682
+        },
+        {
+          "text": "if",
+          "start": 48.38,
+          "end": 48.46,
+          "confidence": 0.818
+        },
+        {
+          "text": "it's",
+          "start": 48.46,
+          "end": 48.54,
+          "confidence": 0.766
+        },
+        {
+          "text": "deliberate",
+          "start": 48.54,
+          "end": 48.82,
+          "confidence": 0.228
+        },
+        {
+          "text": "mate",
+          "start": 48.82,
+          "end": 49.14,
+          "confidence": 0.707
+        },
+        {
+          "text": "[*]",
+          "start": 49.14,
+          "end": 49.65,
+          "confidence": 0
+        },
+        {
+          "text": "yeah",
+          "start": 50.55,
+          "end": 50.91,
+          "confidence": 0.326
+        },
+        {
+          "text": "[*]",
+          "start": 50.91,
+          "end": 52.11,
+          "confidence": 0
+        },
+        {
+          "text": "maybe",
+          "start": 52.11,
+          "end": 52.39,
+          "confidence": 0.374
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 52.39,
+      "end": 57.81,
+      "text": " it's I don't know yeah oh are you in Ireland?",
+      "tokens": [
+        51416,
+        309,
+        311,
+        286,
+        500,
+        380,
+        458,
+        1338,
+        1954,
+        366,
+        291,
+        294,
+        15880,
+        30,
+        51716
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45919867737652503,
+      "compression_ratio": 1.6626506024096386,
+      "no_speech_prob": 0.0038490828592330217,
+      "confidence": 0.419,
+      "words": [
+        {
+          "text": "it's",
+          "start": 52.39,
+          "end": 52.71,
+          "confidence": 0.126
+        },
+        {
+          "text": "I",
+          "start": 52.71,
+          "end": 52.89,
+          "confidence": 0.425
+        },
+        {
+          "text": "don't",
+          "start": 52.89,
+          "end": 53.11,
+          "confidence": 0.933
+        },
+        {
+          "text": "know",
+          "start": 53.11,
+          "end": 53.59,
+          "confidence": 0.812
+        },
+        {
+          "text": "[*]",
+          "start": 54.85,
+          "end": 55.32,
+          "confidence": 0
+        },
+        {
+          "text": "yeah",
+          "start": 55.32,
+          "end": 55.56,
+          "confidence": 0.598
+        },
+        {
+          "text": "[*]",
+          "start": 56.4,
+          "end": 57.07,
+          "confidence": 0
+        },
+        {
+          "text": "oh",
+          "start": 57.07,
+          "end": 57.29,
+          "confidence": 0.24
+        },
+        {
+          "text": "are",
+          "start": 57.29,
+          "end": 57.39,
+          "confidence": 0.126
+        },
+        {
+          "text": "you",
+          "start": 57.39,
+          "end": 57.47,
+          "confidence": 0.901
+        },
+        {
+          "text": "in",
+          "start": 57.47,
+          "end": 57.59,
+          "confidence": 0.466
+        },
+        {
+          "text": "Ireland?",
+          "start": 57.59,
+          "end": 57.81,
+          "confidence": 0.58
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

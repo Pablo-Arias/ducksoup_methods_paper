@@ -1,0 +1,527 @@
+{
+  "text": " yeah can you hear me yeah oh I know I refresh the page and then yeah well the call before there was really bad light distortion I couldn't hear a word she was saying so I don't know don't have it still it put me yeah maybe I don't know yeah oh you and I",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 25.15,
+      "end": 41.69,
+      "text": " yeah can you hear me yeah oh I know I refresh the page and then yeah well the",
+      "tokens": [
+        50364,
+        1338,
+        393,
+        291,
+        1568,
+        385,
+        1338,
+        1954,
+        286,
+        458,
+        286,
+        15134,
+        264,
+        3028,
+        293,
+        550,
+        1338,
+        731,
+        264,
+        50916
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4679679870605469,
+      "compression_ratio": 1.6428571428571428,
+      "no_speech_prob": 0.0032283265609294176,
+      "confidence": 0.545,
+      "words": [
+        {
+          "text": "yeah",
+          "start": 25.15,
+          "end": 25.83,
+          "confidence": 0.037
+        },
+        {
+          "text": "can",
+          "start": 25.83,
+          "end": 26.11,
+          "confidence": 0.596
+        },
+        {
+          "text": "you",
+          "start": 26.11,
+          "end": 26.25,
+          "confidence": 0.902
+        },
+        {
+          "text": "hear",
+          "start": 26.25,
+          "end": 26.41,
+          "confidence": 0.884
+        },
+        {
+          "text": "me",
+          "start": 26.41,
+          "end": 26.73,
+          "confidence": 0.908
+        },
+        {
+          "text": "[*]",
+          "start": 26.73,
+          "end": 27.15,
+          "confidence": 0
+        },
+        {
+          "text": "yeah",
+          "start": 27.84,
+          "end": 28.26,
+          "confidence": 0.547
+        },
+        {
+          "text": "oh",
+          "start": 28.26,
+          "end": 28.8,
+          "confidence": 0.616
+        },
+        {
+          "text": "[*]",
+          "start": 28.8,
+          "end": 29.25,
+          "confidence": 0
+        },
+        {
+          "text": "I",
+          "start": 30.23,
+          "end": 30.45,
+          "confidence": 0.866
+        },
+        {
+          "text": "know",
+          "start": 30.45,
+          "end": 30.63,
+          "confidence": 0.778
+        },
+        {
+          "text": "I",
+          "start": 30.63,
+          "end": 30.81,
+          "confidence": 0.962
+        },
+        {
+          "text": "refresh",
+          "start": 30.81,
+          "end": 31.19,
+          "confidence": 0.48
+        },
+        {
+          "text": "the",
+          "start": 31.19,
+          "end": 31.43,
+          "confidence": 0.808
+        },
+        {
+          "text": "[*]",
+          "start": 31.43,
+          "end": 31.81,
+          "confidence": 0
+        },
+        {
+          "text": "page",
+          "start": 31.81,
+          "end": 31.93,
+          "confidence": 0.834
+        },
+        {
+          "text": "and",
+          "start": 31.93,
+          "end": 32.11,
+          "confidence": 0.846
+        },
+        {
+          "text": "then",
+          "start": 32.11,
+          "end": 32.29,
+          "confidence": 0.726
+        },
+        {
+          "text": "[*]",
+          "start": 33.6,
+          "end": 34.75,
+          "confidence": 0
+        },
+        {
+          "text": "yeah",
+          "start": 35.32,
+          "end": 35.52,
+          "confidence": 0.41
+        },
+        {
+          "text": "[*]",
+          "start": 35.52,
+          "end": 36.7,
+          "confidence": 0
+        },
+        {
+          "text": "well",
+          "start": 41.15,
+          "end": 41.41,
+          "confidence": 0.099
+        },
+        {
+          "text": "the",
+          "start": 41.41,
+          "end": 41.69,
+          "confidence": 0.651
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 41.69,
+      "end": 45.47,
+      "text": " call before there was really bad light distortion I couldn't hear a word she",
+      "tokens": [
+        50916,
+        818,
+        949,
+        456,
+        390,
+        534,
+        1578,
+        1442,
+        28426,
+        286,
+        2809,
+        380,
+        1568,
+        257,
+        1349,
+        750,
+        51110
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4679679870605469,
+      "compression_ratio": 1.6428571428571428,
+      "no_speech_prob": 0.0032283265609294176,
+      "confidence": 0.436,
+      "words": [
+        {
+          "text": "call",
+          "start": 41.69,
+          "end": 42.13,
+          "confidence": 0.001
+        },
+        {
+          "text": "before",
+          "start": 42.13,
+          "end": 42.57,
+          "confidence": 0.778
+        },
+        {
+          "text": "there",
+          "start": 42.57,
+          "end": 42.83,
+          "confidence": 0.556
+        },
+        {
+          "text": "was",
+          "start": 42.83,
+          "end": 42.99,
+          "confidence": 0.894
+        },
+        {
+          "text": "really",
+          "start": 42.99,
+          "end": 43.23,
+          "confidence": 0.333
+        },
+        {
+          "text": "bad",
+          "start": 43.23,
+          "end": 43.57,
+          "confidence": 0.833
+        },
+        {
+          "text": "light",
+          "start": 43.57,
+          "end": 43.79,
+          "confidence": 0.693
+        },
+        {
+          "text": "[*]",
+          "start": 43.79,
+          "end": 44.25,
+          "confidence": 0
+        },
+        {
+          "text": "distortion",
+          "start": 44.25,
+          "end": 44.43,
+          "confidence": 0.818
+        },
+        {
+          "text": "I",
+          "start": 44.43,
+          "end": 44.65,
+          "confidence": 0.319
+        },
+        {
+          "text": "couldn't",
+          "start": 44.65,
+          "end": 44.87,
+          "confidence": 0.855
+        },
+        {
+          "text": "hear",
+          "start": 44.87,
+          "end": 45.03,
+          "confidence": 0.891
+        },
+        {
+          "text": "a",
+          "start": 45.03,
+          "end": 45.15,
+          "confidence": 0.881
+        },
+        {
+          "text": "word",
+          "start": 45.15,
+          "end": 45.31,
+          "confidence": 0.761
+        },
+        {
+          "text": "she",
+          "start": 45.31,
+          "end": 45.47,
+          "confidence": 0.775
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 45.47,
+      "end": 53.25,
+      "text": " was saying so I don't know don't have it still it put me yeah maybe I don't know",
+      "tokens": [
+        51110,
+        390,
+        1566,
+        370,
+        286,
+        500,
+        380,
+        458,
+        500,
+        380,
+        362,
+        309,
+        920,
+        309,
+        829,
+        385,
+        1338,
+        1310,
+        286,
+        500,
+        380,
+        458,
+        51460
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4679679870605469,
+      "compression_ratio": 1.6428571428571428,
+      "no_speech_prob": 0.0032283265609294176,
+      "confidence": 0.477,
+      "words": [
+        {
+          "text": "was",
+          "start": 45.47,
+          "end": 45.61,
+          "confidence": 0.316
+        },
+        {
+          "text": "saying",
+          "start": 45.61,
+          "end": 45.93,
+          "confidence": 0.822
+        },
+        {
+          "text": "so",
+          "start": 45.93,
+          "end": 46.33,
+          "confidence": 0.644
+        },
+        {
+          "text": "I",
+          "start": 46.33,
+          "end": 46.69,
+          "confidence": 0.745
+        },
+        {
+          "text": "don't",
+          "start": 46.69,
+          "end": 46.91,
+          "confidence": 0.934
+        },
+        {
+          "text": "know",
+          "start": 46.91,
+          "end": 47.15,
+          "confidence": 0.799
+        },
+        {
+          "text": "don't",
+          "start": 47.6,
+          "end": 48.24,
+          "confidence": 0.25
+        },
+        {
+          "text": "have",
+          "start": 48.24,
+          "end": 48.36,
+          "confidence": 0.258
+        },
+        {
+          "text": "it",
+          "start": 48.36,
+          "end": 48.44,
+          "confidence": 0.122
+        },
+        {
+          "text": "still",
+          "start": 48.44,
+          "end": 48.6,
+          "confidence": 0.542
+        },
+        {
+          "text": "it",
+          "start": 48.6,
+          "end": 48.76,
+          "confidence": 0.156
+        },
+        {
+          "text": "put",
+          "start": 48.76,
+          "end": 48.88,
+          "confidence": 0.584
+        },
+        {
+          "text": "me",
+          "start": 48.88,
+          "end": 49.1,
+          "confidence": 0.92
+        },
+        {
+          "text": "[*]",
+          "start": 49.1,
+          "end": 49.6,
+          "confidence": 0
+        },
+        {
+          "text": "yeah",
+          "start": 50.49,
+          "end": 50.89,
+          "confidence": 0.85
+        },
+        {
+          "text": "[*]",
+          "start": 50.89,
+          "end": 52.07,
+          "confidence": 0
+        },
+        {
+          "text": "maybe",
+          "start": 52.07,
+          "end": 52.37,
+          "confidence": 0.268
+        },
+        {
+          "text": "I",
+          "start": 52.37,
+          "end": 52.81,
+          "confidence": 0.309
+        },
+        {
+          "text": "don't",
+          "start": 52.81,
+          "end": 53.07,
+          "confidence": 0.828
+        },
+        {
+          "text": "know",
+          "start": 53.07,
+          "end": 53.25,
+          "confidence": 0.479
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 53.25,
+      "end": 57.69,
+      "text": " yeah oh you and I",
+      "tokens": [
+        51460,
+        1338,
+        1954,
+        291,
+        293,
+        286,
+        51704
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4679679870605469,
+      "compression_ratio": 1.6428571428571428,
+      "no_speech_prob": 0.0032283265609294176,
+      "confidence": 0.454,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 53.25,
+          "end": 53.65,
+          "confidence": 0
+        },
+        {
+          "text": "yeah",
+          "start": 55.18,
+          "end": 55.5,
+          "confidence": 0.21
+        },
+        {
+          "text": "[*]",
+          "start": 56.35,
+          "end": 57.03,
+          "confidence": 0
+        },
+        {
+          "text": "oh",
+          "start": 57.03,
+          "end": 57.23,
+          "confidence": 0.223
+        },
+        {
+          "text": "you",
+          "start": 57.23,
+          "end": 57.39,
+          "confidence": 0.688
+        },
+        {
+          "text": "and",
+          "start": 57.39,
+          "end": 57.53,
+          "confidence": 0.734
+        },
+        {
+          "text": "I",
+          "start": 57.53,
+          "end": 57.69,
+          "confidence": 0.82
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

@@ -1,0 +1,697 @@
+{
+  "text": " Bella, no. No, Bella, stop it. Come here. What's the matter, Bella? Come here. What's this? What's this? What's the matter, Bells? Do you want to go see Mum? Shush, shush, shush, shush, shush, shush. Let's go. Wait, wait, wait, wait. No, Bella, no, no, no, Bella. You're so naughty. What?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 5.55,
+      "end": 77.17,
+      "text": " Bella, no. No, Bella, stop it. Come here. What's the matter, Bella? Come here. What's this?",
+      "tokens": [
+        50364,
+        29133,
+        11,
+        572,
+        13,
+        883,
+        11,
+        29133,
+        11,
+        1590,
+        309,
+        13,
+        2492,
+        510,
+        13,
+        708,
+        311,
+        264,
+        1871,
+        11,
+        29133,
+        30,
+        2492,
+        510,
+        13,
+        708,
+        311,
+        341,
+        30,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3810401916503906,
+      "compression_ratio": 1.7863247863247864,
+      "no_speech_prob": 0.3266049921512604,
+      "confidence": 0.731,
+      "words": [
+        {
+          "text": "Bella,",
+          "start": 5.55,
+          "end": 6.23,
+          "confidence": 0.556
+        },
+        {
+          "text": "no.",
+          "start": 6.31,
+          "end": 6.51,
+          "confidence": 0.69
+        },
+        {
+          "text": "[*]",
+          "start": 26.8,
+          "end": 28.6,
+          "confidence": 0
+        },
+        {
+          "text": "No,",
+          "start": 29.51,
+          "end": 29.69,
+          "confidence": 0.433
+        },
+        {
+          "text": "Bella,",
+          "start": 29.81,
+          "end": 29.95,
+          "confidence": 0.706
+        },
+        {
+          "text": "stop",
+          "start": 30.05,
+          "end": 30.27,
+          "confidence": 0.828
+        },
+        {
+          "text": "it.",
+          "start": 30.27,
+          "end": 30.57,
+          "confidence": 0.882
+        },
+        {
+          "text": "[*]",
+          "start": 37.25,
+          "end": 37.67,
+          "confidence": 0
+        },
+        {
+          "text": "Come",
+          "start": 37.67,
+          "end": 37.87,
+          "confidence": 0.724
+        },
+        {
+          "text": "here.",
+          "start": 37.87,
+          "end": 38.11,
+          "confidence": 0.858
+        },
+        {
+          "text": "[*]",
+          "start": 38.11,
+          "end": 38.9,
+          "confidence": 0
+        },
+        {
+          "text": "What's",
+          "start": 74.43,
+          "end": 74.95,
+          "confidence": 0.757
+        },
+        {
+          "text": "the",
+          "start": 74.95,
+          "end": 75.05,
+          "confidence": 0.821
+        },
+        {
+          "text": "matter,",
+          "start": 75.05,
+          "end": 75.17,
+          "confidence": 0.775
+        },
+        {
+          "text": "Bella?",
+          "start": 75.29,
+          "end": 75.41,
+          "confidence": 0.726
+        },
+        {
+          "text": "Come",
+          "start": 75.47,
+          "end": 75.61,
+          "confidence": 0.835
+        },
+        {
+          "text": "here.",
+          "start": 75.61,
+          "end": 75.93,
+          "confidence": 0.815
+        },
+        {
+          "text": "What's",
+          "start": 76.59,
+          "end": 76.97,
+          "confidence": 0.754
+        },
+        {
+          "text": "this?",
+          "start": 76.97,
+          "end": 77.17,
+          "confidence": 0.84
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 78.68,
+      "end": 79.0,
+      "text": " What's this?",
+      "tokens": [
+        50914,
+        708,
+        311,
+        341,
+        30,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3810401916503906,
+      "compression_ratio": 1.7863247863247864,
+      "no_speech_prob": 0.3266049921512604,
+      "confidence": 0.736,
+      "words": [
+        {
+          "text": "What's",
+          "start": 78.68,
+          "end": 78.88,
+          "confidence": 0.61
+        },
+        {
+          "text": "this?",
+          "start": 78.88,
+          "end": 79.0,
+          "confidence": 0.889
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 106.5,
+      "end": 108.46,
+      "text": " What's the matter, Bells? Do you want to go see Mum?",
+      "tokens": [
+        51364,
+        708,
+        311,
+        264,
+        1871,
+        11,
+        11485,
+        82,
+        30,
+        1144,
+        291,
+        528,
+        281,
+        352,
+        536,
+        24279,
+        30,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3810401916503906,
+      "compression_ratio": 1.7863247863247864,
+      "no_speech_prob": 0.3266049921512604,
+      "confidence": 0.532,
+      "words": [
+        {
+          "text": "What's",
+          "start": 106.5,
+          "end": 107.0,
+          "confidence": 0.704
+        },
+        {
+          "text": "the",
+          "start": 107.0,
+          "end": 107.1,
+          "confidence": 0.822
+        },
+        {
+          "text": "matter,",
+          "start": 107.1,
+          "end": 107.24,
+          "confidence": 0.285
+        },
+        {
+          "text": "Bells?",
+          "start": 107.36,
+          "end": 107.6,
+          "confidence": 0.257
+        },
+        {
+          "text": "Do",
+          "start": 107.64,
+          "end": 107.74,
+          "confidence": 0.734
+        },
+        {
+          "text": "you",
+          "start": 107.74,
+          "end": 107.76,
+          "confidence": 0.902
+        },
+        {
+          "text": "want",
+          "start": 107.76,
+          "end": 107.84,
+          "confidence": 0.604
+        },
+        {
+          "text": "to",
+          "start": 107.84,
+          "end": 107.9,
+          "confidence": 0.906
+        },
+        {
+          "text": "go",
+          "start": 107.9,
+          "end": 108.02,
+          "confidence": 0.896
+        },
+        {
+          "text": "see",
+          "start": 108.02,
+          "end": 108.16,
+          "confidence": 0.716
+        },
+        {
+          "text": "Mum?",
+          "start": 108.16,
+          "end": 108.46,
+          "confidence": 0.562
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 113.6,
+      "end": 118.12,
+      "text": " Shush, shush, shush, shush, shush, shush. Let's go.",
+      "tokens": [
+        51514,
+        1160,
+        1498,
+        11,
+        402,
+        1498,
+        11,
+        402,
+        1498,
+        11,
+        402,
+        1498,
+        11,
+        402,
+        1498,
+        11,
+        402,
+        1498,
+        13,
+        961,
+        311,
+        352,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3810401916503906,
+      "compression_ratio": 1.7863247863247864,
+      "no_speech_prob": 0.3266049921512604,
+      "confidence": 0.679,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 113.6,
+          "end": 114.61,
+          "confidence": 0
+        },
+        {
+          "text": "Shush,",
+          "start": 114.61,
+          "end": 115.05,
+          "confidence": 0.293
+        },
+        {
+          "text": "shush,",
+          "start": 115.23,
+          "end": 115.25,
+          "confidence": 0.929
+        },
+        {
+          "text": "shush,",
+          "start": 115.25,
+          "end": 115.67,
+          "confidence": 0.862
+        },
+        {
+          "text": "shush,",
+          "start": 115.69,
+          "end": 115.85,
+          "confidence": 0.821
+        },
+        {
+          "text": "shush,",
+          "start": 115.85,
+          "end": 116.03,
+          "confidence": 0.813
+        },
+        {
+          "text": "shush.",
+          "start": 116.03,
+          "end": 116.33,
+          "confidence": 0.663
+        },
+        {
+          "text": "Let's",
+          "start": 117.45,
+          "end": 117.94,
+          "confidence": 0.469
+        },
+        {
+          "text": "go.",
+          "start": 117.94,
+          "end": 118.12,
+          "confidence": 0.905
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2700,
+      "start": 119.2,
+      "end": 122.44,
+      "text": " Wait, wait, wait, wait.",
+      "tokens": [
+        50414,
+        3802,
+        11,
+        1699,
+        11,
+        1699,
+        11,
+        1699,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28158508936564125,
+      "compression_ratio": 1.309090909090909,
+      "no_speech_prob": 0.02555811032652855,
+      "confidence": 0.601,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 119.2,
+          "end": 120.46,
+          "confidence": 0
+        },
+        {
+          "text": "Wait,",
+          "start": 120.46,
+          "end": 120.64,
+          "confidence": 0.414
+        },
+        {
+          "text": "[*]",
+          "start": 121.18,
+          "end": 121.58,
+          "confidence": 0
+        },
+        {
+          "text": "wait,",
+          "start": 121.58,
+          "end": 121.8,
+          "confidence": 0.825
+        },
+        {
+          "text": "wait,",
+          "start": 121.9,
+          "end": 122.14,
+          "confidence": 0.607
+        },
+        {
+          "text": "wait.",
+          "start": 122.24,
+          "end": 122.44,
+          "confidence": 0.628
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2700,
+      "start": 124.15,
+      "end": 128.71,
+      "text": " No, Bella, no, no, no, Bella. You're so naughty.",
+      "tokens": [
+        50614,
+        883,
+        11,
+        29133,
+        11,
+        572,
+        11,
+        572,
+        11,
+        572,
+        11,
+        29133,
+        13,
+        509,
+        434,
+        370,
+        32154,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28158508936564125,
+      "compression_ratio": 1.309090909090909,
+      "no_speech_prob": 0.02555811032652855,
+      "confidence": 0.273,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 124.15,
+          "end": 125.07,
+          "confidence": 0
+        },
+        {
+          "text": "No,",
+          "start": 125.07,
+          "end": 125.43,
+          "confidence": 0.241
+        },
+        {
+          "text": "Bella,",
+          "start": 125.57,
+          "end": 125.71,
+          "confidence": 0.017
+        },
+        {
+          "text": "no,",
+          "start": 125.87,
+          "end": 126.17,
+          "confidence": 0.623
+        },
+        {
+          "text": "no,",
+          "start": 126.31,
+          "end": 126.37,
+          "confidence": 0.689
+        },
+        {
+          "text": "no,",
+          "start": 126.37,
+          "end": 126.51,
+          "confidence": 0.591
+        },
+        {
+          "text": "Bella.",
+          "start": 126.61,
+          "end": 126.87,
+          "confidence": 0.607
+        },
+        {
+          "text": "[*]",
+          "start": 127.19,
+          "end": 127.79,
+          "confidence": 0
+        },
+        {
+          "text": "You're",
+          "start": 127.79,
+          "end": 128.21,
+          "confidence": 0.034
+        },
+        {
+          "text": "so",
+          "start": 128.21,
+          "end": 128.35,
+          "confidence": 0.736
+        },
+        {
+          "text": "naughty.",
+          "start": 128.35,
+          "end": 128.71,
+          "confidence": 0.887
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 5700,
+      "start": 240.16,
+      "end": 240.48,
+      "text": " What?",
+      "tokens": [
+        50414,
+        708,
+        30,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2452111005783081,
+      "compression_ratio": 0.38461538461538464,
+      "no_speech_prob": 0.060192227363586426,
+      "confidence": 0.494,
+      "words": [
+        {
+          "text": "What?",
+          "start": 240.16,
+          "end": 240.48,
+          "confidence": 0.494
+        }
+      ]
+    }
+  ],
+  "language": "English",
+  "speech_activity": [
+    {
+      "start": 5.55,
+      "end": 7.0
+    },
+    {
+      "start": 13.2,
+      "end": 14.4
+    },
+    {
+      "start": 26.8,
+      "end": 28.6
+    },
+    {
+      "start": 29.0,
+      "end": 31.05
+    },
+    {
+      "start": 37.25,
+      "end": 38.9
+    },
+    {
+      "start": 74.3,
+      "end": 77.6
+    },
+    {
+      "start": 78.35,
+      "end": 80.9
+    },
+    {
+      "start": 85.7,
+      "end": 87.4
+    },
+    {
+      "start": 89.0,
+      "end": 92.2
+    },
+    {
+      "start": 95.0,
+      "end": 96.1
+    },
+    {
+      "start": 106.5,
+      "end": 109.05
+    },
+    {
+      "start": 113.6,
+      "end": 116.8
+    },
+    {
+      "start": 117.45,
+      "end": 122.95
+    },
+    {
+      "start": 123.9,
+      "end": 130.25
+    },
+    {
+      "start": 136.95,
+      "end": 138.05
+    },
+    {
+      "start": 138.35,
+      "end": 139.45
+    },
+    {
+      "start": 143.95,
+      "end": 145.25
+    },
+    {
+      "start": 151.8,
+      "end": 154.2
+    },
+    {
+      "start": 160.0,
+      "end": 161.9
+    },
+    {
+      "start": 167.9,
+      "end": 170.1
+    },
+    {
+      "start": 171.9,
+      "end": 176.15
+    },
+    {
+      "start": 184.15,
+      "end": 185.55
+    },
+    {
+      "start": 197.95,
+      "end": 199.55
+    },
+    {
+      "start": 209.55,
+      "end": 211.4
+    },
+    {
+      "start": 212.95,
+      "end": 214.1
+    },
+    {
+      "start": 237.0,
+      "end": 238.15
+    },
+    {
+      "start": 239.9,
+      "end": 241.1
+    },
+    {
+      "start": 244.35,
+      "end": 245.55
+    }
+  ]
+}

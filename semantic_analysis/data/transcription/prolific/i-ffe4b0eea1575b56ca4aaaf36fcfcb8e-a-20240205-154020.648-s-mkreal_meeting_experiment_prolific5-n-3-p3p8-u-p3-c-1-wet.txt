@@ -1,0 +1,312 @@
+{
+  "text": " Hi, how are you, okay? Yeah, good, thank you. Your sound's a little bit muffled, I can't hear you very well. It's still a bit muffled. Can you hear me okay? Hello.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 8.5,
+      "end": 19.13,
+      "text": " Hi, how are you, okay? Yeah, good, thank you. Your sound's a little bit muffled, I can't hear you very well.",
+      "tokens": [
+        50364,
+        2421,
+        11,
+        577,
+        366,
+        291,
+        11,
+        1392,
+        30,
+        865,
+        11,
+        665,
+        11,
+        1309,
+        291,
+        13,
+        2260,
+        1626,
+        311,
+        257,
+        707,
+        857,
+        22635,
+        1493,
+        11,
+        286,
+        393,
+        380,
+        1568,
+        291,
+        588,
+        731,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37543487548828125,
+      "compression_ratio": 1.304,
+      "no_speech_prob": 0.03636309504508972,
+      "confidence": 0.702,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 8.5,
+          "end": 9.04,
+          "confidence": 0
+        },
+        {
+          "text": "Hi,",
+          "start": 9.04,
+          "end": 9.24,
+          "confidence": 0.598
+        },
+        {
+          "text": "[*]",
+          "start": 9.24,
+          "end": 9.8,
+          "confidence": 0
+        },
+        {
+          "text": "how",
+          "start": 11.55,
+          "end": 12.05,
+          "confidence": 0.869
+        },
+        {
+          "text": "are",
+          "start": 12.05,
+          "end": 12.17,
+          "confidence": 0.9
+        },
+        {
+          "text": "you,",
+          "start": 12.17,
+          "end": 12.27,
+          "confidence": 0.449
+        },
+        {
+          "text": "okay?",
+          "start": 12.37,
+          "end": 12.55,
+          "confidence": 0.668
+        },
+        {
+          "text": "[*]",
+          "start": 12.55,
+          "end": 13.05,
+          "confidence": 0
+        },
+        {
+          "text": "Yeah,",
+          "start": 15.41,
+          "end": 15.75,
+          "confidence": 0.513
+        },
+        {
+          "text": "good,",
+          "start": 15.87,
+          "end": 16.01,
+          "confidence": 0.507
+        },
+        {
+          "text": "thank",
+          "start": 16.13,
+          "end": 16.23,
+          "confidence": 0.794
+        },
+        {
+          "text": "you.",
+          "start": 16.23,
+          "end": 16.45,
+          "confidence": 0.882
+        },
+        {
+          "text": "Your",
+          "start": 16.61,
+          "end": 16.85,
+          "confidence": 0.433
+        },
+        {
+          "text": "sound's",
+          "start": 16.85,
+          "end": 17.27,
+          "confidence": 0.72
+        },
+        {
+          "text": "a",
+          "start": 17.27,
+          "end": 17.35,
+          "confidence": 0.98
+        },
+        {
+          "text": "little",
+          "start": 17.35,
+          "end": 17.51,
+          "confidence": 0.762
+        },
+        {
+          "text": "bit",
+          "start": 17.51,
+          "end": 17.71,
+          "confidence": 0.821
+        },
+        {
+          "text": "muffled,",
+          "start": 17.71,
+          "end": 18.09,
+          "confidence": 0.73
+        },
+        {
+          "text": "I",
+          "start": 18.13,
+          "end": 18.23,
+          "confidence": 0.91
+        },
+        {
+          "text": "can't",
+          "start": 18.23,
+          "end": 18.45,
+          "confidence": 0.885
+        },
+        {
+          "text": "hear",
+          "start": 18.45,
+          "end": 18.57,
+          "confidence": 0.667
+        },
+        {
+          "text": "you",
+          "start": 18.57,
+          "end": 18.69,
+          "confidence": 0.87
+        },
+        {
+          "text": "very",
+          "start": 18.69,
+          "end": 18.89,
+          "confidence": 0.705
+        },
+        {
+          "text": "well.",
+          "start": 18.89,
+          "end": 19.13,
+          "confidence": 0.851
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 19.13,
+      "end": 38.26,
+      "text": " It's still a bit muffled. Can you hear me okay? Hello.",
+      "tokens": [
+        50714,
+        467,
+        311,
+        920,
+        257,
+        857,
+        22635,
+        1493,
+        13,
+        1664,
+        291,
+        1568,
+        385,
+        1392,
+        30,
+        2425,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.37543487548828125,
+      "compression_ratio": 1.304,
+      "no_speech_prob": 0.03636309504508972,
+      "confidence": 0.536,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 19.13,
+          "end": 19.7,
+          "confidence": 0
+        },
+        {
+          "text": "It's",
+          "start": 23.46,
+          "end": 23.96,
+          "confidence": 0.62
+        },
+        {
+          "text": "still",
+          "start": 23.96,
+          "end": 24.2,
+          "confidence": 0.876
+        },
+        {
+          "text": "a",
+          "start": 24.2,
+          "end": 24.74,
+          "confidence": 0.394
+        },
+        {
+          "text": "bit",
+          "start": 24.74,
+          "end": 24.9,
+          "confidence": 0.903
+        },
+        {
+          "text": "muffled.",
+          "start": 24.9,
+          "end": 25.38,
+          "confidence": 0.368
+        },
+        {
+          "text": "Can",
+          "start": 25.76,
+          "end": 26.12,
+          "confidence": 0.468
+        },
+        {
+          "text": "you",
+          "start": 26.12,
+          "end": 26.26,
+          "confidence": 0.901
+        },
+        {
+          "text": "hear",
+          "start": 26.26,
+          "end": 26.36,
+          "confidence": 0.87
+        },
+        {
+          "text": "me",
+          "start": 26.36,
+          "end": 26.52,
+          "confidence": 0.911
+        },
+        {
+          "text": "okay?",
+          "start": 26.52,
+          "end": 26.78,
+          "confidence": 0.667
+        },
+        {
+          "text": "[*]",
+          "start": 26.78,
+          "end": 27.35,
+          "confidence": 0
+        },
+        {
+          "text": "Hello.",
+          "start": 37.9,
+          "end": 38.26,
+          "confidence": 0.229
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

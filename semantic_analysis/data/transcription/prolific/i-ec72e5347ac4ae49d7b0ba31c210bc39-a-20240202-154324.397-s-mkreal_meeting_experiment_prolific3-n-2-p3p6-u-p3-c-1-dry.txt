@@ -1,0 +1,162 @@
+{
+  "text": " Make sure you go to the bathroom, I didn't give anything, it's the life of your face.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 8.62,
+      "text": " Make sure you go to the bathroom, I didn't give anything, it's the life of your face.",
+      "tokens": [
+        50364,
+        4387,
+        988,
+        291,
+        352,
+        281,
+        264,
+        8687,
+        11,
+        286,
+        994,
+        380,
+        290,
+        592,
+        68,
+        1340,
+        11,
+        309,
+        311,
+        264,
+        993,
+        295,
+        428,
+        1851,
+        13,
+        50892
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8799172860604746,
+      "compression_ratio": 1.0240963855421688,
+      "no_speech_prob": 0.10791800916194916,
+      "confidence": 0.417,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 0.0,
+          "end": 2.62,
+          "confidence": 0
+        },
+        {
+          "text": "Make",
+          "start": 2.62,
+          "end": 2.84,
+          "confidence": 0.042
+        },
+        {
+          "text": "sure",
+          "start": 2.84,
+          "end": 3.02,
+          "confidence": 0.829
+        },
+        {
+          "text": "you",
+          "start": 3.02,
+          "end": 3.2,
+          "confidence": 0.882
+        },
+        {
+          "text": "go",
+          "start": 3.2,
+          "end": 3.38,
+          "confidence": 0.47
+        },
+        {
+          "text": "to",
+          "start": 3.38,
+          "end": 3.54,
+          "confidence": 0.833
+        },
+        {
+          "text": "the",
+          "start": 3.54,
+          "end": 3.68,
+          "confidence": 0.77
+        },
+        {
+          "text": "bathroom,",
+          "start": 3.68,
+          "end": 4.16,
+          "confidence": 0.159
+        },
+        {
+          "text": "I",
+          "start": 4.88,
+          "end": 5.28,
+          "confidence": 0.432
+        },
+        {
+          "text": "didn't",
+          "start": 5.28,
+          "end": 5.5,
+          "confidence": 0.709
+        },
+        {
+          "text": "give",
+          "start": 5.5,
+          "end": 5.76,
+          "confidence": 0.444
+        },
+        {
+          "text": "anything,",
+          "start": 5.76,
+          "end": 6.34,
+          "confidence": 0.356
+        },
+        {
+          "text": "[*]",
+          "start": 6.34,
+          "end": 6.88,
+          "confidence": 0
+        },
+        {
+          "text": "it's",
+          "start": 6.88,
+          "end": 7.22,
+          "confidence": 0.401
+        },
+        {
+          "text": "the",
+          "start": 7.22,
+          "end": 7.52,
+          "confidence": 0.244
+        },
+        {
+          "text": "life",
+          "start": 7.52,
+          "end": 7.78,
+          "confidence": 0.228
+        },
+        {
+          "text": "of",
+          "start": 7.78,
+          "end": 7.92,
+          "confidence": 0.446
+        },
+        {
+          "text": "your",
+          "start": 7.92,
+          "end": 8.1,
+          "confidence": 0.709
+        },
+        {
+          "text": "face.",
+          "start": 8.1,
+          "end": 8.62,
+          "confidence": 0.698
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

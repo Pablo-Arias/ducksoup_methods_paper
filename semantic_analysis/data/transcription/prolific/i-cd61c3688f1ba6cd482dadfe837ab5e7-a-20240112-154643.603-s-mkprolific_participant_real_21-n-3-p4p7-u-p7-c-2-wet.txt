@@ -1,0 +1,112 @@
+{
+  "text": " . . . .",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 5.44,
+      "end": 5.46,
+      "text": " .",
+      "tokens": [
+        50364,
+        2411,
+        50612
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.6752077249380258,
+      "compression_ratio": 0.5833333333333334,
+      "no_speech_prob": 0.595494270324707,
+      "confidence": 0.012,
+      "words": [
+        {
+          "text": ".",
+          "start": 5.44,
+          "end": 5.46,
+          "confidence": 0.012
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 10.44,
+      "end": 10.46,
+      "text": " .",
+      "tokens": [
+        50614,
+        2411,
+        50862
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.6752077249380258,
+      "compression_ratio": 0.5833333333333334,
+      "no_speech_prob": 0.595494270324707,
+      "confidence": 0.021,
+      "words": [
+        {
+          "text": ".",
+          "start": 10.44,
+          "end": 10.46,
+          "confidence": 0.021
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 15.44,
+      "end": 15.46,
+      "text": " .",
+      "tokens": [
+        50864,
+        2411,
+        51112
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.6752077249380258,
+      "compression_ratio": 0.5833333333333334,
+      "no_speech_prob": 0.595494270324707,
+      "confidence": 0.006,
+      "words": [
+        {
+          "text": ".",
+          "start": 15.44,
+          "end": 15.46,
+          "confidence": 0.006
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 15.46,
+      "end": 16.32,
+      "text": " .",
+      "tokens": [
+        51114,
+        2411,
+        51246
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.6752077249380258,
+      "compression_ratio": 0.5833333333333334,
+      "no_speech_prob": 0.595494270324707,
+      "confidence": 0.012,
+      "words": [
+        {
+          "text": ".",
+          "start": 15.46,
+          "end": 16.32,
+          "confidence": 0.012
+        }
+      ]
+    }
+  ],
+  "language": "English",
+  "speech_activity": [
+    {
+      "start": 0.0,
+      "end": 17.6426875
+    }
+  ]
+}

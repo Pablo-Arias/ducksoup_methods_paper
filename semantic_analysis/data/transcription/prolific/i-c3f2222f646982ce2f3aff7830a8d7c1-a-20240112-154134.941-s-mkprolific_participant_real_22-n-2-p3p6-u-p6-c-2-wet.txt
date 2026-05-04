@@ -1,0 +1,908 @@
+{
+  "text": " Hi. Hi, Sue. Can you hear me now? I'm alright. How about you? I'm good. Nice to meet you, Sue. Finally. Happy New Year. Happy New Year, Sue. Oh, it's so nice to meet you. Yeah, yeah, I can't speak Swahili normally. It's so cool. I have my ears on. Yeah, yeah. Yeah, definitely. I'm about to do it, Sue. Happy New Year. It's alright. Yeah, sure, sure. Lovely to see you too.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 8.95,
+      "end": 14.64,
+      "text": " Hi. Hi, Sue. Can you hear me now?",
+      "tokens": [
+        50364,
+        2421,
+        13,
+        2421,
+        11,
+        25332,
+        13,
+        1664,
+        291,
+        1568,
+        385,
+        586,
+        30,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36329758167266846,
+      "compression_ratio": 1.4657534246575343,
+      "no_speech_prob": 0.17604726552963257,
+      "confidence": 0.693,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 8.95,
+          "end": 9.61,
+          "confidence": 0
+        },
+        {
+          "text": "Hi.",
+          "start": 9.61,
+          "end": 9.75,
+          "confidence": 0.449
+        },
+        {
+          "text": "[*]",
+          "start": 10.01,
+          "end": 10.23,
+          "confidence": 0
+        },
+        {
+          "text": "Hi,",
+          "start": 10.45,
+          "end": 11.12,
+          "confidence": 0.504
+        },
+        {
+          "text": "Sue.",
+          "start": 11.36,
+          "end": 11.5,
+          "confidence": 0.874
+        },
+        {
+          "text": "[*]",
+          "start": 12.0,
+          "end": 13.62,
+          "confidence": 0
+        },
+        {
+          "text": "Can",
+          "start": 13.62,
+          "end": 13.78,
+          "confidence": 0.513
+        },
+        {
+          "text": "you",
+          "start": 13.78,
+          "end": 13.94,
+          "confidence": 0.904
+        },
+        {
+          "text": "hear",
+          "start": 13.94,
+          "end": 14.12,
+          "confidence": 0.878
+        },
+        {
+          "text": "me",
+          "start": 14.12,
+          "end": 14.36,
+          "confidence": 0.905
+        },
+        {
+          "text": "now?",
+          "start": 14.36,
+          "end": 14.64,
+          "confidence": 0.925
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 18.9,
+      "end": 21.14,
+      "text": " I'm alright. How about you? I'm good.",
+      "tokens": [
+        50664,
+        286,
+        478,
+        5845,
+        13,
+        1012,
+        466,
+        291,
+        30,
+        286,
+        478,
+        665,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36329758167266846,
+      "compression_ratio": 1.4657534246575343,
+      "no_speech_prob": 0.17604726552963257,
+      "confidence": 0.586,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 18.9,
+          "end": 19.12,
+          "confidence": 0.284
+        },
+        {
+          "text": "alright.",
+          "start": 19.12,
+          "end": 19.66,
+          "confidence": 0.562
+        },
+        {
+          "text": "How",
+          "start": 19.86,
+          "end": 20.24,
+          "confidence": 0.396
+        },
+        {
+          "text": "about",
+          "start": 20.24,
+          "end": 20.46,
+          "confidence": 0.484
+        },
+        {
+          "text": "you?",
+          "start": 20.46,
+          "end": 20.58,
+          "confidence": 0.711
+        },
+        {
+          "text": "I'm",
+          "start": 20.62,
+          "end": 20.74,
+          "confidence": 0.958
+        },
+        {
+          "text": "good.",
+          "start": 20.74,
+          "end": 21.14,
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 21.65,
+      "end": 25.0,
+      "text": " Nice to meet you, Sue. Finally.",
+      "tokens": [
+        50964,
+        5490,
+        281,
+        1677,
+        291,
+        11,
+        25332,
+        13,
+        6288,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36329758167266846,
+      "compression_ratio": 1.4657534246575343,
+      "no_speech_prob": 0.17604726552963257,
+      "confidence": 0.426,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 21.65,
+          "end": 22.28,
+          "confidence": 0
+        },
+        {
+          "text": "Nice",
+          "start": 22.28,
+          "end": 22.46,
+          "confidence": 0.132
+        },
+        {
+          "text": "to",
+          "start": 22.46,
+          "end": 22.68,
+          "confidence": 0.891
+        },
+        {
+          "text": "meet",
+          "start": 22.68,
+          "end": 22.84,
+          "confidence": 0.82
+        },
+        {
+          "text": "you,",
+          "start": 22.84,
+          "end": 23.04,
+          "confidence": 0.519
+        },
+        {
+          "text": "Sue.",
+          "start": 23.08,
+          "end": 23.3,
+          "confidence": 0.455
+        },
+        {
+          "text": "Finally.",
+          "start": 24.2,
+          "end": 25.0,
+          "confidence": 0.293
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 25.3,
+      "end": 28.82,
+      "text": " Happy New Year. Happy New Year, Sue.",
+      "tokens": [
+        51164,
+        8277,
+        1873,
+        10289,
+        13,
+        8277,
+        1873,
+        10289,
+        11,
+        25332,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36329758167266846,
+      "compression_ratio": 1.4657534246575343,
+      "no_speech_prob": 0.17604726552963257,
+      "confidence": 0.407,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 25.3,
+          "end": 25.9,
+          "confidence": 0
+        },
+        {
+          "text": "Happy",
+          "start": 25.9,
+          "end": 26.36,
+          "confidence": 0.497
+        },
+        {
+          "text": "New",
+          "start": 26.36,
+          "end": 26.76,
+          "confidence": 0.7
+        },
+        {
+          "text": "Year.",
+          "start": 26.76,
+          "end": 27.08,
+          "confidence": 0.568
+        },
+        {
+          "text": "Happy",
+          "start": 27.26,
+          "end": 28.0,
+          "confidence": 0.248
+        },
+        {
+          "text": "New",
+          "start": 28.0,
+          "end": 28.24,
+          "confidence": 0.859
+        },
+        {
+          "text": "Year,",
+          "start": 28.24,
+          "end": 28.46,
+          "confidence": 0.414
+        },
+        {
+          "text": "Sue.",
+          "start": 28.58,
+          "end": 28.82,
+          "confidence": 0.173
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 29.3,
+      "end": 34.01,
+      "text": " Oh, it's so nice to meet you.",
+      "tokens": [
+        51364,
+        876,
+        11,
+        309,
+        311,
+        370,
+        1481,
+        281,
+        1677,
+        291,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36329758167266846,
+      "compression_ratio": 1.4657534246575343,
+      "no_speech_prob": 0.17604726552963257,
+      "confidence": 0.664,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 29.3,
+          "end": 32.08,
+          "confidence": 0
+        },
+        {
+          "text": "Oh,",
+          "start": 32.25,
+          "end": 32.87,
+          "confidence": 0.236
+        },
+        {
+          "text": "it's",
+          "start": 32.95,
+          "end": 33.11,
+          "confidence": 0.829
+        },
+        {
+          "text": "so",
+          "start": 33.11,
+          "end": 33.23,
+          "confidence": 0.893
+        },
+        {
+          "text": "nice",
+          "start": 33.23,
+          "end": 33.47,
+          "confidence": 0.82
+        },
+        {
+          "text": "to",
+          "start": 33.47,
+          "end": 33.67,
+          "confidence": 0.905
+        },
+        {
+          "text": "meet",
+          "start": 33.67,
+          "end": 33.85,
+          "confidence": 0.861
+        },
+        {
+          "text": "you.",
+          "start": 33.85,
+          "end": 34.01,
+          "confidence": 0.878
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 37.85,
+      "end": 40.99,
+      "text": " Yeah, yeah, I can't speak Swahili normally.",
+      "tokens": [
+        51564,
+        865,
+        11,
+        1338,
+        11,
+        286,
+        393,
+        380,
+        1710,
+        3926,
+        545,
+        2312,
+        5646,
+        13,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36329758167266846,
+      "compression_ratio": 1.4657534246575343,
+      "no_speech_prob": 0.17604726552963257,
+      "confidence": 0.376,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 37.85,
+          "end": 38.31,
+          "confidence": 0
+        },
+        {
+          "text": "Yeah,",
+          "start": 38.31,
+          "end": 38.57,
+          "confidence": 0.545
+        },
+        {
+          "text": "yeah,",
+          "start": 38.87,
+          "end": 39.17,
+          "confidence": 0.545
+        },
+        {
+          "text": "I",
+          "start": 39.37,
+          "end": 39.49,
+          "confidence": 0.958
+        },
+        {
+          "text": "[*]",
+          "start": 39.49,
+          "end": 39.55,
+          "confidence": 0
+        },
+        {
+          "text": "can't",
+          "start": 39.55,
+          "end": 39.95,
+          "confidence": 0.881
+        },
+        {
+          "text": "speak",
+          "start": 39.95,
+          "end": 40.17,
+          "confidence": 0.12
+        },
+        {
+          "text": "Swahili",
+          "start": 40.17,
+          "end": 40.55,
+          "confidence": 0.301
+        },
+        {
+          "text": "normally.",
+          "start": 40.55,
+          "end": 40.99,
+          "confidence": 0.117
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2800,
+      "start": 40.99,
+      "end": 46.04,
+      "text": " It's so cool. I have my ears on.",
+      "tokens": [
+        50364,
+        467,
+        311,
+        370,
+        1627,
+        13,
+        286,
+        362,
+        452,
+        8798,
+        322,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3084131984387414,
+      "compression_ratio": 1.2845528455284554,
+      "no_speech_prob": 0.0167646836489439,
+      "confidence": 0.27,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 40.99,
+          "end": 41.87,
+          "confidence": 0
+        },
+        {
+          "text": "It's",
+          "start": 41.87,
+          "end": 43.31,
+          "confidence": 0.251
+        },
+        {
+          "text": "so",
+          "start": 43.31,
+          "end": 43.53,
+          "confidence": 0.876
+        },
+        {
+          "text": "cool.",
+          "start": 43.53,
+          "end": 43.83,
+          "confidence": 0.427
+        },
+        {
+          "text": "I",
+          "start": 43.99,
+          "end": 44.05,
+          "confidence": 0.512
+        },
+        {
+          "text": "have",
+          "start": 44.05,
+          "end": 44.21,
+          "confidence": 0.335
+        },
+        {
+          "text": "my",
+          "start": 44.21,
+          "end": 44.63,
+          "confidence": 0.008
+        },
+        {
+          "text": "[*]",
+          "start": 44.9,
+          "end": 45.52,
+          "confidence": 0
+        },
+        {
+          "text": "ears",
+          "start": 45.52,
+          "end": 45.68,
+          "confidence": 0.069
+        },
+        {
+          "text": "on.",
+          "start": 45.68,
+          "end": 46.04,
+          "confidence": 0.778
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2800,
+      "start": 48.6,
+      "end": 51.12,
+      "text": " Yeah, yeah.",
+      "tokens": [
+        50564,
+        865,
+        11,
+        1338,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3084131984387414,
+      "compression_ratio": 1.2845528455284554,
+      "no_speech_prob": 0.0167646836489439,
+      "confidence": 0.385,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 48.6,
+          "end": 49.44,
+          "confidence": 0
+        },
+        {
+          "text": "Yeah,",
+          "start": 49.44,
+          "end": 49.62,
+          "confidence": 0.223
+        },
+        {
+          "text": "[*]",
+          "start": 50.12,
+          "end": 50.94,
+          "confidence": 0
+        },
+        {
+          "text": "yeah.",
+          "start": 50.94,
+          "end": 51.12,
+          "confidence": 0.664
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2800,
+      "start": 52.15,
+      "end": 58.08,
+      "text": " Yeah, definitely. I'm about to do it, Sue.",
+      "tokens": [
+        50764,
+        865,
+        11,
+        2138,
+        13,
+        286,
+        478,
+        466,
+        281,
+        360,
+        309,
+        11,
+        25332,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3084131984387414,
+      "compression_ratio": 1.2845528455284554,
+      "no_speech_prob": 0.0167646836489439,
+      "confidence": 0.127,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 52.15,
+          "end": 53.7,
+          "confidence": 0
+        },
+        {
+          "text": "Yeah,",
+          "start": 55.38,
+          "end": 55.56,
+          "confidence": 0.336
+        },
+        {
+          "text": "definitely.",
+          "start": 55.86,
+          "end": 56.58,
+          "confidence": 0.633
+        },
+        {
+          "text": "I'm",
+          "start": 56.94,
+          "end": 57.16,
+          "confidence": 0.103
+        },
+        {
+          "text": "about",
+          "start": 57.16,
+          "end": 57.34,
+          "confidence": 0.163
+        },
+        {
+          "text": "to",
+          "start": 57.34,
+          "end": 57.54,
+          "confidence": 0.906
+        },
+        {
+          "text": "do",
+          "start": 57.54,
+          "end": 57.74,
+          "confidence": 0.868
+        },
+        {
+          "text": "it,",
+          "start": 57.74,
+          "end": 57.94,
+          "confidence": 0.155
+        },
+        {
+          "text": "Sue.",
+          "start": 57.96,
+          "end": 58.08,
+          "confidence": 0.001
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2800,
+      "start": 58.7,
+      "end": 64.32,
+      "text": " Happy New Year. It's alright.",
+      "tokens": [
+        50964,
+        8277,
+        1873,
+        10289,
+        13,
+        467,
+        311,
+        5845,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3084131984387414,
+      "compression_ratio": 1.2845528455284554,
+      "no_speech_prob": 0.0167646836489439,
+      "confidence": 0.131,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 58.7,
+          "end": 59.09,
+          "confidence": 0
+        },
+        {
+          "text": "Happy",
+          "start": 59.09,
+          "end": 59.8,
+          "confidence": 0.006
+        },
+        {
+          "text": "New",
+          "start": 61.88,
+          "end": 62.24,
+          "confidence": 0.11
+        },
+        {
+          "text": "Year.",
+          "start": 62.24,
+          "end": 62.4,
+          "confidence": 0.524
+        },
+        {
+          "text": "It's",
+          "start": 63.78,
+          "end": 64.08,
+          "confidence": 0.264
+        },
+        {
+          "text": "alright.",
+          "start": 64.08,
+          "end": 64.32,
+          "confidence": 0.082
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2800,
+      "start": 65.95,
+      "end": 71.38,
+      "text": " Yeah, sure, sure. Lovely to see you too.",
+      "tokens": [
+        51164,
+        865,
+        11,
+        988,
+        11,
+        988,
+        13,
+        33925,
+        281,
+        536,
+        291,
+        886,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3084131984387414,
+      "compression_ratio": 1.2845528455284554,
+      "no_speech_prob": 0.0167646836489439,
+      "confidence": 0.571,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 65.95,
+          "end": 66.41,
+          "confidence": 0
+        },
+        {
+          "text": "Yeah,",
+          "start": 66.41,
+          "end": 66.61,
+          "confidence": 0.378
+        },
+        {
+          "text": "sure,",
+          "start": 66.91,
+          "end": 67.29,
+          "confidence": 0.653
+        },
+        {
+          "text": "sure.",
+          "start": 67.55,
+          "end": 67.75,
+          "confidence": 0.711
+        },
+        {
+          "text": "Lovely",
+          "start": 69.75,
+          "end": 70.42,
+          "confidence": 0.131
+        },
+        {
+          "text": "to",
+          "start": 70.42,
+          "end": 70.68,
+          "confidence": 0.791
+        },
+        {
+          "text": "see",
+          "start": 70.68,
+          "end": 70.92,
+          "confidence": 0.824
+        },
+        {
+          "text": "you",
+          "start": 70.92,
+          "end": 71.08,
+          "confidence": 0.897
+        },
+        {
+          "text": "too.",
+          "start": 71.08,
+          "end": 71.38,
+          "confidence": 0.718
+        }
+      ]
+    }
+  ],
+  "language": "English",
+  "speech_activity": [
+    {
+      "start": 8.95,
+      "end": 10.3
+    },
+    {
+      "start": 10.45,
+      "end": 21.55
+    },
+    {
+      "start": 21.65,
+      "end": 23.3
+    },
+    {
+      "start": 23.9,
+      "end": 32.2
+    },
+    {
+      "start": 32.25,
+      "end": 34.25
+    },
+    {
+      "start": 37.85,
+      "end": 44.65
+    },
+    {
+      "start": 44.9,
+      "end": 46.4
+    },
+    {
+      "start": 48.6,
+      "end": 51.65
+    },
+    {
+      "start": 52.15,
+      "end": 53.7
+    },
+    {
+      "start": 54.9,
+      "end": 58.25
+    },
+    {
+      "start": 58.7,
+      "end": 59.8
+    },
+    {
+      "start": 61.25,
+      "end": 62.55
+    },
+    {
+      "start": 63.55,
+      "end": 64.7
+    },
+    {
+      "start": 65.95,
+      "end": 68.6
+    },
+    {
+      "start": 69.75,
+      "end": 71.637375
+    }
+  ]
+}

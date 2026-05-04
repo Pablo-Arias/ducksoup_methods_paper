@@ -1,0 +1,516 @@
+{
+  "text": " What's this? What's this? What's the matter, Bella? What's wrong? Oh, it's okay. I am a... ...artist. This is how you do it. What?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 73.0,
+      "end": 73.04,
+      "text": " What's this?",
+      "tokens": [
+        50364,
+        708,
+        311,
+        341,
+        30,
+        51151
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.3719215393066406,
+      "compression_ratio": 0.6,
+      "no_speech_prob": 0.2573976516723633,
+      "confidence": 0.034,
+      "words": [
+        {
+          "text": "What's",
+          "start": 73.0,
+          "end": 73.02,
+          "confidence": 0.012
+        },
+        {
+          "text": "this?",
+          "start": 73.02,
+          "end": 73.04,
+          "confidence": 0.096
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 1574,
+      "start": 77.4,
+      "end": 77.88,
+      "text": " What's this?",
+      "tokens": [
+        50364,
+        708,
+        311,
+        341,
+        30,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6835447311401367,
+      "compression_ratio": 1.1304347826086956,
+      "no_speech_prob": 0.3945293724536896,
+      "confidence": 0.677,
+      "words": [
+        {
+          "text": "What's",
+          "start": 77.4,
+          "end": 77.7,
+          "confidence": 0.501
+        },
+        {
+          "text": "this?",
+          "start": 77.7,
+          "end": 77.88,
+          "confidence": 0.913
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 1574,
+      "start": 106.94,
+      "end": 108.52,
+      "text": " What's the matter, Bella? What's wrong?",
+      "tokens": [
+        51364,
+        708,
+        311,
+        264,
+        1871,
+        11,
+        29133,
+        30,
+        708,
+        311,
+        2085,
+        30,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6835447311401367,
+      "compression_ratio": 1.1304347826086956,
+      "no_speech_prob": 0.3945293724536896,
+      "confidence": 0.505,
+      "words": [
+        {
+          "text": "What's",
+          "start": 106.94,
+          "end": 107.78,
+          "confidence": 0.469
+        },
+        {
+          "text": "the",
+          "start": 107.78,
+          "end": 107.84,
+          "confidence": 0.789
+        },
+        {
+          "text": "matter,",
+          "start": 107.84,
+          "end": 107.98,
+          "confidence": 0.56
+        },
+        {
+          "text": "Bella?",
+          "start": 108.1,
+          "end": 108.24,
+          "confidence": 0.298
+        },
+        {
+          "text": "What's",
+          "start": 108.32,
+          "end": 108.4,
+          "confidence": 0.704
+        },
+        {
+          "text": "wrong?",
+          "start": 108.4,
+          "end": 108.52,
+          "confidence": 0.477
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 4574,
+      "start": 169.1,
+      "end": 170.3,
+      "text": " Oh, it's okay.",
+      "tokens": [
+        50414,
+        876,
+        11,
+        309,
+        311,
+        1392,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7122077306111654,
+      "compression_ratio": 0.9354838709677419,
+      "no_speech_prob": 0.03743227571249008,
+      "confidence": 0.149,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 169.1,
+          "end": 169.56,
+          "confidence": 0
+        },
+        {
+          "text": "Oh,",
+          "start": 169.56,
+          "end": 169.74,
+          "confidence": 0.067
+        },
+        {
+          "text": "it's",
+          "start": 169.8,
+          "end": 170.06,
+          "confidence": 0.239
+        },
+        {
+          "text": "okay.",
+          "start": 170.06,
+          "end": 170.3,
+          "confidence": 0.205
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 4574,
+      "start": 174.33,
+      "end": 176.07,
+      "text": " I am a...",
+      "tokens": [
+        50614,
+        286,
+        669,
+        257,
+        485,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7122077306111654,
+      "compression_ratio": 0.9354838709677419,
+      "no_speech_prob": 0.03743227571249008,
+      "confidence": 0.106,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 174.33,
+          "end": 174.51,
+          "confidence": 0
+        },
+        {
+          "text": "I",
+          "start": 174.51,
+          "end": 174.97,
+          "confidence": 0.035
+        },
+        {
+          "text": "am",
+          "start": 174.97,
+          "end": 175.37,
+          "confidence": 0.26
+        },
+        {
+          "text": "a...",
+          "start": 175.37,
+          "end": 176.07,
+          "confidence": 0.117
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 4574,
+      "start": 178.85,
+      "end": 179.93,
+      "text": " ...artist.",
+      "tokens": [
+        50764,
+        1097,
+        446,
+        468,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7122077306111654,
+      "compression_ratio": 0.9354838709677419,
+      "no_speech_prob": 0.03743227571249008,
+      "confidence": 0.009,
+      "words": [
+        {
+          "text": "...artist.",
+          "start": 178.85,
+          "end": 179.93,
+          "confidence": 0.009
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 4574,
+      "start": 180.49,
+      "end": 181.87,
+      "text": " This is how you do it.",
+      "tokens": [
+        50864,
+        639,
+        307,
+        577,
+        291,
+        360,
+        309,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7122077306111654,
+      "compression_ratio": 0.9354838709677419,
+      "no_speech_prob": 0.03743227571249008,
+      "confidence": 0.167,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 180.49,
+          "end": 180.85,
+          "confidence": 0
+        },
+        {
+          "text": "This",
+          "start": 180.85,
+          "end": 181.07,
+          "confidence": 0.127
+        },
+        {
+          "text": "is",
+          "start": 181.07,
+          "end": 181.23,
+          "confidence": 0.323
+        },
+        {
+          "text": "how",
+          "start": 181.23,
+          "end": 181.27,
+          "confidence": 0.016
+        },
+        {
+          "text": "you",
+          "start": 181.27,
+          "end": 181.35,
+          "confidence": 0.407
+        },
+        {
+          "text": "do",
+          "start": 181.35,
+          "end": 181.53,
+          "confidence": 0.02
+        },
+        {
+          "text": "it.",
+          "start": 181.53,
+          "end": 181.87,
+          "confidence": 0.821
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 7574,
+      "start": 230.29,
+      "end": 230.69,
+      "text": " What?",
+      "tokens": [
+        50364,
+        708,
+        30,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5421097278594971,
+      "compression_ratio": 0.38461538461538464,
+      "no_speech_prob": 0.01581437699496746,
+      "confidence": 0.006,
+      "words": [
+        {
+          "text": "What?",
+          "start": 230.29,
+          "end": 230.69,
+          "confidence": 0.006
+        }
+      ]
+    }
+  ],
+  "language": "English",
+  "speech_activity": [
+    {
+      "start": 0.0,
+      "end": 0.9
+    },
+    {
+      "start": 1.25,
+      "end": 3.65
+    },
+    {
+      "start": 8.15,
+      "end": 10.3
+    },
+    {
+      "start": 10.7,
+      "end": 11.8
+    },
+    {
+      "start": 13.9,
+      "end": 17.2
+    },
+    {
+      "start": 26.8,
+      "end": 29.4
+    },
+    {
+      "start": 31.9,
+      "end": 34.2
+    },
+    {
+      "start": 64.8,
+      "end": 65.9
+    },
+    {
+      "start": 72.65,
+      "end": 73.85
+    },
+    {
+      "start": 76.95,
+      "end": 78.5
+    },
+    {
+      "start": 82.0,
+      "end": 84.85
+    },
+    {
+      "start": 86.35,
+      "end": 88.35
+    },
+    {
+      "start": 89.4,
+      "end": 97.25
+    },
+    {
+      "start": 97.3,
+      "end": 98.5
+    },
+    {
+      "start": 104.0,
+      "end": 105.4
+    },
+    {
+      "start": 105.6,
+      "end": 109.0
+    },
+    {
+      "start": 113.15,
+      "end": 115.8
+    },
+    {
+      "start": 142.95,
+      "end": 144.15
+    },
+    {
+      "start": 144.85,
+      "end": 146.3
+    },
+    {
+      "start": 152.55,
+      "end": 156.55
+    },
+    {
+      "start": 169.1,
+      "end": 170.9
+    },
+    {
+      "start": 172.45,
+      "end": 177.65
+    },
+    {
+      "start": 178.65,
+      "end": 180.2
+    },
+    {
+      "start": 180.4,
+      "end": 182.05
+    },
+    {
+      "start": 182.15,
+      "end": 183.6
+    },
+    {
+      "start": 184.4,
+      "end": 186.85
+    },
+    {
+      "start": 188.3,
+      "end": 189.45
+    },
+    {
+      "start": 189.5,
+      "end": 190.7
+    },
+    {
+      "start": 192.25,
+      "end": 193.95
+    },
+    {
+      "start": 194.15,
+      "end": 195.35
+    },
+    {
+      "start": 198.5,
+      "end": 200.65
+    },
+    {
+      "start": 203.05,
+      "end": 204.15
+    },
+    {
+      "start": 209.7,
+      "end": 212.8
+    },
+    {
+      "start": 213.3,
+      "end": 214.95
+    },
+    {
+      "start": 216.4,
+      "end": 217.5
+    },
+    {
+      "start": 230.1,
+      "end": 231.25
+    },
+    {
+      "start": 231.75,
+      "end": 232.85
+    },
+    {
+      "start": 233.85,
+      "end": 235.25
+    },
+    {
+      "start": 237.7,
+      "end": 242.05
+    },
+    {
+      "start": 245.0,
+      "end": 246.45
+    }
+  ]
+}

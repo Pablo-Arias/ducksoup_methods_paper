@@ -1,0 +1,421 @@
+{
+  "text": " Hello? Oh, hang on, I can't hear you. Hang on, let me try it without headphones. No. Yeah, I've got my volume up. Can you hear me? No. It's frozen. I can still see you. I can see you, but it's frozen.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 12.15,
+      "end": 25.02,
+      "text": " Hello? Oh, hang on, I can't hear you. Hang on, let me try it without headphones.",
+      "tokens": [
+        50364,
+        2425,
+        30,
+        876,
+        11,
+        3967,
+        322,
+        11,
+        286,
+        393,
+        380,
+        1568,
+        291,
+        13,
+        14070,
+        322,
+        11,
+        718,
+        385,
+        853,
+        309,
+        1553,
+        16278,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32818407331194194,
+      "compression_ratio": 1.408450704225352,
+      "no_speech_prob": 0.04426858574151993,
+      "confidence": 0.757,
+      "words": [
+        {
+          "text": "Hello?",
+          "start": 12.15,
+          "end": 12.81,
+          "confidence": 0.592
+        },
+        {
+          "text": "[*]",
+          "start": 13.95,
+          "end": 14.32,
+          "confidence": 0
+        },
+        {
+          "text": "Oh,",
+          "start": 14.32,
+          "end": 14.56,
+          "confidence": 0.447
+        },
+        {
+          "text": "hang",
+          "start": 14.64,
+          "end": 14.82,
+          "confidence": 0.83
+        },
+        {
+          "text": "on,",
+          "start": 14.82,
+          "end": 14.94,
+          "confidence": 0.623
+        },
+        {
+          "text": "I",
+          "start": 15.0,
+          "end": 15.08,
+          "confidence": 0.943
+        },
+        {
+          "text": "can't",
+          "start": 15.08,
+          "end": 15.3,
+          "confidence": 0.942
+        },
+        {
+          "text": "hear",
+          "start": 15.3,
+          "end": 15.52,
+          "confidence": 0.846
+        },
+        {
+          "text": "you.",
+          "start": 15.52,
+          "end": 15.8,
+          "confidence": 0.91
+        },
+        {
+          "text": "Hang",
+          "start": 23.6,
+          "end": 23.8,
+          "confidence": 0.529
+        },
+        {
+          "text": "on,",
+          "start": 23.8,
+          "end": 23.88,
+          "confidence": 0.898
+        },
+        {
+          "text": "let",
+          "start": 23.96,
+          "end": 24.02,
+          "confidence": 0.907
+        },
+        {
+          "text": "me",
+          "start": 24.02,
+          "end": 24.14,
+          "confidence": 0.915
+        },
+        {
+          "text": "try",
+          "start": 24.14,
+          "end": 24.3,
+          "confidence": 0.828
+        },
+        {
+          "text": "it",
+          "start": 24.3,
+          "end": 24.42,
+          "confidence": 0.811
+        },
+        {
+          "text": "without",
+          "start": 24.42,
+          "end": 24.62,
+          "confidence": 0.763
+        },
+        {
+          "text": "headphones.",
+          "start": 24.62,
+          "end": 25.02,
+          "confidence": 0.834
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 28.55,
+      "end": 29.21,
+      "text": " No.",
+      "tokens": [
+        50664,
+        883,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32818407331194194,
+      "compression_ratio": 1.408450704225352,
+      "no_speech_prob": 0.04426858574151993,
+      "confidence": 0.124,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 28.55,
+          "end": 29.03,
+          "confidence": 0
+        },
+        {
+          "text": "No.",
+          "start": 29.03,
+          "end": 29.21,
+          "confidence": 0.124
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 36.2,
+      "end": 39.09,
+      "text": " Yeah, I've got my volume up. Can you hear me?",
+      "tokens": [
+        50914,
+        865,
+        11,
+        286,
+        600,
+        658,
+        452,
+        5523,
+        493,
+        13,
+        1664,
+        291,
+        1568,
+        385,
+        30,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32818407331194194,
+      "compression_ratio": 1.408450704225352,
+      "no_speech_prob": 0.04426858574151993,
+      "confidence": 0.315,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 36.2,
+          "end": 36.59,
+          "confidence": 0
+        },
+        {
+          "text": "Yeah,",
+          "start": 36.59,
+          "end": 36.75,
+          "confidence": 0.442
+        },
+        {
+          "text": "I've",
+          "start": 36.81,
+          "end": 36.89,
+          "confidence": 0.156
+        },
+        {
+          "text": "got",
+          "start": 36.89,
+          "end": 36.99,
+          "confidence": 0.302
+        },
+        {
+          "text": "my",
+          "start": 36.99,
+          "end": 37.13,
+          "confidence": 0.871
+        },
+        {
+          "text": "volume",
+          "start": 37.13,
+          "end": 37.41,
+          "confidence": 0.003
+        },
+        {
+          "text": "up.",
+          "start": 37.41,
+          "end": 37.87,
+          "confidence": 0.857
+        },
+        {
+          "text": "Can",
+          "start": 38.33,
+          "end": 38.65,
+          "confidence": 0.051
+        },
+        {
+          "text": "you",
+          "start": 38.65,
+          "end": 38.73,
+          "confidence": 0.915
+        },
+        {
+          "text": "hear",
+          "start": 38.73,
+          "end": 38.89,
+          "confidence": 0.893
+        },
+        {
+          "text": "me?",
+          "start": 38.89,
+          "end": 39.09,
+          "confidence": 0.951
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 39.15,
+      "end": 85.5,
+      "text": " No. It's frozen. I can still see you. I can see you, but it's frozen.",
+      "tokens": [
+        51064,
+        883,
+        13,
+        467,
+        311,
+        12496,
+        13,
+        286,
+        393,
+        920,
+        536,
+        291,
+        13,
+        286,
+        393,
+        536,
+        291,
+        11,
+        457,
+        309,
+        311,
+        12496,
+        13,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.32818407331194194,
+      "compression_ratio": 1.408450704225352,
+      "no_speech_prob": 0.04426858574151993,
+      "confidence": 0.62,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 39.15,
+          "end": 39.7,
+          "confidence": 0
+        },
+        {
+          "text": "No.",
+          "start": 44.24,
+          "end": 44.6,
+          "confidence": 0.138
+        },
+        {
+          "text": "It's",
+          "start": 45.06,
+          "end": 45.2,
+          "confidence": 0.658
+        },
+        {
+          "text": "[*]",
+          "start": 75.09,
+          "end": 75.51,
+          "confidence": 0
+        },
+        {
+          "text": "frozen.",
+          "start": 75.51,
+          "end": 75.81,
+          "confidence": 0.714
+        },
+        {
+          "text": "I",
+          "start": 77.39,
+          "end": 77.53,
+          "confidence": 0.425
+        },
+        {
+          "text": "can",
+          "start": 77.53,
+          "end": 77.65,
+          "confidence": 0.883
+        },
+        {
+          "text": "still",
+          "start": 77.65,
+          "end": 77.91,
+          "confidence": 0.894
+        },
+        {
+          "text": "see",
+          "start": 77.91,
+          "end": 78.31,
+          "confidence": 0.819
+        },
+        {
+          "text": "you.",
+          "start": 78.31,
+          "end": 78.65,
+          "confidence": 0.709
+        },
+        {
+          "text": "I",
+          "start": 83.75,
+          "end": 84.02,
+          "confidence": 0.598
+        },
+        {
+          "text": "can",
+          "start": 84.02,
+          "end": 84.16,
+          "confidence": 0.888
+        },
+        {
+          "text": "see",
+          "start": 84.16,
+          "end": 84.44,
+          "confidence": 0.743
+        },
+        {
+          "text": "you,",
+          "start": 84.44,
+          "end": 84.6,
+          "confidence": 0.434
+        },
+        {
+          "text": "but",
+          "start": 84.7,
+          "end": 84.78,
+          "confidence": 0.882
+        },
+        {
+          "text": "it's",
+          "start": 84.78,
+          "end": 85.04,
+          "confidence": 0.943
+        },
+        {
+          "text": "frozen.",
+          "start": 85.04,
+          "end": 85.5,
+          "confidence": 0.901
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

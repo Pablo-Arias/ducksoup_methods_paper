@@ -1,0 +1,122 @@
+{
+  "text": " The other was the page... Hello?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 77.85,
+      "end": 147.5,
+      "text": " The other was the page...",
+      "tokens": [
+        50364,
+        440,
+        661,
+        390,
+        264,
+        3028,
+        485,
+        51664
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.9648219622098483,
+      "compression_ratio": 0.8421052631578947,
+      "no_speech_prob": 0.029812728986144066,
+      "confidence": 0.408,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 77.85,
+          "end": 82.05,
+          "confidence": 0
+        },
+        {
+          "text": "The",
+          "start": 127.25,
+          "end": 127.78,
+          "confidence": 0.077
+        },
+        {
+          "text": "[*]",
+          "start": 127.78,
+          "end": 129.66,
+          "confidence": 0
+        },
+        {
+          "text": "other",
+          "start": 129.66,
+          "end": 129.92,
+          "confidence": 0.653
+        },
+        {
+          "text": "[*]",
+          "start": 132.35,
+          "end": 133.02,
+          "confidence": 0
+        },
+        {
+          "text": "was",
+          "start": 133.02,
+          "end": 133.24,
+          "confidence": 0.534
+        },
+        {
+          "text": "[*]",
+          "start": 133.24,
+          "end": 133.55,
+          "confidence": 0
+        },
+        {
+          "text": "the",
+          "start": 145.43,
+          "end": 145.91,
+          "confidence": 0.676
+        },
+        {
+          "text": "[*]",
+          "start": 145.91,
+          "end": 146.09,
+          "confidence": 0
+        },
+        {
+          "text": "page...",
+          "start": 146.09,
+          "end": 147.5,
+          "confidence": 0.504
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 185.96,
+      "end": 186.5,
+      "text": " Hello?",
+      "tokens": [
+        51664,
+        2425,
+        30,
+        51764
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.9648219622098483,
+      "compression_ratio": 0.8421052631578947,
+      "no_speech_prob": 0.029812728986144066,
+      "confidence": 0.67,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 185.96,
+          "end": 186.04,
+          "confidence": 0
+        },
+        {
+          "text": "Hello?",
+          "start": 186.04,
+          "end": 186.5,
+          "confidence": 0.67
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

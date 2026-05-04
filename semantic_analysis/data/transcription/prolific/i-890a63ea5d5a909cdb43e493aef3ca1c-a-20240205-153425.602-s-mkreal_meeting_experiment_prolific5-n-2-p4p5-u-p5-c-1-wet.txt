@@ -1,0 +1,140 @@
+{
+  "text": " interaction going. I've just finished studying a similar situation, so the situation before...",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 86.4,
+      "end": 177.83,
+      "text": " interaction going. I've just finished studying a similar situation, so the situation before...",
+      "tokens": [
+        50364,
+        9285,
+        516,
+        13,
+        286,
+        600,
+        445,
+        962,
+        271,
+        675,
+        67,
+        7601,
+        257,
+        2531,
+        2590,
+        11,
+        370,
+        264,
+        2590,
+        949,
+        485,
+        50716
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8321070463761039,
+      "compression_ratio": 1.119047619047619,
+      "no_speech_prob": 0.6460518836975098,
+      "confidence": 0.445,
+      "words": [
+        {
+          "text": "interaction",
+          "start": 86.4,
+          "end": 87.02,
+          "confidence": 0.078
+        },
+        {
+          "text": "going.",
+          "start": 87.02,
+          "end": 87.5,
+          "confidence": 0.369
+        },
+        {
+          "text": "[*]",
+          "start": 99.22,
+          "end": 99.9,
+          "confidence": 0
+        },
+        {
+          "text": "I've",
+          "start": 139.65,
+          "end": 140.06,
+          "confidence": 0.618
+        },
+        {
+          "text": "just",
+          "start": 140.06,
+          "end": 140.2,
+          "confidence": 0.891
+        },
+        {
+          "text": "finished",
+          "start": 140.2,
+          "end": 140.66,
+          "confidence": 0.495
+        },
+        {
+          "text": "studying",
+          "start": 140.66,
+          "end": 140.96,
+          "confidence": 0.594
+        },
+        {
+          "text": "a",
+          "start": 140.96,
+          "end": 141.1,
+          "confidence": 0.29
+        },
+        {
+          "text": "similar",
+          "start": 170.95,
+          "end": 171.17,
+          "confidence": 0.647
+        },
+        {
+          "text": "[*]",
+          "start": 171.17,
+          "end": 171.77,
+          "confidence": 0
+        },
+        {
+          "text": "situation,",
+          "start": 171.77,
+          "end": 171.95,
+          "confidence": 0.389
+        },
+        {
+          "text": "so",
+          "start": 172.21,
+          "end": 172.35,
+          "confidence": 0.736
+        },
+        {
+          "text": "the",
+          "start": 176.5,
+          "end": 176.67,
+          "confidence": 0.265
+        },
+        {
+          "text": "[*]",
+          "start": 176.67,
+          "end": 177.25,
+          "confidence": 0
+        },
+        {
+          "text": "situation",
+          "start": 177.25,
+          "end": 177.37,
+          "confidence": 0.813
+        },
+        {
+          "text": "before...",
+          "start": 177.37,
+          "end": 177.83,
+          "confidence": 0.4
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

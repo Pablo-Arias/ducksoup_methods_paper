@@ -1,0 +1,1006 @@
+{
+  "text": " hello yeah I can hear you and I can see yeah this has been good for now yeah I'm pretty well how you doing yeah watch movies play basketball play video games that was good it's good what was a good one well I'm currently in the UK I'm from Nigeria I'm at the University of Roehampton that's where I'm studying my for my master's oh yeah there's a hospital I didn't really take much of the hospital yeah I recently joined last year December so I haven't been in for a long time yeah how long yeah so you studied last year right",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 6.0,
+      "end": 30.48,
+      "text": " hello yeah I can hear you and I can see yeah this has been good for now yeah I'm",
+      "tokens": [
+        50364,
+        7751,
+        1338,
+        286,
+        393,
+        1568,
+        291,
+        293,
+        286,
+        393,
+        536,
+        1338,
+        341,
+        575,
+        668,
+        665,
+        337,
+        586,
+        1338,
+        286,
+        478,
+        51196
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3862570169809702,
+      "compression_ratio": 1.3679245283018868,
+      "no_speech_prob": 0.2984892427921295,
+      "confidence": 0.635,
+      "words": [
+        {
+          "text": "hello",
+          "start": 6.0,
+          "end": 6.78,
+          "confidence": 0.167
+        },
+        {
+          "text": "[*]",
+          "start": 9.2,
+          "end": 11.41,
+          "confidence": 0
+        },
+        {
+          "text": "yeah",
+          "start": 11.41,
+          "end": 11.69,
+          "confidence": 0.534
+        },
+        {
+          "text": "I",
+          "start": 11.69,
+          "end": 11.83,
+          "confidence": 0.823
+        },
+        {
+          "text": "can",
+          "start": 11.83,
+          "end": 11.97,
+          "confidence": 0.888
+        },
+        {
+          "text": "hear",
+          "start": 11.97,
+          "end": 12.15,
+          "confidence": 0.854
+        },
+        {
+          "text": "you",
+          "start": 12.15,
+          "end": 12.39,
+          "confidence": 0.902
+        },
+        {
+          "text": "and",
+          "start": 12.39,
+          "end": 12.59,
+          "confidence": 0.845
+        },
+        {
+          "text": "I",
+          "start": 12.59,
+          "end": 12.75,
+          "confidence": 0.898
+        },
+        {
+          "text": "can",
+          "start": 12.75,
+          "end": 12.93,
+          "confidence": 0.893
+        },
+        {
+          "text": "see",
+          "start": 12.93,
+          "end": 13.23,
+          "confidence": 0.733
+        },
+        {
+          "text": "[*]",
+          "start": 16.35,
+          "end": 18.4,
+          "confidence": 0
+        },
+        {
+          "text": "yeah",
+          "start": 18.4,
+          "end": 18.58,
+          "confidence": 0.189
+        },
+        {
+          "text": "[*]",
+          "start": 18.58,
+          "end": 19.62,
+          "confidence": 0
+        },
+        {
+          "text": "this",
+          "start": 19.62,
+          "end": 19.98,
+          "confidence": 0.355
+        },
+        {
+          "text": "has",
+          "start": 19.98,
+          "end": 20.16,
+          "confidence": 0.268
+        },
+        {
+          "text": "been",
+          "start": 20.16,
+          "end": 20.64,
+          "confidence": 0.775
+        },
+        {
+          "text": "good",
+          "start": 20.64,
+          "end": 20.84,
+          "confidence": 0.856
+        },
+        {
+          "text": "for",
+          "start": 20.84,
+          "end": 21.02,
+          "confidence": 0.882
+        },
+        {
+          "text": "now",
+          "start": 21.02,
+          "end": 21.32,
+          "confidence": 0.893
+        },
+        {
+          "text": "[*]",
+          "start": 21.32,
+          "end": 24.95,
+          "confidence": 0
+        },
+        {
+          "text": "yeah",
+          "start": 29.88,
+          "end": 30.22,
+          "confidence": 0.698
+        },
+        {
+          "text": "I'm",
+          "start": 30.22,
+          "end": 30.48,
+          "confidence": 0.837
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 30.48,
+      "end": 42.88,
+      "text": " pretty well how you doing yeah watch movies play basketball play",
+      "tokens": [
+        51196,
+        1238,
+        731,
+        577,
+        291,
+        884,
+        1338,
+        1159,
+        6233,
+        862,
+        11767,
+        862,
+        51453
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3862570169809702,
+      "compression_ratio": 1.3679245283018868,
+      "no_speech_prob": 0.2984892427921295,
+      "confidence": 0.602,
+      "words": [
+        {
+          "text": "pretty",
+          "start": 30.48,
+          "end": 30.72,
+          "confidence": 0.565
+        },
+        {
+          "text": "well",
+          "start": 30.72,
+          "end": 31.0,
+          "confidence": 0.872
+        },
+        {
+          "text": "how",
+          "start": 31.0,
+          "end": 31.24,
+          "confidence": 0.335
+        },
+        {
+          "text": "you",
+          "start": 31.24,
+          "end": 31.36,
+          "confidence": 0.682
+        },
+        {
+          "text": "doing",
+          "start": 31.36,
+          "end": 31.66,
+          "confidence": 0.909
+        },
+        {
+          "text": "[*]",
+          "start": 39.45,
+          "end": 40.86,
+          "confidence": 0
+        },
+        {
+          "text": "yeah",
+          "start": 40.86,
+          "end": 41.02,
+          "confidence": 0.183
+        },
+        {
+          "text": "watch",
+          "start": 41.02,
+          "end": 41.4,
+          "confidence": 0.671
+        },
+        {
+          "text": "movies",
+          "start": 41.4,
+          "end": 41.78,
+          "confidence": 0.799
+        },
+        {
+          "text": "play",
+          "start": 41.78,
+          "end": 42.06,
+          "confidence": 0.742
+        },
+        {
+          "text": "basketball",
+          "start": 42.06,
+          "end": 42.56,
+          "confidence": 0.623
+        },
+        {
+          "text": "play",
+          "start": 42.56,
+          "end": 42.88,
+          "confidence": 0.819
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2178,
+      "start": 58.57,
+      "end": 73.09,
+      "text": " video games that was good it's good what was a good one",
+      "tokens": [
+        50364,
+        960,
+        2813,
+        300,
+        390,
+        665,
+        309,
+        311,
+        665,
+        437,
+        390,
+        257,
+        665,
+        472,
+        51542
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7111868577844956,
+      "compression_ratio": 1.1702127659574468,
+      "no_speech_prob": 0.8275977969169617,
+      "confidence": 0.356,
+      "words": [
+        {
+          "text": "video",
+          "start": 58.57,
+          "end": 58.69,
+          "confidence": 0.247
+        },
+        {
+          "text": "games",
+          "start": 58.69,
+          "end": 58.71,
+          "confidence": 0.776
+        },
+        {
+          "text": "that",
+          "start": 58.71,
+          "end": 58.75,
+          "confidence": 0.049
+        },
+        {
+          "text": "was",
+          "start": 58.75,
+          "end": 59.07,
+          "confidence": 0.791
+        },
+        {
+          "text": "good",
+          "start": 59.07,
+          "end": 59.21,
+          "confidence": 0.065
+        },
+        {
+          "text": "[*]",
+          "start": 59.21,
+          "end": 60.07,
+          "confidence": 0
+        },
+        {
+          "text": "it's",
+          "start": 60.07,
+          "end": 60.37,
+          "confidence": 0.355
+        },
+        {
+          "text": "good",
+          "start": 60.37,
+          "end": 60.71,
+          "confidence": 0.889
+        },
+        {
+          "text": "[*]",
+          "start": 68.8,
+          "end": 71.43,
+          "confidence": 0
+        },
+        {
+          "text": "what",
+          "start": 71.43,
+          "end": 71.57,
+          "confidence": 0.072
+        },
+        {
+          "text": "[*]",
+          "start": 71.57,
+          "end": 72.45,
+          "confidence": 0
+        },
+        {
+          "text": "was",
+          "start": 72.45,
+          "end": 72.57,
+          "confidence": 0.777
+        },
+        {
+          "text": "a",
+          "start": 72.57,
+          "end": 72.69,
+          "confidence": 0.698
+        },
+        {
+          "text": "good",
+          "start": 72.69,
+          "end": 72.83,
+          "confidence": 0.887
+        },
+        {
+          "text": "one",
+          "start": 72.83,
+          "end": 73.09,
+          "confidence": 0.775
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 4534,
+      "start": 74.49,
+      "end": 87.67,
+      "text": " well I'm currently in the UK I'm from Nigeria I'm at the University of",
+      "tokens": [
+        50364,
+        731,
+        286,
+        478,
+        4362,
+        294,
+        264,
+        7051,
+        286,
+        478,
+        490,
+        28828,
+        286,
+        478,
+        412,
+        264,
+        3535,
+        295,
+        50840
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.44382915940395623,
+      "compression_ratio": 1.2743362831858407,
+      "no_speech_prob": 0.2913077771663666,
+      "confidence": 0.562,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 74.49,
+          "end": 78.25,
+          "confidence": 0
+        },
+        {
+          "text": "well",
+          "start": 78.98,
+          "end": 79.18,
+          "confidence": 0.015
+        },
+        {
+          "text": "I'm",
+          "start": 79.18,
+          "end": 79.5,
+          "confidence": 0.693
+        },
+        {
+          "text": "currently",
+          "start": 79.5,
+          "end": 79.88,
+          "confidence": 0.567
+        },
+        {
+          "text": "in",
+          "start": 79.88,
+          "end": 80.14,
+          "confidence": 0.867
+        },
+        {
+          "text": "the",
+          "start": 80.14,
+          "end": 80.34,
+          "confidence": 0.803
+        },
+        {
+          "text": "UK",
+          "start": 80.34,
+          "end": 80.76,
+          "confidence": 0.908
+        },
+        {
+          "text": "I'm",
+          "start": 80.76,
+          "end": 81.06,
+          "confidence": 0.711
+        },
+        {
+          "text": "from",
+          "start": 81.06,
+          "end": 81.28,
+          "confidence": 0.812
+        },
+        {
+          "text": "[*]",
+          "start": 81.28,
+          "end": 81.56,
+          "confidence": 0
+        },
+        {
+          "text": "Nigeria",
+          "start": 81.56,
+          "end": 81.76,
+          "confidence": 0.803
+        },
+        {
+          "text": "[*]",
+          "start": 85.3,
+          "end": 86.15,
+          "confidence": 0
+        },
+        {
+          "text": "I'm",
+          "start": 86.15,
+          "end": 86.73,
+          "confidence": 0.398
+        },
+        {
+          "text": "at",
+          "start": 86.73,
+          "end": 86.89,
+          "confidence": 0.886
+        },
+        {
+          "text": "the",
+          "start": 86.89,
+          "end": 87.05,
+          "confidence": 0.795
+        },
+        {
+          "text": "University",
+          "start": 87.05,
+          "end": 87.45,
+          "confidence": 0.669
+        },
+        {
+          "text": "of",
+          "start": 87.45,
+          "end": 87.67,
+          "confidence": 0.87
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 4534,
+      "start": 120.41,
+      "end": 120.87,
+      "text": " Roehampton that's where I'm studying my for my master's oh yeah there's a",
+      "tokens": [
+        50840,
+        3101,
+        68,
+        4822,
+        21987,
+        300,
+        311,
+        689,
+        286,
+        478,
+        7601,
+        452,
+        337,
+        452,
+        4505,
+        311,
+        1954,
+        1338,
+        456,
+        311,
+        257,
+        51722
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.44382915940395623,
+      "compression_ratio": 1.2743362831858407,
+      "no_speech_prob": 0.2913077771663666,
+      "confidence": 0.409,
+      "words": [
+        {
+          "text": "Roehampton",
+          "start": 120.41,
+          "end": 120.43,
+          "confidence": 0.246
+        },
+        {
+          "text": "that's",
+          "start": 120.43,
+          "end": 120.45,
+          "confidence": 0.334
+        },
+        {
+          "text": "where",
+          "start": 120.45,
+          "end": 120.47,
+          "confidence": 0.848
+        },
+        {
+          "text": "I'm",
+          "start": 120.47,
+          "end": 120.49,
+          "confidence": 0.834
+        },
+        {
+          "text": "studying",
+          "start": 120.49,
+          "end": 120.51,
+          "confidence": 0.839
+        },
+        {
+          "text": "my",
+          "start": 120.51,
+          "end": 120.53,
+          "confidence": 0.237
+        },
+        {
+          "text": "for",
+          "start": 120.53,
+          "end": 120.55,
+          "confidence": 0.11
+        },
+        {
+          "text": "my",
+          "start": 120.55,
+          "end": 120.57,
+          "confidence": 0.882
+        },
+        {
+          "text": "master's",
+          "start": 120.57,
+          "end": 120.59,
+          "confidence": 0.461
+        },
+        {
+          "text": "oh",
+          "start": 120.59,
+          "end": 120.61,
+          "confidence": 0.153
+        },
+        {
+          "text": "yeah",
+          "start": 120.61,
+          "end": 120.63,
+          "confidence": 0.23
+        },
+        {
+          "text": "there's",
+          "start": 120.63,
+          "end": 120.77,
+          "confidence": 0.715
+        },
+        {
+          "text": "a",
+          "start": 120.77,
+          "end": 120.87,
+          "confidence": 0.983
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 7250,
+      "start": 120.87,
+      "end": 134.78,
+      "text": " hospital I didn't really take much of the hospital yeah I recently joined",
+      "tokens": [
+        50364,
+        4530,
+        286,
+        994,
+        380,
+        534,
+        747,
+        709,
+        295,
+        264,
+        4530,
+        1338,
+        286,
+        3938,
+        6869,
+        50952
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.582284654889788,
+      "compression_ratio": 1.311926605504587,
+      "no_speech_prob": 0.6618463397026062,
+      "confidence": 0.476,
+      "words": [
+        {
+          "text": "hospital",
+          "start": 120.87,
+          "end": 121.17,
+          "confidence": 0.204
+        },
+        {
+          "text": "I",
+          "start": 121.17,
+          "end": 121.45,
+          "confidence": 0.196
+        },
+        {
+          "text": "didn't",
+          "start": 121.45,
+          "end": 121.63,
+          "confidence": 0.859
+        },
+        {
+          "text": "really",
+          "start": 121.63,
+          "end": 121.79,
+          "confidence": 0.738
+        },
+        {
+          "text": "take",
+          "start": 121.79,
+          "end": 121.97,
+          "confidence": 0.518
+        },
+        {
+          "text": "much",
+          "start": 121.97,
+          "end": 122.11,
+          "confidence": 0.167
+        },
+        {
+          "text": "of",
+          "start": 122.11,
+          "end": 122.21,
+          "confidence": 0.822
+        },
+        {
+          "text": "the",
+          "start": 122.21,
+          "end": 122.31,
+          "confidence": 0.66
+        },
+        {
+          "text": "hospital",
+          "start": 122.31,
+          "end": 122.61,
+          "confidence": 0.796
+        },
+        {
+          "text": "[*]",
+          "start": 124.8,
+          "end": 127.7,
+          "confidence": 0
+        },
+        {
+          "text": "yeah",
+          "start": 131.05,
+          "end": 131.37,
+          "confidence": 0.093
+        },
+        {
+          "text": "[*]",
+          "start": 131.37,
+          "end": 132.7,
+          "confidence": 0
+        },
+        {
+          "text": "I",
+          "start": 133.94,
+          "end": 134.04,
+          "confidence": 0.638
+        },
+        {
+          "text": "recently",
+          "start": 134.04,
+          "end": 134.44,
+          "confidence": 0.767
+        },
+        {
+          "text": "joined",
+          "start": 134.44,
+          "end": 134.78,
+          "confidence": 0.832
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 7250,
+      "start": 134.78,
+      "end": 146.54,
+      "text": " last year December so I haven't been in for a long time yeah how long",
+      "tokens": [
+        50952,
+        1036,
+        1064,
+        7687,
+        370,
+        286,
+        2378,
+        380,
+        668,
+        294,
+        337,
+        257,
+        938,
+        565,
+        1338,
+        577,
+        938,
+        51534
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.582284654889788,
+      "compression_ratio": 1.311926605504587,
+      "no_speech_prob": 0.6618463397026062,
+      "confidence": 0.473,
+      "words": [
+        {
+          "text": "last",
+          "start": 134.78,
+          "end": 135.26,
+          "confidence": 0.104
+        },
+        {
+          "text": "year",
+          "start": 135.26,
+          "end": 136.06,
+          "confidence": 0.889
+        },
+        {
+          "text": "[*]",
+          "start": 136.06,
+          "end": 136.56,
+          "confidence": 0
+        },
+        {
+          "text": "December",
+          "start": 136.56,
+          "end": 136.74,
+          "confidence": 0.318
+        },
+        {
+          "text": "so",
+          "start": 136.74,
+          "end": 137.28,
+          "confidence": 0.472
+        },
+        {
+          "text": "I",
+          "start": 137.28,
+          "end": 137.46,
+          "confidence": 0.883
+        },
+        {
+          "text": "haven't",
+          "start": 137.46,
+          "end": 137.74,
+          "confidence": 0.924
+        },
+        {
+          "text": "been",
+          "start": 137.74,
+          "end": 137.9,
+          "confidence": 0.814
+        },
+        {
+          "text": "in",
+          "start": 137.9,
+          "end": 138.14,
+          "confidence": 0.864
+        },
+        {
+          "text": "for",
+          "start": 138.14,
+          "end": 138.46,
+          "confidence": 0.01
+        },
+        {
+          "text": "a",
+          "start": 138.46,
+          "end": 138.78,
+          "confidence": 0.659
+        },
+        {
+          "text": "long",
+          "start": 138.78,
+          "end": 139.18,
+          "confidence": 0.864
+        },
+        {
+          "text": "time",
+          "start": 139.18,
+          "end": 139.5,
+          "confidence": 0.809
+        },
+        {
+          "text": "[*]",
+          "start": 140.3,
+          "end": 141.45,
+          "confidence": 0
+        },
+        {
+          "text": "yeah",
+          "start": 143.57,
+          "end": 143.97,
+          "confidence": 0.476
+        },
+        {
+          "text": "[*]",
+          "start": 145.0,
+          "end": 146.16,
+          "confidence": 0
+        },
+        {
+          "text": "how",
+          "start": 146.16,
+          "end": 146.32,
+          "confidence": 0.475
+        },
+        {
+          "text": "long",
+          "start": 146.32,
+          "end": 146.54,
+          "confidence": 0.869
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 10250,
+      "start": 155.2,
+      "end": 168.75,
+      "text": " yeah so you studied last year right",
+      "tokens": [
+        50384,
+        1338,
+        370,
+        291,
+        9454,
+        1036,
+        1064,
+        558,
+        50760
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5894322872161866,
+      "compression_ratio": 0.813953488372093,
+      "no_speech_prob": 0.1631588637828827,
+      "confidence": 0.507,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 155.2,
+          "end": 156.05,
+          "confidence": 0
+        },
+        {
+          "text": "yeah",
+          "start": 157.87,
+          "end": 158.27,
+          "confidence": 0.085
+        },
+        {
+          "text": "[*]",
+          "start": 163.05,
+          "end": 164.05,
+          "confidence": 0
+        },
+        {
+          "text": "so",
+          "start": 164.05,
+          "end": 164.65,
+          "confidence": 0.353
+        },
+        {
+          "text": "[*]",
+          "start": 166.8,
+          "end": 167.39,
+          "confidence": 0
+        },
+        {
+          "text": "you",
+          "start": 167.39,
+          "end": 167.55,
+          "confidence": 0.878
+        },
+        {
+          "text": "studied",
+          "start": 167.55,
+          "end": 167.85,
+          "confidence": 0.592
+        },
+        {
+          "text": "last",
+          "start": 167.85,
+          "end": 168.19,
+          "confidence": 0.797
+        },
+        {
+          "text": "year",
+          "start": 168.19,
+          "end": 168.47,
+          "confidence": 0.853
+        },
+        {
+          "text": "right",
+          "start": 168.47,
+          "end": 168.75,
+          "confidence": 0.811
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

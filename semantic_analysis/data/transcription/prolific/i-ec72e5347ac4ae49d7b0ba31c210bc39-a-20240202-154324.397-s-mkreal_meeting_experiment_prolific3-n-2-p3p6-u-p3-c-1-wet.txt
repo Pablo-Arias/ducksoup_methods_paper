@@ -1,0 +1,153 @@
+{
+  "text": " This shit is really awful, I don't give a damn, it's a mess in your face.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 8.62,
+      "text": " This shit is really awful, I don't give a damn, it's a mess in your face.",
+      "tokens": [
+        50364,
+        639,
+        4611,
+        307,
+        534,
+        11232,
+        11,
+        286,
+        500,
+        380,
+        976,
+        257,
+        8151,
+        11,
+        309,
+        311,
+        257,
+        2082,
+        294,
+        428,
+        1851,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8124899864196777,
+      "compression_ratio": 0.9733333333333334,
+      "no_speech_prob": 0.141341432929039,
+      "confidence": 0.464,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 0.0,
+          "end": 2.62,
+          "confidence": 0
+        },
+        {
+          "text": "This",
+          "start": 2.62,
+          "end": 2.86,
+          "confidence": 0.066
+        },
+        {
+          "text": "shit",
+          "start": 2.86,
+          "end": 3.06,
+          "confidence": 0.784
+        },
+        {
+          "text": "is",
+          "start": 3.06,
+          "end": 3.22,
+          "confidence": 0.772
+        },
+        {
+          "text": "really",
+          "start": 3.22,
+          "end": 3.54,
+          "confidence": 0.679
+        },
+        {
+          "text": "awful,",
+          "start": 3.54,
+          "end": 4.0,
+          "confidence": 0.276
+        },
+        {
+          "text": "I",
+          "start": 4.9,
+          "end": 5.1,
+          "confidence": 0.316
+        },
+        {
+          "text": "don't",
+          "start": 5.1,
+          "end": 5.52,
+          "confidence": 0.705
+        },
+        {
+          "text": "give",
+          "start": 5.52,
+          "end": 5.72,
+          "confidence": 0.312
+        },
+        {
+          "text": "a",
+          "start": 5.72,
+          "end": 5.92,
+          "confidence": 0.728
+        },
+        {
+          "text": "[*]",
+          "start": 5.92,
+          "end": 6.0,
+          "confidence": 0
+        },
+        {
+          "text": "damn,",
+          "start": 6.0,
+          "end": 6.42,
+          "confidence": 0.313
+        },
+        {
+          "text": "it's",
+          "start": 6.84,
+          "end": 7.46,
+          "confidence": 0.523
+        },
+        {
+          "text": "a",
+          "start": 7.46,
+          "end": 7.56,
+          "confidence": 0.664
+        },
+        {
+          "text": "mess",
+          "start": 7.56,
+          "end": 7.78,
+          "confidence": 0.3
+        },
+        {
+          "text": "in",
+          "start": 7.78,
+          "end": 7.92,
+          "confidence": 0.764
+        },
+        {
+          "text": "your",
+          "start": 7.92,
+          "end": 8.1,
+          "confidence": 0.715
+        },
+        {
+          "text": "face.",
+          "start": 8.1,
+          "end": 8.62,
+          "confidence": 0.686
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

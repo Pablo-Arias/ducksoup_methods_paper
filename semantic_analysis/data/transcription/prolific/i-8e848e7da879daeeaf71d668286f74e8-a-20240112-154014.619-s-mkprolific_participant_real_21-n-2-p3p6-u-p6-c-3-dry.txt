@@ -1,0 +1,97 @@
+{
+  "text": " Nope. Refreshed again. Nothing.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 11.03,
+      "end": 14.23,
+      "text": " Nope. Refreshed again. Nothing.",
+      "tokens": [
+        50364,
+        12172,
+        13,
+        16957,
+        3644,
+        292,
+        797,
+        13,
+        6693,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5225127935409546,
+      "compression_ratio": 0.7948717948717948,
+      "no_speech_prob": 0.01097466703504324,
+      "confidence": 0.685,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 11.03,
+          "end": 11.37,
+          "confidence": 0
+        },
+        {
+          "text": "Nope.",
+          "start": 11.37,
+          "end": 11.95,
+          "confidence": 0.572
+        },
+        {
+          "text": "Refreshed",
+          "start": 12.27,
+          "end": 12.81,
+          "confidence": 0.68
+        },
+        {
+          "text": "again.",
+          "start": 12.81,
+          "end": 13.25,
+          "confidence": 0.714
+        },
+        {
+          "text": "Nothing.",
+          "start": 13.85,
+          "end": 14.23,
+          "confidence": 0.794
+        }
+      ]
+    }
+  ],
+  "language": "English",
+  "speech_activity": [
+    {
+      "start": 10.55,
+      "end": 15.05
+    },
+    {
+      "start": 38.9,
+      "end": 43.45
+    },
+    {
+      "start": 44.7,
+      "end": 46.25
+    },
+    {
+      "start": 46.6,
+      "end": 49.9
+    },
+    {
+      "start": 51.25,
+      "end": 55.75
+    },
+    {
+      "start": 55.85,
+      "end": 57.0
+    },
+    {
+      "start": 57.2,
+      "end": 60.4
+    },
+    {
+      "start": 61.8,
+      "end": 67.85
+    }
+  ]
+}

@@ -1,0 +1,515 @@
+{
+  "text": " Hello? Yeah, yeah I can. Can you? Do you know what I'm meant to be doing? Oh, okay. I live in London. What about you? Um, you have a really nice accent. Oh, cool. I can kind of hear that. Yeah. Do you live with family? Oh, nice. Yeah, I live with a friend in London.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 11.9,
+      "end": 73.12,
+      "text": " Hello? Yeah, yeah I can. Can you? Do you know what I'm meant to be doing? Oh, okay. I live",
+      "tokens": [
+        50364,
+        2425,
+        30,
+        865,
+        11,
+        1338,
+        286,
+        393,
+        13,
+        1664,
+        291,
+        30,
+        1144,
+        291,
+        458,
+        437,
+        286,
+        478,
+        4140,
+        281,
+        312,
+        884,
+        30,
+        876,
+        11,
+        1392,
+        13,
+        286,
+        1621,
+        51334
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36358714925831764,
+      "compression_ratio": 1.2661870503597121,
+      "no_speech_prob": 0.4696733355522156,
+      "confidence": 0.697,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 11.9,
+          "end": 14.95,
+          "confidence": 0
+        },
+        {
+          "text": "Hello?",
+          "start": 24.78,
+          "end": 24.95,
+          "confidence": 0.225
+        },
+        {
+          "text": "[*]",
+          "start": 26.56,
+          "end": 27.75,
+          "confidence": 0
+        },
+        {
+          "text": "Yeah,",
+          "start": 31.57,
+          "end": 31.87,
+          "confidence": 0.629
+        },
+        {
+          "text": "yeah",
+          "start": 31.95,
+          "end": 32.13,
+          "confidence": 0.757
+        },
+        {
+          "text": "I",
+          "start": 32.13,
+          "end": 32.27,
+          "confidence": 0.809
+        },
+        {
+          "text": "can.",
+          "start": 32.27,
+          "end": 32.51,
+          "confidence": 0.596
+        },
+        {
+          "text": "Can",
+          "start": 32.61,
+          "end": 32.75,
+          "confidence": 0.894
+        },
+        {
+          "text": "you?",
+          "start": 32.75,
+          "end": 32.97,
+          "confidence": 0.781
+        },
+        {
+          "text": "[*]",
+          "start": 52.35,
+          "end": 54.97,
+          "confidence": 0
+        },
+        {
+          "text": "Do",
+          "start": 54.97,
+          "end": 55.21,
+          "confidence": 0.555
+        },
+        {
+          "text": "you",
+          "start": 55.21,
+          "end": 55.35,
+          "confidence": 0.9
+        },
+        {
+          "text": "know",
+          "start": 55.35,
+          "end": 55.43,
+          "confidence": 0.813
+        },
+        {
+          "text": "what",
+          "start": 55.43,
+          "end": 55.55,
+          "confidence": 0.871
+        },
+        {
+          "text": "I'm",
+          "start": 55.55,
+          "end": 55.65,
+          "confidence": 0.668
+        },
+        {
+          "text": "meant",
+          "start": 55.65,
+          "end": 55.75,
+          "confidence": 0.869
+        },
+        {
+          "text": "to",
+          "start": 55.75,
+          "end": 55.85,
+          "confidence": 0.904
+        },
+        {
+          "text": "be",
+          "start": 55.85,
+          "end": 56.01,
+          "confidence": 0.905
+        },
+        {
+          "text": "doing?",
+          "start": 56.01,
+          "end": 56.51,
+          "confidence": 0.95
+        },
+        {
+          "text": "Oh,",
+          "start": 62.06,
+          "end": 62.5,
+          "confidence": 0.743
+        },
+        {
+          "text": "okay.",
+          "start": 62.72,
+          "end": 63.0,
+          "confidence": 0.609
+        },
+        {
+          "text": "I",
+          "start": 72.22,
+          "end": 72.86,
+          "confidence": 0.927
+        },
+        {
+          "text": "live",
+          "start": 72.86,
+          "end": 73.12,
+          "confidence": 0.898
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 73.12,
+      "end": 91.59,
+      "text": " in London. What about you? Um, you have a really nice accent. Oh, cool. I can kind of",
+      "tokens": [
+        51334,
+        294,
+        7042,
+        13,
+        708,
+        466,
+        291,
+        30,
+        3301,
+        11,
+        291,
+        362,
+        257,
+        534,
+        1481,
+        11982,
+        13,
+        876,
+        11,
+        1627,
+        13,
+        286,
+        393,
+        733,
+        295,
+        51684
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36358714925831764,
+      "compression_ratio": 1.2661870503597121,
+      "no_speech_prob": 0.4696733355522156,
+      "confidence": 0.657,
+      "words": [
+        {
+          "text": "in",
+          "start": 73.12,
+          "end": 73.24,
+          "confidence": 0.422
+        },
+        {
+          "text": "London.",
+          "start": 73.24,
+          "end": 73.56,
+          "confidence": 0.395
+        },
+        {
+          "text": "What",
+          "start": 73.74,
+          "end": 73.94,
+          "confidence": 0.774
+        },
+        {
+          "text": "about",
+          "start": 73.94,
+          "end": 74.12,
+          "confidence": 0.83
+        },
+        {
+          "text": "you?",
+          "start": 74.12,
+          "end": 74.42,
+          "confidence": 0.93
+        },
+        {
+          "text": "Um,",
+          "start": 78.75,
+          "end": 79.19,
+          "confidence": 0.241
+        },
+        {
+          "text": "you",
+          "start": 79.49,
+          "end": 79.61,
+          "confidence": 0.543
+        },
+        {
+          "text": "have",
+          "start": 79.61,
+          "end": 79.71,
+          "confidence": 0.863
+        },
+        {
+          "text": "a",
+          "start": 79.71,
+          "end": 79.79,
+          "confidence": 0.985
+        },
+        {
+          "text": "really",
+          "start": 79.79,
+          "end": 79.91,
+          "confidence": 0.768
+        },
+        {
+          "text": "nice",
+          "start": 79.91,
+          "end": 80.13,
+          "confidence": 0.776
+        },
+        {
+          "text": "accent.",
+          "start": 80.13,
+          "end": 80.67,
+          "confidence": 0.845
+        },
+        {
+          "text": "[*]",
+          "start": 89.19,
+          "end": 89.59,
+          "confidence": 0
+        },
+        {
+          "text": "Oh,",
+          "start": 89.59,
+          "end": 89.83,
+          "confidence": 0.602
+        },
+        {
+          "text": "cool.",
+          "start": 90.03,
+          "end": 90.27,
+          "confidence": 0.697
+        },
+        {
+          "text": "[*]",
+          "start": 90.27,
+          "end": 90.95,
+          "confidence": 0
+        },
+        {
+          "text": "I",
+          "start": 90.95,
+          "end": 91.15,
+          "confidence": 0.923
+        },
+        {
+          "text": "can",
+          "start": 91.15,
+          "end": 91.29,
+          "confidence": 0.893
+        },
+        {
+          "text": "kind",
+          "start": 91.29,
+          "end": 91.47,
+          "confidence": 0.767
+        },
+        {
+          "text": "of",
+          "start": 91.47,
+          "end": 91.59,
+          "confidence": 0.905
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2640,
+      "start": 91.59,
+      "end": 126.43,
+      "text": " hear that. Yeah. Do you live with family? Oh, nice. Yeah, I live with a friend in London.",
+      "tokens": [
+        50364,
+        1568,
+        300,
+        13,
+        865,
+        13,
+        1144,
+        291,
+        1621,
+        365,
+        1605,
+        30,
+        876,
+        11,
+        1481,
+        13,
+        865,
+        11,
+        286,
+        1621,
+        365,
+        257,
+        1277,
+        294,
+        7042,
+        13,
+        50898
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.274545635495867,
+      "compression_ratio": 1.072289156626506,
+      "no_speech_prob": 0.04154546558856964,
+      "confidence": 0.549,
+      "words": [
+        {
+          "text": "hear",
+          "start": 91.59,
+          "end": 91.79,
+          "confidence": 0.002
+        },
+        {
+          "text": "that.",
+          "start": 91.79,
+          "end": 92.13,
+          "confidence": 0.525
+        },
+        {
+          "text": "[*]",
+          "start": 102.75,
+          "end": 104.1,
+          "confidence": 0
+        },
+        {
+          "text": "Yeah.",
+          "start": 116.08,
+          "end": 116.2,
+          "confidence": 0.27
+        },
+        {
+          "text": "Do",
+          "start": 116.48,
+          "end": 116.68,
+          "confidence": 0.819
+        },
+        {
+          "text": "you",
+          "start": 116.68,
+          "end": 116.78,
+          "confidence": 0.902
+        },
+        {
+          "text": "live",
+          "start": 116.78,
+          "end": 116.92,
+          "confidence": 0.896
+        },
+        {
+          "text": "with",
+          "start": 116.92,
+          "end": 117.16,
+          "confidence": 0.81
+        },
+        {
+          "text": "family?",
+          "start": 117.16,
+          "end": 117.58,
+          "confidence": 0.863
+        },
+        {
+          "text": "[*]",
+          "start": 117.58,
+          "end": 118.2,
+          "confidence": 0
+        },
+        {
+          "text": "Oh,",
+          "start": 119.99,
+          "end": 120.19,
+          "confidence": 0.437
+        },
+        {
+          "text": "nice.",
+          "start": 120.27,
+          "end": 120.57,
+          "confidence": 0.756
+        },
+        {
+          "text": "Yeah,",
+          "start": 124.59,
+          "end": 124.95,
+          "confidence": 0.844
+        },
+        {
+          "text": "I",
+          "start": 125.01,
+          "end": 125.13,
+          "confidence": 0.947
+        },
+        {
+          "text": "live",
+          "start": 125.13,
+          "end": 125.37,
+          "confidence": 0.901
+        },
+        {
+          "text": "with",
+          "start": 125.37,
+          "end": 125.63,
+          "confidence": 0.814
+        },
+        {
+          "text": "a",
+          "start": 125.63,
+          "end": 125.79,
+          "confidence": 0.971
+        },
+        {
+          "text": "friend",
+          "start": 125.79,
+          "end": 125.99,
+          "confidence": 0.711
+        },
+        {
+          "text": "in",
+          "start": 125.99,
+          "end": 126.17,
+          "confidence": 0.897
+        },
+        {
+          "text": "London.",
+          "start": 126.17,
+          "end": 126.43,
+          "confidence": 0.864
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

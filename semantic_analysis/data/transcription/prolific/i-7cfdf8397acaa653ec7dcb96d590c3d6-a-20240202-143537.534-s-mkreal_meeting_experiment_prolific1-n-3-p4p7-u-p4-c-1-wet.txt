@@ -1,0 +1,73 @@
+{
+  "text": " see you again can you hear me",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.0,
+      "text": " see you again can you hear me",
+      "tokens": [
+        50364,
+        536,
+        291,
+        797,
+        393,
+        291,
+        1568,
+        385,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.41310796737670896,
+      "compression_ratio": 0.8787878787878788,
+      "no_speech_prob": 0.07690328359603882,
+      "confidence": 0.542,
+      "words": [
+        {
+          "text": "see",
+          "start": 0.0,
+          "end": 0.14,
+          "confidence": 0.069
+        },
+        {
+          "text": "you",
+          "start": 0.14,
+          "end": 0.24,
+          "confidence": 0.912
+        },
+        {
+          "text": "again",
+          "start": 0.24,
+          "end": 0.42,
+          "confidence": 0.904
+        },
+        {
+          "text": "can",
+          "start": 0.42,
+          "end": 0.6,
+          "confidence": 0.342
+        },
+        {
+          "text": "you",
+          "start": 0.6,
+          "end": 0.7,
+          "confidence": 0.892
+        },
+        {
+          "text": "hear",
+          "start": 0.7,
+          "end": 0.82,
+          "confidence": 0.884
+        },
+        {
+          "text": "me",
+          "start": 0.82,
+          "end": 1.0,
+          "confidence": 0.906
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

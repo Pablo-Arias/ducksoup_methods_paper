@@ -1,0 +1,121 @@
+{
+  "text": " https://www.kiosk prepared by BOSCH.com . .",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 25.66,
+      "end": 25.74,
+      "text": " https://www.kiosk prepared by BOSCH.com",
+      "tokens": [
+        50364,
+        220,
+        357,
+        83,
+        1878,
+        21492,
+        17919,
+        13,
+        74,
+        2717,
+        74,
+        4927,
+        538,
+        363,
+        4367,
+        5462,
+        13,
+        1112,
+        51623
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.944321632385254,
+      "compression_ratio": 0.8297872340425532,
+      "no_speech_prob": 0.5949957966804504,
+      "confidence": 0.049,
+      "words": [
+        {
+          "text": "https://www.kiosk",
+          "start": 25.66,
+          "end": 25.68,
+          "confidence": 0.118
+        },
+        {
+          "text": "prepared",
+          "start": 25.68,
+          "end": 25.7,
+          "confidence": 0.0
+        },
+        {
+          "text": "by",
+          "start": 25.7,
+          "end": 25.72,
+          "confidence": 0.026
+        },
+        {
+          "text": "BOSCH.com",
+          "start": 25.72,
+          "end": 25.74,
+          "confidence": 0.045
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 35.48,
+      "end": 35.5,
+      "text": " .",
+      "tokens": [
+        50364,
+        2411,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.713944707598005,
+      "compression_ratio": 0.2727272727272727,
+      "no_speech_prob": 0.8116522431373596,
+      "confidence": 0.01,
+      "words": [
+        {
+          "text": ".",
+          "start": 35.48,
+          "end": 35.5,
+          "confidence": 0.01
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 3000,
+      "start": 35.64,
+      "end": 35.82,
+      "text": " .",
+      "tokens": [
+        50614,
+        2411,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.713944707598005,
+      "compression_ratio": 0.2727272727272727,
+      "no_speech_prob": 0.8116522431373596,
+      "confidence": 0.011,
+      "words": [
+        {
+          "text": ".",
+          "start": 35.64,
+          "end": 35.82,
+          "confidence": 0.011
+        }
+      ]
+    }
+  ],
+  "language": "English",
+  "speech_activity": [
+    {
+      "start": 0.0,
+      "end": 36.096
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "text": " .",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 3000,
+      "start": 29.5,
+      "end": 30.74,
+      "text": " .",
+      "tokens": [
+        50364,
+        2411,
+        50497
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6235408186912537,
+      "compression_ratio": 0.1111111111111111,
+      "no_speech_prob": 0.9524130821228027,
+      "confidence": 0.067,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 29.5,
+          "end": 30.24,
+          "confidence": 0
+        },
+        {
+          "text": ".",
+          "start": 30.24,
+          "end": 30.74,
+          "confidence": 0.067
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

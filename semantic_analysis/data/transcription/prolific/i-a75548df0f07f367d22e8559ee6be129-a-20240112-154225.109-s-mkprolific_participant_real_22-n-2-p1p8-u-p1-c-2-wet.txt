@@ -1,0 +1,44 @@
+{
+  "text": " Silence.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.12,
+      "text": " Silence.",
+      "tokens": [
+        50364,
+        34570,
+        13,
+        51174
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6492738246917724,
+      "compression_ratio": 0.5,
+      "no_speech_prob": 0.6050352454185486,
+      "confidence": 0.376,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 0.0,
+          "end": 1.74,
+          "confidence": 0
+        },
+        {
+          "text": "Silence.",
+          "start": 1.74,
+          "end": 2.12,
+          "confidence": 0.376
+        }
+      ]
+    }
+  ],
+  "language": "English",
+  "speech_activity": [
+    {
+      "start": 0.0,
+      "end": 16.256
+    }
+  ]
+}

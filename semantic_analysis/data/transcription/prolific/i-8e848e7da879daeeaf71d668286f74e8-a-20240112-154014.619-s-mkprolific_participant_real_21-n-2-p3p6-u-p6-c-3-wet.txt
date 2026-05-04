@@ -1,0 +1,113 @@
+{
+  "text": " Nope. Refreshed again. Nothing.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 11.01,
+      "end": 14.23,
+      "text": " Nope. Refreshed again. Nothing.",
+      "tokens": [
+        50364,
+        12172,
+        13,
+        16957,
+        3644,
+        292,
+        797,
+        13,
+        6693,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5015585819880167,
+      "compression_ratio": 0.7948717948717948,
+      "no_speech_prob": 0.011484689079225063,
+      "confidence": 0.685,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 11.01,
+          "end": 11.39,
+          "confidence": 0
+        },
+        {
+          "text": "Nope.",
+          "start": 11.39,
+          "end": 11.93,
+          "confidence": 0.554
+        },
+        {
+          "text": "Refreshed",
+          "start": 12.27,
+          "end": 12.81,
+          "confidence": 0.7
+        },
+        {
+          "text": "[*]",
+          "start": 12.81,
+          "end": 13.09,
+          "confidence": 0
+        },
+        {
+          "text": "again.",
+          "start": 13.09,
+          "end": 13.27,
+          "confidence": 0.703
+        },
+        {
+          "text": "[*]",
+          "start": 13.85,
+          "end": 14.05,
+          "confidence": 0
+        },
+        {
+          "text": "Nothing.",
+          "start": 14.05,
+          "end": 14.23,
+          "confidence": 0.797
+        }
+      ]
+    }
+  ],
+  "language": "English",
+  "speech_activity": [
+    {
+      "start": 10.55,
+      "end": 15.05
+    },
+    {
+      "start": 38.9,
+      "end": 43.45
+    },
+    {
+      "start": 44.7,
+      "end": 46.25
+    },
+    {
+      "start": 47.2,
+      "end": 49.9
+    },
+    {
+      "start": 51.25,
+      "end": 55.5
+    },
+    {
+      "start": 55.85,
+      "end": 57.0
+    },
+    {
+      "start": 57.2,
+      "end": 60.4
+    },
+    {
+      "start": 61.8,
+      "end": 64.5
+    },
+    {
+      "start": 64.75,
+      "end": 66.7
+    }
+  ]
+}

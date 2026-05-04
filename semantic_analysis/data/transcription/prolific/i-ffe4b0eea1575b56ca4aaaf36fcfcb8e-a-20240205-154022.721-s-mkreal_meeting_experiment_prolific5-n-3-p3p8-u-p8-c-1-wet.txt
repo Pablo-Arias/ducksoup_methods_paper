@@ -1,0 +1,153 @@
+{
+  "text": " Hi! How are you? I'm fine, and you? OK? Can you move at all?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.2,
+      "end": 24.18,
+      "text": " Hi! How are you? I'm fine, and you? OK? Can you move at all?",
+      "tokens": [
+        50364,
+        2421,
+        0,
+        1012,
+        366,
+        291,
+        30,
+        286,
+        478,
+        2489,
+        11,
+        293,
+        291,
+        30,
+        2264,
+        30,
+        1664,
+        291,
+        1286,
+        412,
+        439,
+        30,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6871965726216634,
+      "compression_ratio": 0.9836065573770492,
+      "no_speech_prob": 0.18833039700984955,
+      "confidence": 0.489,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 0.2,
+          "end": 12.3,
+          "confidence": 0
+        },
+        {
+          "text": "Hi!",
+          "start": 12.3,
+          "end": 12.48,
+          "confidence": 0.192
+        },
+        {
+          "text": "How",
+          "start": 13.18,
+          "end": 13.66,
+          "confidence": 0.486
+        },
+        {
+          "text": "are",
+          "start": 13.66,
+          "end": 13.82,
+          "confidence": 0.911
+        },
+        {
+          "text": "you?",
+          "start": 13.82,
+          "end": 14.02,
+          "confidence": 0.924
+        },
+        {
+          "text": "[*]",
+          "start": 14.7,
+          "end": 15.68,
+          "confidence": 0
+        },
+        {
+          "text": "I'm",
+          "start": 15.68,
+          "end": 16.0,
+          "confidence": 0.72
+        },
+        {
+          "text": "fine,",
+          "start": 16.0,
+          "end": 16.22,
+          "confidence": 0.464
+        },
+        {
+          "text": "and",
+          "start": 16.3,
+          "end": 16.36,
+          "confidence": 0.52
+        },
+        {
+          "text": "you?",
+          "start": 16.36,
+          "end": 16.5,
+          "confidence": 0.944
+        },
+        {
+          "text": "[*]",
+          "start": 21.3,
+          "end": 21.82,
+          "confidence": 0
+        },
+        {
+          "text": "OK?",
+          "start": 21.82,
+          "end": 22.18,
+          "confidence": 0.334
+        },
+        {
+          "text": "[*]",
+          "start": 22.18,
+          "end": 23.3,
+          "confidence": 0
+        },
+        {
+          "text": "Can",
+          "start": 23.3,
+          "end": 23.62,
+          "confidence": 0.519
+        },
+        {
+          "text": "you",
+          "start": 23.62,
+          "end": 23.74,
+          "confidence": 0.691
+        },
+        {
+          "text": "move",
+          "start": 23.74,
+          "end": 23.92,
+          "confidence": 0.122
+        },
+        {
+          "text": "at",
+          "start": 23.92,
+          "end": 24.06,
+          "confidence": 0.098
+        },
+        {
+          "text": "all?",
+          "start": 24.06,
+          "end": 24.18,
+          "confidence": 0.925
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

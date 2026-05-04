@@ -1,0 +1,141 @@
+{
+  "text": " . . . . .",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 5.58,
+      "end": 5.6,
+      "text": " .",
+      "tokens": [
+        50364,
+        2411,
+        50614
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.7534422278404236,
+      "compression_ratio": 0.75,
+      "no_speech_prob": 0.4708031117916107,
+      "confidence": 0.013,
+      "words": [
+        {
+          "text": ".",
+          "start": 5.58,
+          "end": 5.6,
+          "confidence": 0.013
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 10.58,
+      "end": 10.6,
+      "text": " .",
+      "tokens": [
+        50616,
+        2411,
+        50864
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.7534422278404236,
+      "compression_ratio": 0.75,
+      "no_speech_prob": 0.4708031117916107,
+      "confidence": 0.008,
+      "words": [
+        {
+          "text": ".",
+          "start": 10.58,
+          "end": 10.6,
+          "confidence": 0.008
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 15.56,
+      "end": 15.58,
+      "text": " .",
+      "tokens": [
+        50866,
+        2411,
+        51114
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.7534422278404236,
+      "compression_ratio": 0.75,
+      "no_speech_prob": 0.4708031117916107,
+      "confidence": 0.006,
+      "words": [
+        {
+          "text": ".",
+          "start": 15.56,
+          "end": 15.58,
+          "confidence": 0.006
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 19.9,
+      "end": 19.92,
+      "text": " .",
+      "tokens": [
+        51116,
+        2411,
+        51364
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.7534422278404236,
+      "compression_ratio": 0.75,
+      "no_speech_prob": 0.4708031117916107,
+      "confidence": 0.011,
+      "words": [
+        {
+          "text": ".",
+          "start": 19.9,
+          "end": 19.92,
+          "confidence": 0.011
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 19.92,
+      "end": 19.93,
+      "text": " .",
+      "tokens": [
+        51366,
+        2411,
+        51414
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.7534422278404236,
+      "compression_ratio": 0.75,
+      "no_speech_prob": 0.4708031117916107,
+      "confidence": 0.008,
+      "words": [
+        {
+          "text": ".",
+          "start": 19.92,
+          "end": 19.93,
+          "confidence": 0.008
+        }
+      ]
+    }
+  ],
+  "language": "English",
+  "speech_activity": [
+    {
+      "start": 0.0,
+      "end": 0.9
+    },
+    {
+      "start": 1.0,
+      "end": 19.925375
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "text": " Just so I can't see anything, that looks like a miracle.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.15,
+      "end": 11.52,
+      "text": " Just so I can't see anything, that looks like a miracle.",
+      "tokens": [
+        50364,
+        1449,
+        370,
+        286,
+        393,
+        380,
+        536,
+        1340,
+        11,
+        300,
+        450,
+        78,
+        1694,
+        411,
+        257,
+        2752,
+        81,
+        7041,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8398648175326261,
+      "compression_ratio": 0.9180327868852459,
+      "no_speech_prob": 0.3017902672290802,
+      "confidence": 0.492,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 0.15,
+          "end": 2.3,
+          "confidence": 0
+        },
+        {
+          "text": "Just",
+          "start": 5.68,
+          "end": 5.94,
+          "confidence": 0.176
+        },
+        {
+          "text": "so",
+          "start": 5.94,
+          "end": 6.12,
+          "confidence": 0.85
+        },
+        {
+          "text": "I",
+          "start": 6.12,
+          "end": 6.28,
+          "confidence": 0.691
+        },
+        {
+          "text": "can't",
+          "start": 6.28,
+          "end": 6.62,
+          "confidence": 0.895
+        },
+        {
+          "text": "see",
+          "start": 6.62,
+          "end": 6.8,
+          "confidence": 0.828
+        },
+        {
+          "text": "[*]",
+          "start": 6.8,
+          "end": 6.86,
+          "confidence": 0
+        },
+        {
+          "text": "anything,",
+          "start": 6.86,
+          "end": 7.74,
+          "confidence": 0.278
+        },
+        {
+          "text": "[*]",
+          "start": 8.95,
+          "end": 9.98,
+          "confidence": 0
+        },
+        {
+          "text": "that",
+          "start": 10.2,
+          "end": 10.44,
+          "confidence": 0.304
+        },
+        {
+          "text": "looks",
+          "start": 10.44,
+          "end": 10.7,
+          "confidence": 0.418
+        },
+        {
+          "text": "like",
+          "start": 10.7,
+          "end": 10.88,
+          "confidence": 0.865
+        },
+        {
+          "text": "a",
+          "start": 10.88,
+          "end": 11.0,
+          "confidence": 0.908
+        },
+        {
+          "text": "miracle.",
+          "start": 11.0,
+          "end": 11.52,
+          "confidence": 0.42
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

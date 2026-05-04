@@ -1,0 +1,178 @@
+{
+  "text": " This one says conversation over but I didn't have any conversation. There was nobody there.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 22.55,
+      "end": 28.4,
+      "text": " This one says conversation over but I didn't have any conversation. There was",
+      "tokens": [
+        50364,
+        639,
+        472,
+        1619,
+        3761,
+        670,
+        457,
+        286,
+        994,
+        380,
+        362,
+        604,
+        3761,
+        13,
+        821,
+        390,
+        50618
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4360531931338103,
+      "compression_ratio": 1.1375,
+      "no_speech_prob": 0.06418070197105408,
+      "confidence": 0.637,
+      "words": [
+        {
+          "text": "This",
+          "start": 22.55,
+          "end": 22.91,
+          "confidence": 0.375
+        },
+        {
+          "text": "one",
+          "start": 22.91,
+          "end": 23.09,
+          "confidence": 0.137
+        },
+        {
+          "text": "says",
+          "start": 23.09,
+          "end": 23.29,
+          "confidence": 0.771
+        },
+        {
+          "text": "conversation",
+          "start": 23.29,
+          "end": 23.95,
+          "confidence": 0.529
+        },
+        {
+          "text": "over",
+          "start": 23.95,
+          "end": 24.29,
+          "confidence": 0.879
+        },
+        {
+          "text": "but",
+          "start": 24.29,
+          "end": 24.49,
+          "confidence": 0.569
+        },
+        {
+          "text": "I",
+          "start": 24.49,
+          "end": 24.59,
+          "confidence": 0.967
+        },
+        {
+          "text": "didn't",
+          "start": 24.59,
+          "end": 24.79,
+          "confidence": 0.906
+        },
+        {
+          "text": "have",
+          "start": 24.79,
+          "end": 24.95,
+          "confidence": 0.885
+        },
+        {
+          "text": "any",
+          "start": 24.95,
+          "end": 25.13,
+          "confidence": 0.797
+        },
+        {
+          "text": "[*]",
+          "start": 25.13,
+          "end": 25.65,
+          "confidence": 0
+        },
+        {
+          "text": "conversation.",
+          "start": 25.65,
+          "end": 25.81,
+          "confidence": 0.664
+        },
+        {
+          "text": "[*]",
+          "start": 25.81,
+          "end": 26.6,
+          "confidence": 0
+        },
+        {
+          "text": "There",
+          "start": 27.82,
+          "end": 28.24,
+          "confidence": 0.512
+        },
+        {
+          "text": "was",
+          "start": 28.24,
+          "end": 28.4,
+          "confidence": 0.878
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 28.4,
+      "end": 29.22,
+      "text": " nobody there.",
+      "tokens": [
+        50618,
+        5079,
+        456,
+        13,
+        50756
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4360531931338103,
+      "compression_ratio": 1.1375,
+      "no_speech_prob": 0.06418070197105408,
+      "confidence": 0.336,
+      "words": [
+        {
+          "text": "nobody",
+          "start": 28.4,
+          "end": 28.72,
+          "confidence": 0.082
+        },
+        {
+          "text": "[*]",
+          "start": 28.72,
+          "end": 29.06,
+          "confidence": 0
+        },
+        {
+          "text": "there.",
+          "start": 29.06,
+          "end": 29.22,
+          "confidence": 0.681
+        }
+      ]
+    }
+  ],
+  "language": "English",
+  "speech_activity": [
+    {
+      "start": 22.25,
+      "end": 26.6
+    },
+    {
+      "start": 27.65,
+      "end": 29.85
+    }
+  ]
+}

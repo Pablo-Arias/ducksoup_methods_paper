@@ -1,0 +1,1846 @@
+{
+  "text": " Hi. How are you? I can't hear you. How are you doing? I can't hear you so clearly. Can you speak louder please? Maybe increase your volume. What did you say? Come again please. I stay in Edinburgh. Yes please. How are you? So what do you do? Yes please. Yes. Okay. Yes I'm in school as well. I'm in school. Yes. I'm on my free time at the moment. Because I'm at the second level and I'm a medical physiologist. Yeah that's nice right? So Africa? Where in Africa? Where in Africa? Okay Johannesburg that's South Africa. Yes. Yes. South Africa is a good place to be. Yes it's a very good place to be actually. At least you see the people different from your race. Different people, blacks, the whites. Back there in South Africa. Okay that's. What did you say? Where am I? Okay born. I was born in Africa as well. Nigeria to be precise. In Nigeria. That was three years ago. Yes three years ago. I came to. Yeah? What did you say?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 1.9,
+      "end": 18.44,
+      "text": " Hi. How are you? I can't hear you. How are you doing?",
+      "tokens": [
+        50364,
+        2421,
+        13,
+        1012,
+        366,
+        291,
+        30,
+        286,
+        393,
+        380,
+        1568,
+        291,
+        13,
+        1012,
+        366,
+        291,
+        884,
+        30,
+        51202
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4740736825125558,
+      "compression_ratio": 1.404040404040404,
+      "no_speech_prob": 0.3766688406467438,
+      "confidence": 0.568,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 1.9,
+          "end": 3.65,
+          "confidence": 0
+        },
+        {
+          "text": "Hi.",
+          "start": 12.76,
+          "end": 13.14,
+          "confidence": 0.149
+        },
+        {
+          "text": "[*]",
+          "start": 13.14,
+          "end": 14.78,
+          "confidence": 0
+        },
+        {
+          "text": "How",
+          "start": 14.78,
+          "end": 15.34,
+          "confidence": 0.465
+        },
+        {
+          "text": "are",
+          "start": 15.34,
+          "end": 15.7,
+          "confidence": 0.891
+        },
+        {
+          "text": "you?",
+          "start": 15.7,
+          "end": 15.88,
+          "confidence": 0.907
+        },
+        {
+          "text": "[*]",
+          "start": 16.96,
+          "end": 17.5,
+          "confidence": 0
+        },
+        {
+          "text": "I",
+          "start": 17.5,
+          "end": 17.64,
+          "confidence": 0.107
+        },
+        {
+          "text": "can't",
+          "start": 17.64,
+          "end": 17.84,
+          "confidence": 0.82
+        },
+        {
+          "text": "hear",
+          "start": 17.84,
+          "end": 17.86,
+          "confidence": 0.78
+        },
+        {
+          "text": "you.",
+          "start": 17.86,
+          "end": 17.96,
+          "confidence": 0.794
+        },
+        {
+          "text": "How",
+          "start": 18.0,
+          "end": 18.1,
+          "confidence": 0.612
+        },
+        {
+          "text": "are",
+          "start": 18.1,
+          "end": 18.2,
+          "confidence": 0.601
+        },
+        {
+          "text": "you",
+          "start": 18.2,
+          "end": 18.26,
+          "confidence": 0.869
+        },
+        {
+          "text": "doing?",
+          "start": 18.26,
+          "end": 18.44,
+          "confidence": 0.888
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 33.11,
+      "end": 39.58,
+      "text": " I can't hear you so clearly. Can you speak louder please? Maybe increase your volume.",
+      "tokens": [
+        51202,
+        286,
+        393,
+        380,
+        1568,
+        291,
+        370,
+        4448,
+        13,
+        1664,
+        291,
+        1710,
+        22717,
+        1767,
+        30,
+        2704,
+        3488,
+        428,
+        5523,
+        13,
+        51450
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4740736825125558,
+      "compression_ratio": 1.404040404040404,
+      "no_speech_prob": 0.3766688406467438,
+      "confidence": 0.543,
+      "words": [
+        {
+          "text": "I",
+          "start": 33.11,
+          "end": 33.71,
+          "confidence": 0.696
+        },
+        {
+          "text": "can't",
+          "start": 33.71,
+          "end": 33.95,
+          "confidence": 0.883
+        },
+        {
+          "text": "hear",
+          "start": 33.95,
+          "end": 34.07,
+          "confidence": 0.798
+        },
+        {
+          "text": "you",
+          "start": 34.07,
+          "end": 34.21,
+          "confidence": 0.834
+        },
+        {
+          "text": "so",
+          "start": 34.21,
+          "end": 34.35,
+          "confidence": 0.871
+        },
+        {
+          "text": "clearly.",
+          "start": 34.35,
+          "end": 34.61,
+          "confidence": 0.647
+        },
+        {
+          "text": "Can",
+          "start": 34.99,
+          "end": 35.09,
+          "confidence": 0.562
+        },
+        {
+          "text": "you",
+          "start": 35.09,
+          "end": 35.25,
+          "confidence": 0.893
+        },
+        {
+          "text": "speak",
+          "start": 35.25,
+          "end": 35.39,
+          "confidence": 0.189
+        },
+        {
+          "text": "louder",
+          "start": 35.39,
+          "end": 35.53,
+          "confidence": 0.379
+        },
+        {
+          "text": "please?",
+          "start": 35.53,
+          "end": 35.83,
+          "confidence": 0.604
+        },
+        {
+          "text": "Maybe",
+          "start": 37.6,
+          "end": 38.06,
+          "confidence": 0.287
+        },
+        {
+          "text": "increase",
+          "start": 38.06,
+          "end": 38.34,
+          "confidence": 0.091
+        },
+        {
+          "text": "your",
+          "start": 38.34,
+          "end": 38.56,
+          "confidence": 0.737
+        },
+        {
+          "text": "[*]",
+          "start": 38.56,
+          "end": 39.34,
+          "confidence": 0
+        },
+        {
+          "text": "volume.",
+          "start": 39.34,
+          "end": 39.58,
+          "confidence": 0.524
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2172,
+      "start": 39.58,
+      "end": 65.12,
+      "text": " What did you say? Come again please. I stay in Edinburgh. Yes please. How are you? So",
+      "tokens": [
+        50364,
+        708,
+        630,
+        291,
+        584,
+        30,
+        2492,
+        797,
+        1767,
+        13,
+        286,
+        1754,
+        294,
+        41215,
+        13,
+        1079,
+        1767,
+        13,
+        1012,
+        366,
+        291,
+        30,
+        407,
+        51310
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.46258137776301456,
+      "compression_ratio": 1.0240963855421688,
+      "no_speech_prob": 0.48598530888557434,
+      "confidence": 0.481,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 39.58,
+          "end": 41.25,
+          "confidence": 0
+        },
+        {
+          "text": "What",
+          "start": 42.14,
+          "end": 42.26,
+          "confidence": 0.24
+        },
+        {
+          "text": "did",
+          "start": 42.26,
+          "end": 42.38,
+          "confidence": 0.839
+        },
+        {
+          "text": "you",
+          "start": 42.38,
+          "end": 42.48,
+          "confidence": 0.789
+        },
+        {
+          "text": "say?",
+          "start": 42.48,
+          "end": 42.66,
+          "confidence": 0.861
+        },
+        {
+          "text": "[*]",
+          "start": 42.66,
+          "end": 43.3,
+          "confidence": 0
+        },
+        {
+          "text": "Come",
+          "start": 43.3,
+          "end": 43.82,
+          "confidence": 0.338
+        },
+        {
+          "text": "again",
+          "start": 43.82,
+          "end": 44.02,
+          "confidence": 0.909
+        },
+        {
+          "text": "please.",
+          "start": 44.02,
+          "end": 44.3,
+          "confidence": 0.587
+        },
+        {
+          "text": "[*]",
+          "start": 49.77,
+          "end": 49.79,
+          "confidence": 0
+        },
+        {
+          "text": "I",
+          "start": 49.79,
+          "end": 50.11,
+          "confidence": 0.248
+        },
+        {
+          "text": "[*]",
+          "start": 50.7,
+          "end": 51.31,
+          "confidence": 0
+        },
+        {
+          "text": "stay",
+          "start": 51.31,
+          "end": 51.47,
+          "confidence": 0.623
+        },
+        {
+          "text": "in",
+          "start": 51.47,
+          "end": 51.59,
+          "confidence": 0.838
+        },
+        {
+          "text": "[*]",
+          "start": 51.59,
+          "end": 51.77,
+          "confidence": 0
+        },
+        {
+          "text": "Edinburgh.",
+          "start": 51.77,
+          "end": 51.89,
+          "confidence": 0.767
+        },
+        {
+          "text": "[*]",
+          "start": 54.68,
+          "end": 55.65,
+          "confidence": 0
+        },
+        {
+          "text": "Yes",
+          "start": 56.36,
+          "end": 56.62,
+          "confidence": 0.399
+        },
+        {
+          "text": "please.",
+          "start": 56.62,
+          "end": 56.96,
+          "confidence": 0.569
+        },
+        {
+          "text": "[*]",
+          "start": 56.96,
+          "end": 58.06,
+          "confidence": 0
+        },
+        {
+          "text": "How",
+          "start": 58.25,
+          "end": 58.81,
+          "confidence": 0.003
+        },
+        {
+          "text": "are",
+          "start": 58.81,
+          "end": 58.93,
+          "confidence": 0.889
+        },
+        {
+          "text": "you?",
+          "start": 58.93,
+          "end": 59.09,
+          "confidence": 0.897
+        },
+        {
+          "text": "[*]",
+          "start": 61.14,
+          "end": 63.32,
+          "confidence": 0
+        },
+        {
+          "text": "So",
+          "start": 64.55,
+          "end": 65.12,
+          "confidence": 0.402
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 4064,
+      "start": 65.12,
+      "end": 87.58,
+      "text": " what do you do? Yes please. Yes. Okay. Yes I'm in school as well. I'm in school. Yes.",
+      "tokens": [
+        50364,
+        437,
+        360,
+        291,
+        360,
+        30,
+        1079,
+        1767,
+        13,
+        1079,
+        13,
+        1033,
+        13,
+        1079,
+        286,
+        478,
+        294,
+        1395,
+        382,
+        731,
+        13,
+        286,
+        478,
+        294,
+        1395,
+        13,
+        1079,
+        13,
+        51082
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3754573475230824,
+      "compression_ratio": 1.4049586776859504,
+      "no_speech_prob": 0.21742327511310577,
+      "confidence": 0.612,
+      "words": [
+        {
+          "text": "what",
+          "start": 65.12,
+          "end": 65.24,
+          "confidence": 0.05
+        },
+        {
+          "text": "do",
+          "start": 65.24,
+          "end": 65.38,
+          "confidence": 0.88
+        },
+        {
+          "text": "you",
+          "start": 65.38,
+          "end": 65.52,
+          "confidence": 0.903
+        },
+        {
+          "text": "do?",
+          "start": 65.52,
+          "end": 65.84,
+          "confidence": 0.625
+        },
+        {
+          "text": "[*]",
+          "start": 66.54,
+          "end": 67.95,
+          "confidence": 0
+        },
+        {
+          "text": "Yes",
+          "start": 70.69,
+          "end": 70.81,
+          "confidence": 0.417
+        },
+        {
+          "text": "please.",
+          "start": 70.81,
+          "end": 71.13,
+          "confidence": 0.431
+        },
+        {
+          "text": "[*]",
+          "start": 71.13,
+          "end": 71.65,
+          "confidence": 0
+        },
+        {
+          "text": "Yes.",
+          "start": 72.91,
+          "end": 73.09,
+          "confidence": 0.507
+        },
+        {
+          "text": "[*]",
+          "start": 76.5,
+          "end": 77.6,
+          "confidence": 0
+        },
+        {
+          "text": "Okay.",
+          "start": 79.0,
+          "end": 79.36,
+          "confidence": 0.454
+        },
+        {
+          "text": "[*]",
+          "start": 81.32,
+          "end": 81.5,
+          "confidence": 0
+        },
+        {
+          "text": "Yes",
+          "start": 81.5,
+          "end": 81.76,
+          "confidence": 0.711
+        },
+        {
+          "text": "I'm",
+          "start": 81.76,
+          "end": 82.12,
+          "confidence": 0.609
+        },
+        {
+          "text": "in",
+          "start": 82.12,
+          "end": 82.24,
+          "confidence": 0.899
+        },
+        {
+          "text": "school",
+          "start": 82.24,
+          "end": 82.48,
+          "confidence": 0.895
+        },
+        {
+          "text": "as",
+          "start": 82.48,
+          "end": 82.68,
+          "confidence": 0.852
+        },
+        {
+          "text": "well.",
+          "start": 82.68,
+          "end": 82.9,
+          "confidence": 0.864
+        },
+        {
+          "text": "I'm",
+          "start": 83.3,
+          "end": 83.54,
+          "confidence": 0.909
+        },
+        {
+          "text": "in",
+          "start": 83.54,
+          "end": 83.62,
+          "confidence": 0.894
+        },
+        {
+          "text": "school.",
+          "start": 83.62,
+          "end": 83.92,
+          "confidence": 0.913
+        },
+        {
+          "text": "[*]",
+          "start": 86.75,
+          "end": 87.22,
+          "confidence": 0
+        },
+        {
+          "text": "Yes.",
+          "start": 87.22,
+          "end": 87.58,
+          "confidence": 0.575
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 4064,
+      "start": 87.58,
+      "end": 109.07,
+      "text": " I'm on my free time at the moment. Because I'm at the second level and I'm a medical",
+      "tokens": [
+        51082,
+        286,
+        478,
+        322,
+        452,
+        1737,
+        565,
+        412,
+        264,
+        1623,
+        13,
+        1436,
+        286,
+        478,
+        412,
+        264,
+        1150,
+        1496,
+        293,
+        286,
+        478,
+        257,
+        4625,
+        51692
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3754573475230824,
+      "compression_ratio": 1.4049586776859504,
+      "no_speech_prob": 0.21742327511310577,
+      "confidence": 0.596,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 87.58,
+          "end": 88.06,
+          "confidence": 0.351
+        },
+        {
+          "text": "on",
+          "start": 88.06,
+          "end": 88.12,
+          "confidence": 0.401
+        },
+        {
+          "text": "my",
+          "start": 88.12,
+          "end": 88.24,
+          "confidence": 0.851
+        },
+        {
+          "text": "free",
+          "start": 88.24,
+          "end": 88.46,
+          "confidence": 0.791
+        },
+        {
+          "text": "time",
+          "start": 88.46,
+          "end": 88.66,
+          "confidence": 0.811
+        },
+        {
+          "text": "at",
+          "start": 88.66,
+          "end": 88.94,
+          "confidence": 0.847
+        },
+        {
+          "text": "[*]",
+          "start": 88.94,
+          "end": 89.28,
+          "confidence": 0
+        },
+        {
+          "text": "the",
+          "start": 89.28,
+          "end": 89.4,
+          "confidence": 0.813
+        },
+        {
+          "text": "moment.",
+          "start": 89.4,
+          "end": 89.76,
+          "confidence": 0.599
+        },
+        {
+          "text": "[*]",
+          "start": 100.45,
+          "end": 100.93,
+          "confidence": 0
+        },
+        {
+          "text": "Because",
+          "start": 100.93,
+          "end": 101.31,
+          "confidence": 0.121
+        },
+        {
+          "text": "[*]",
+          "start": 102.4,
+          "end": 104.41,
+          "confidence": 0
+        },
+        {
+          "text": "I'm",
+          "start": 104.41,
+          "end": 105.01,
+          "confidence": 0.661
+        },
+        {
+          "text": "at",
+          "start": 105.01,
+          "end": 105.11,
+          "confidence": 0.642
+        },
+        {
+          "text": "the",
+          "start": 105.11,
+          "end": 105.23,
+          "confidence": 0.605
+        },
+        {
+          "text": "second",
+          "start": 105.23,
+          "end": 105.51,
+          "confidence": 0.746
+        },
+        {
+          "text": "level",
+          "start": 105.51,
+          "end": 105.77,
+          "confidence": 0.79
+        },
+        {
+          "text": "[*]",
+          "start": 105.77,
+          "end": 106.99,
+          "confidence": 0
+        },
+        {
+          "text": "and",
+          "start": 107.65,
+          "end": 108.23,
+          "confidence": 0.229
+        },
+        {
+          "text": "I'm",
+          "start": 108.23,
+          "end": 108.45,
+          "confidence": 0.948
+        },
+        {
+          "text": "a",
+          "start": 108.45,
+          "end": 108.69,
+          "confidence": 0.935
+        },
+        {
+          "text": "medical",
+          "start": 108.69,
+          "end": 109.07,
+          "confidence": 0.722
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 6720,
+      "start": 109.07,
+      "end": 137.66,
+      "text": " physiologist. Yeah that's nice right? So Africa? Where in Africa? Where in Africa? Okay Johannesburg",
+      "tokens": [
+        50364,
+        21265,
+        9201,
+        13,
+        865,
+        300,
+        311,
+        1481,
+        558,
+        30,
+        407,
+        7349,
+        30,
+        2305,
+        294,
+        7349,
+        30,
+        2305,
+        294,
+        7349,
+        30,
+        1033,
+        48455,
+        8342,
+        51234
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4575509318598994,
+      "compression_ratio": 1.2048192771084338,
+      "no_speech_prob": 0.5373460054397583,
+      "confidence": 0.484,
+      "words": [
+        {
+          "text": "physiologist.",
+          "start": 109.07,
+          "end": 109.85,
+          "confidence": 0.135
+        },
+        {
+          "text": "[*]",
+          "start": 112.95,
+          "end": 113.64,
+          "confidence": 0
+        },
+        {
+          "text": "Yeah",
+          "start": 113.64,
+          "end": 113.8,
+          "confidence": 0.397
+        },
+        {
+          "text": "that's",
+          "start": 113.8,
+          "end": 114.3,
+          "confidence": 0.705
+        },
+        {
+          "text": "nice",
+          "start": 114.3,
+          "end": 114.54,
+          "confidence": 0.814
+        },
+        {
+          "text": "right?",
+          "start": 114.54,
+          "end": 114.82,
+          "confidence": 0.518
+        },
+        {
+          "text": "[*]",
+          "start": 114.82,
+          "end": 116.45,
+          "confidence": 0
+        },
+        {
+          "text": "So",
+          "start": 117.72,
+          "end": 118.28,
+          "confidence": 0.188
+        },
+        {
+          "text": "[*]",
+          "start": 126.3,
+          "end": 128.06,
+          "confidence": 0
+        },
+        {
+          "text": "Africa?",
+          "start": 128.06,
+          "end": 128.42,
+          "confidence": 0.595
+        },
+        {
+          "text": "[*]",
+          "start": 130.67,
+          "end": 131.83,
+          "confidence": 0
+        },
+        {
+          "text": "Where",
+          "start": 131.83,
+          "end": 132.15,
+          "confidence": 0.502
+        },
+        {
+          "text": "in",
+          "start": 132.15,
+          "end": 132.27,
+          "confidence": 0.893
+        },
+        {
+          "text": "[*]",
+          "start": 132.27,
+          "end": 132.41,
+          "confidence": 0
+        },
+        {
+          "text": "Africa?",
+          "start": 132.41,
+          "end": 132.59,
+          "confidence": 0.864
+        },
+        {
+          "text": "[*]",
+          "start": 133.93,
+          "end": 134.6,
+          "confidence": 0
+        },
+        {
+          "text": "Where",
+          "start": 135.32,
+          "end": 135.56,
+          "confidence": 0.592
+        },
+        {
+          "text": "in",
+          "start": 135.56,
+          "end": 135.72,
+          "confidence": 0.9
+        },
+        {
+          "text": "Africa?",
+          "start": 135.72,
+          "end": 136.02,
+          "confidence": 0.821
+        },
+        {
+          "text": "[*]",
+          "start": 136.66,
+          "end": 136.96,
+          "confidence": 0
+        },
+        {
+          "text": "Okay",
+          "start": 136.96,
+          "end": 137.18,
+          "confidence": 0.151
+        },
+        {
+          "text": "Johannesburg",
+          "start": 137.18,
+          "end": 137.66,
+          "confidence": 0.658
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 8460,
+      "start": 137.66,
+      "end": 142.96,
+      "text": " that's South Africa. Yes. Yes.",
+      "tokens": [
+        50364,
+        300,
+        311,
+        4242,
+        7349,
+        13,
+        1079,
+        13,
+        1079,
+        13,
+        50580
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5223526504804503,
+      "compression_ratio": 1.4765625,
+      "no_speech_prob": 0.18426018953323364,
+      "confidence": 0.419,
+      "words": [
+        {
+          "text": "that's",
+          "start": 137.66,
+          "end": 137.88,
+          "confidence": 0.201
+        },
+        {
+          "text": "South",
+          "start": 137.88,
+          "end": 138.04,
+          "confidence": 0.817
+        },
+        {
+          "text": "Africa.",
+          "start": 138.04,
+          "end": 138.34,
+          "confidence": 0.547
+        },
+        {
+          "text": "[*]",
+          "start": 138.34,
+          "end": 138.95,
+          "confidence": 0
+        },
+        {
+          "text": "Yes.",
+          "start": 142.04,
+          "end": 142.54,
+          "confidence": 0.372
+        },
+        {
+          "text": "Yes.",
+          "start": 142.7,
+          "end": 142.96,
+          "confidence": 0.54
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 8460,
+      "start": 170.6,
+      "end": 177.59,
+      "text": " South Africa is a good place to be. Yes it's a very good place to be actually.",
+      "tokens": [
+        51126,
+        4242,
+        7349,
+        307,
+        257,
+        665,
+        1081,
+        281,
+        312,
+        13,
+        1079,
+        309,
+        311,
+        257,
+        588,
+        665,
+        1081,
+        281,
+        312,
+        767,
+        13,
+        51384
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5223526504804503,
+      "compression_ratio": 1.4765625,
+      "no_speech_prob": 0.18426018953323364,
+      "confidence": 0.442,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 170.6,
+          "end": 171.2,
+          "confidence": 0
+        },
+        {
+          "text": "South",
+          "start": 171.2,
+          "end": 171.44,
+          "confidence": 0.001
+        },
+        {
+          "text": "Africa",
+          "start": 171.44,
+          "end": 171.62,
+          "confidence": 0.767
+        },
+        {
+          "text": "is",
+          "start": 171.62,
+          "end": 171.8,
+          "confidence": 0.65
+        },
+        {
+          "text": "a",
+          "start": 171.8,
+          "end": 171.9,
+          "confidence": 0.898
+        },
+        {
+          "text": "good",
+          "start": 171.9,
+          "end": 172.02,
+          "confidence": 0.643
+        },
+        {
+          "text": "place",
+          "start": 172.02,
+          "end": 172.22,
+          "confidence": 0.806
+        },
+        {
+          "text": "to",
+          "start": 172.22,
+          "end": 172.4,
+          "confidence": 0.868
+        },
+        {
+          "text": "be.",
+          "start": 172.4,
+          "end": 172.6,
+          "confidence": 0.634
+        },
+        {
+          "text": "[*]",
+          "start": 172.6,
+          "end": 173.15,
+          "confidence": 0
+        },
+        {
+          "text": "Yes",
+          "start": 175.43,
+          "end": 176.01,
+          "confidence": 0.058
+        },
+        {
+          "text": "it's",
+          "start": 176.01,
+          "end": 176.41,
+          "confidence": 0.298
+        },
+        {
+          "text": "a",
+          "start": 176.41,
+          "end": 176.53,
+          "confidence": 0.938
+        },
+        {
+          "text": "very",
+          "start": 176.53,
+          "end": 176.65,
+          "confidence": 0.698
+        },
+        {
+          "text": "good",
+          "start": 176.65,
+          "end": 176.81,
+          "confidence": 0.9
+        },
+        {
+          "text": "place",
+          "start": 176.81,
+          "end": 177.01,
+          "confidence": 0.814
+        },
+        {
+          "text": "to",
+          "start": 177.01,
+          "end": 177.13,
+          "confidence": 0.852
+        },
+        {
+          "text": "be",
+          "start": 177.13,
+          "end": 177.27,
+          "confidence": 0.865
+        },
+        {
+          "text": "actually.",
+          "start": 177.27,
+          "end": 177.59,
+          "confidence": 0.71
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 8460,
+      "start": 177.59,
+      "end": 183.43,
+      "text": " At least you see the people different from your race. Different people, blacks,",
+      "tokens": [
+        51384,
+        1711,
+        1935,
+        291,
+        536,
+        264,
+        561,
+        819,
+        490,
+        428,
+        4569,
+        13,
+        20825,
+        561,
+        11,
+        30720,
+        11,
+        51654
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5223526504804503,
+      "compression_ratio": 1.4765625,
+      "no_speech_prob": 0.18426018953323364,
+      "confidence": 0.487,
+      "words": [
+        {
+          "text": "At",
+          "start": 177.59,
+          "end": 178.23,
+          "confidence": 0.469
+        },
+        {
+          "text": "least",
+          "start": 178.23,
+          "end": 178.43,
+          "confidence": 0.797
+        },
+        {
+          "text": "you",
+          "start": 178.43,
+          "end": 178.57,
+          "confidence": 0.814
+        },
+        {
+          "text": "see",
+          "start": 178.57,
+          "end": 178.75,
+          "confidence": 0.36
+        },
+        {
+          "text": "the",
+          "start": 178.75,
+          "end": 178.93,
+          "confidence": 0.135
+        },
+        {
+          "text": "people",
+          "start": 178.93,
+          "end": 179.23,
+          "confidence": 0.882
+        },
+        {
+          "text": "different",
+          "start": 179.23,
+          "end": 179.53,
+          "confidence": 0.605
+        },
+        {
+          "text": "from",
+          "start": 179.53,
+          "end": 179.77,
+          "confidence": 0.828
+        },
+        {
+          "text": "your",
+          "start": 179.77,
+          "end": 180.15,
+          "confidence": 0.404
+        },
+        {
+          "text": "race.",
+          "start": 180.15,
+          "end": 180.59,
+          "confidence": 0.517
+        },
+        {
+          "text": "[*]",
+          "start": 180.95,
+          "end": 181.53,
+          "confidence": 0
+        },
+        {
+          "text": "Different",
+          "start": 181.53,
+          "end": 181.75,
+          "confidence": 0.171
+        },
+        {
+          "text": "people,",
+          "start": 181.75,
+          "end": 182.21,
+          "confidence": 0.688
+        },
+        {
+          "text": "blacks,",
+          "start": 182.79,
+          "end": 183.43,
+          "confidence": 0.421
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 11040,
+      "start": 183.43,
+      "end": 186.35,
+      "text": " the whites. Back there in South Africa.",
+      "tokens": [
+        50388,
+        264,
+        21909,
+        13,
+        5833,
+        456,
+        294,
+        4242,
+        7349,
+        13,
+        50536
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5051382576547018,
+      "compression_ratio": 1.1858407079646018,
+      "no_speech_prob": 0.1958436816930771,
+      "confidence": 0.316,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 183.43,
+          "end": 183.79,
+          "confidence": 0
+        },
+        {
+          "text": "the",
+          "start": 183.79,
+          "end": 183.97,
+          "confidence": 0.328
+        },
+        {
+          "text": "[*]",
+          "start": 183.97,
+          "end": 184.01,
+          "confidence": 0
+        },
+        {
+          "text": "whites.",
+          "start": 184.01,
+          "end": 184.65,
+          "confidence": 0.042
+        },
+        {
+          "text": "Back",
+          "start": 184.83,
+          "end": 185.65,
+          "confidence": 0.145
+        },
+        {
+          "text": "there",
+          "start": 185.65,
+          "end": 185.81,
+          "confidence": 0.824
+        },
+        {
+          "text": "in",
+          "start": 185.81,
+          "end": 185.89,
+          "confidence": 0.868
+        },
+        {
+          "text": "South",
+          "start": 185.89,
+          "end": 186.03,
+          "confidence": 0.846
+        },
+        {
+          "text": "Africa.",
+          "start": 186.03,
+          "end": 186.35,
+          "confidence": 0.776
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 11040,
+      "start": 199.74,
+      "end": 222.1,
+      "text": " Okay that's. What did you say? Where am I? Okay born. I was born in Africa as well. Nigeria to",
+      "tokens": [
+        50936,
+        1033,
+        300,
+        311,
+        13,
+        708,
+        630,
+        291,
+        584,
+        30,
+        2305,
+        669,
+        286,
+        30,
+        1033,
+        4232,
+        13,
+        286,
+        390,
+        4232,
+        294,
+        7349,
+        382,
+        731,
+        13,
+        28828,
+        281,
+        51624
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5051382576547018,
+      "compression_ratio": 1.1858407079646018,
+      "no_speech_prob": 0.1958436816930771,
+      "confidence": 0.527,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 199.74,
+          "end": 200.4,
+          "confidence": 0
+        },
+        {
+          "text": "Okay",
+          "start": 200.4,
+          "end": 200.82,
+          "confidence": 0.213
+        },
+        {
+          "text": "that's.",
+          "start": 200.82,
+          "end": 201.34,
+          "confidence": 0.302
+        },
+        {
+          "text": "[*]",
+          "start": 202.72,
+          "end": 204.1,
+          "confidence": 0
+        },
+        {
+          "text": "What",
+          "start": 204.49,
+          "end": 204.73,
+          "confidence": 0.589
+        },
+        {
+          "text": "did",
+          "start": 204.73,
+          "end": 204.83,
+          "confidence": 0.835
+        },
+        {
+          "text": "you",
+          "start": 204.83,
+          "end": 204.91,
+          "confidence": 0.099
+        },
+        {
+          "text": "say?",
+          "start": 204.91,
+          "end": 205.13,
+          "confidence": 0.872
+        },
+        {
+          "text": "[*]",
+          "start": 211.15,
+          "end": 212.34,
+          "confidence": 0
+        },
+        {
+          "text": "Where",
+          "start": 212.34,
+          "end": 212.78,
+          "confidence": 0.641
+        },
+        {
+          "text": "am",
+          "start": 212.78,
+          "end": 213.02,
+          "confidence": 0.864
+        },
+        {
+          "text": "I?",
+          "start": 213.02,
+          "end": 213.24,
+          "confidence": 0.889
+        },
+        {
+          "text": "[*]",
+          "start": 214.98,
+          "end": 216.0,
+          "confidence": 0
+        },
+        {
+          "text": "Okay",
+          "start": 217.96,
+          "end": 218.1,
+          "confidence": 0.554
+        },
+        {
+          "text": "born.",
+          "start": 218.1,
+          "end": 218.36,
+          "confidence": 0.253
+        },
+        {
+          "text": "I",
+          "start": 218.48,
+          "end": 218.56,
+          "confidence": 0.938
+        },
+        {
+          "text": "was",
+          "start": 218.56,
+          "end": 218.72,
+          "confidence": 0.881
+        },
+        {
+          "text": "born",
+          "start": 218.72,
+          "end": 218.94,
+          "confidence": 0.794
+        },
+        {
+          "text": "in",
+          "start": 218.94,
+          "end": 219.14,
+          "confidence": 0.891
+        },
+        {
+          "text": "[*]",
+          "start": 219.14,
+          "end": 219.2,
+          "confidence": 0
+        },
+        {
+          "text": "Africa",
+          "start": 219.2,
+          "end": 219.7,
+          "confidence": 0.76
+        },
+        {
+          "text": "as",
+          "start": 219.7,
+          "end": 219.94,
+          "confidence": 0.835
+        },
+        {
+          "text": "well.",
+          "start": 219.94,
+          "end": 220.14,
+          "confidence": 0.722
+        },
+        {
+          "text": "[*]",
+          "start": 221.5,
+          "end": 221.56,
+          "confidence": 0
+        },
+        {
+          "text": "Nigeria",
+          "start": 221.56,
+          "end": 221.9,
+          "confidence": 0.143
+        },
+        {
+          "text": "to",
+          "start": 221.9,
+          "end": 222.1,
+          "confidence": 0.618
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 13560,
+      "start": 222.1,
+      "end": 246.32,
+      "text": " be precise. In Nigeria. That was three years ago. Yes three years ago. I came to. Yeah? What did you",
+      "tokens": [
+        50366,
+        312,
+        13600,
+        13,
+        682,
+        28828,
+        13,
+        663,
+        390,
+        1045,
+        924,
+        2057,
+        13,
+        1079,
+        1045,
+        924,
+        2057,
+        13,
+        286,
+        1361,
+        281,
+        13,
+        865,
+        30,
+        708,
+        630,
+        291,
+        51274
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4102592468261719,
+      "compression_ratio": 1.206896551724138,
+      "no_speech_prob": 0.3316055238246918,
+      "confidence": 0.503,
+      "words": [
+        {
+          "text": "be",
+          "start": 222.1,
+          "end": 222.22,
+          "confidence": 0.299
+        },
+        {
+          "text": "[*]",
+          "start": 222.22,
+          "end": 222.54,
+          "confidence": 0
+        },
+        {
+          "text": "precise.",
+          "start": 222.54,
+          "end": 222.72,
+          "confidence": 0.378
+        },
+        {
+          "text": "[*]",
+          "start": 223.52,
+          "end": 224.3,
+          "confidence": 0
+        },
+        {
+          "text": "In",
+          "start": 224.3,
+          "end": 224.54,
+          "confidence": 0.722
+        },
+        {
+          "text": "[*]",
+          "start": 224.54,
+          "end": 224.8,
+          "confidence": 0
+        },
+        {
+          "text": "Nigeria.",
+          "start": 224.8,
+          "end": 225.0,
+          "confidence": 0.673
+        },
+        {
+          "text": "[*]",
+          "start": 229.89,
+          "end": 231.7,
+          "confidence": 0
+        },
+        {
+          "text": "That",
+          "start": 233.24,
+          "end": 233.46,
+          "confidence": 0.557
+        },
+        {
+          "text": "was",
+          "start": 233.46,
+          "end": 233.68,
+          "confidence": 0.896
+        },
+        {
+          "text": "[*]",
+          "start": 233.68,
+          "end": 234.2,
+          "confidence": 0
+        },
+        {
+          "text": "three",
+          "start": 234.2,
+          "end": 234.34,
+          "confidence": 0.63
+        },
+        {
+          "text": "years",
+          "start": 234.34,
+          "end": 234.56,
+          "confidence": 0.861
+        },
+        {
+          "text": "ago.",
+          "start": 234.56,
+          "end": 234.86,
+          "confidence": 0.754
+        },
+        {
+          "text": "[*]",
+          "start": 237.4,
+          "end": 238.0,
+          "confidence": 0
+        },
+        {
+          "text": "Yes",
+          "start": 238.0,
+          "end": 238.1,
+          "confidence": 0.401
+        },
+        {
+          "text": "three",
+          "start": 238.1,
+          "end": 238.3,
+          "confidence": 0.191
+        },
+        {
+          "text": "years",
+          "start": 238.3,
+          "end": 238.5,
+          "confidence": 0.869
+        },
+        {
+          "text": "ago.",
+          "start": 238.5,
+          "end": 238.86,
+          "confidence": 0.774
+        },
+        {
+          "text": "[*]",
+          "start": 238.86,
+          "end": 239.94,
+          "confidence": 0
+        },
+        {
+          "text": "I",
+          "start": 239.94,
+          "end": 240.46,
+          "confidence": 0.651
+        },
+        {
+          "text": "[*]",
+          "start": 240.46,
+          "end": 240.96,
+          "confidence": 0
+        },
+        {
+          "text": "came",
+          "start": 240.96,
+          "end": 241.22,
+          "confidence": 0.649
+        },
+        {
+          "text": "to.",
+          "start": 241.22,
+          "end": 241.56,
+          "confidence": 0.352
+        },
+        {
+          "text": "[*]",
+          "start": 241.56,
+          "end": 243.1,
+          "confidence": 0
+        },
+        {
+          "text": "Yeah?",
+          "start": 243.1,
+          "end": 243.44,
+          "confidence": 0.426
+        },
+        {
+          "text": "[*]",
+          "start": 245.5,
+          "end": 245.86,
+          "confidence": 0
+        },
+        {
+          "text": "What",
+          "start": 245.86,
+          "end": 246.08,
+          "confidence": 0.07
+        },
+        {
+          "text": "did",
+          "start": 246.08,
+          "end": 246.24,
+          "confidence": 0.778
+        },
+        {
+          "text": "you",
+          "start": 246.24,
+          "end": 246.32,
+          "confidence": 0.398
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 13560,
+      "start": 246.32,
+      "end": 246.5,
+      "text": " say?",
+      "tokens": [
+        51274,
+        584,
+        30,
+        51280
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4102592468261719,
+      "compression_ratio": 1.206896551724138,
+      "no_speech_prob": 0.3316055238246918,
+      "confidence": 0.025,
+      "words": [
+        {
+          "text": "say?",
+          "start": 246.32,
+          "end": 246.5,
+          "confidence": 0.025
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

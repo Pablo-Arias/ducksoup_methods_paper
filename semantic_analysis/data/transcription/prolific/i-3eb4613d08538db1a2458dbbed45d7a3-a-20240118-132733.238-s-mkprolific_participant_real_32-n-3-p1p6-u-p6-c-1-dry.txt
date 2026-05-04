@@ -1,0 +1,2341 @@
+{
+  "text": " Hello. All right. You're right. My name is Michelle. England. Are you in England? I've never heard of that before. I'm in Hull. Really? Yes, I'm in Hull. I think after I would go and look it up, because I don't know, I've never heard of the name before. Really? Oh, wow. That's interesting. I did not know. You know, I say I'll speak for myself. We don't really know our side, Manchester, Birmingham, London. I've never heard of that before. Oh, so like the countryside in the Midlands must be interesting. Is it as cold? Well, I hate the cold actually. I hate the cold actually. I'm about to put my ears on and I'm inside. I'm very cold. I don't like the cold. I can imagine. Actually, I would have thought that it would be bubbly. It's not as bubbly as it is in London. Before I can understand you clearly, I need to Google your place. I've learnt something to this. I need to Google it. I think I might visit. Wow, interesting. So what do you do? I'm a student actually. Wow. So is it like you're restricted? Are you in healthcare? What kind of job are you in? What has it been like for you? I've been hoping to have a kid soon but hearing that you've been a mom since 17. Wow. Interesting. It's just one you have.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 0.14,
+      "text": " Hello.",
+      "tokens": [
+        50364,
+        2425,
+        13,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28329629813675333,
+      "compression_ratio": 1.5343915343915344,
+      "no_speech_prob": 0.36363959312438965,
+      "confidence": 0.005,
+      "words": [
+        {
+          "text": "Hello.",
+          "start": 0.0,
+          "end": 0.14,
+          "confidence": 0.005
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 0.5,
+      "end": 1.15,
+      "text": " All right.",
+      "tokens": [
+        50414,
+        1057,
+        558,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28329629813675333,
+      "compression_ratio": 1.5343915343915344,
+      "no_speech_prob": 0.36363959312438965,
+      "confidence": 0.034,
+      "words": [
+        {
+          "text": "All",
+          "start": 0.5,
+          "end": 0.84,
+          "confidence": 0.0
+        },
+        {
+          "text": "right.",
+          "start": 0.84,
+          "end": 1.15,
+          "confidence": 0.538
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.95,
+      "end": 5.51,
+      "text": " You're right.",
+      "tokens": [
+        50464,
+        509,
+        434,
+        558,
+        13,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28329629813675333,
+      "compression_ratio": 1.5343915343915344,
+      "no_speech_prob": 0.36363959312438965,
+      "confidence": 0.026,
+      "words": [
+        {
+          "text": "You're",
+          "start": 4.95,
+          "end": 5.13,
+          "confidence": 0.024
+        },
+        {
+          "text": "right.",
+          "start": 5.13,
+          "end": 5.51,
+          "confidence": 0.027
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 10.85,
+      "end": 14.38,
+      "text": " My name is Michelle.",
+      "tokens": [
+        50514,
+        1222,
+        1315,
+        307,
+        14933,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28329629813675333,
+      "compression_ratio": 1.5343915343915344,
+      "no_speech_prob": 0.36363959312438965,
+      "confidence": 0.032,
+      "words": [
+        {
+          "text": "My",
+          "start": 10.85,
+          "end": 11.52,
+          "confidence": 0.0
+        },
+        {
+          "text": "name",
+          "start": 11.52,
+          "end": 11.68,
+          "confidence": 0.11
+        },
+        {
+          "text": "is",
+          "start": 11.68,
+          "end": 12.25,
+          "confidence": 0.679
+        },
+        {
+          "text": "Michelle.",
+          "start": 14.18,
+          "end": 14.38,
+          "confidence": 0.046
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 14.38,
+      "end": 14.66,
+      "text": " England.",
+      "tokens": [
+        50564,
+        8196,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28329629813675333,
+      "compression_ratio": 1.5343915343915344,
+      "no_speech_prob": 0.36363959312438965,
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "England.",
+          "start": 14.38,
+          "end": 14.66,
+          "confidence": 0.0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 21.95,
+      "end": 22.09,
+      "text": " Are you in England?",
+      "tokens": [
+        50614,
+        2014,
+        291,
+        294,
+        8196,
+        30,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28329629813675333,
+      "compression_ratio": 1.5343915343915344,
+      "no_speech_prob": 0.36363959312438965,
+      "confidence": 0.006,
+      "words": [
+        {
+          "text": "Are",
+          "start": 21.95,
+          "end": 21.97,
+          "confidence": 0.005
+        },
+        {
+          "text": "you",
+          "start": 21.97,
+          "end": 21.99,
+          "confidence": 0.902
+        },
+        {
+          "text": "in",
+          "start": 21.99,
+          "end": 22.01,
+          "confidence": 0.0
+        },
+        {
+          "text": "England?",
+          "start": 22.01,
+          "end": 22.09,
+          "confidence": 0.002
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 28.33,
+      "end": 28.45,
+      "text": " I've never heard of that before.",
+      "tokens": [
+        50664,
+        286,
+        600,
+        1128,
+        2198,
+        295,
+        300,
+        949,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28329629813675333,
+      "compression_ratio": 1.5343915343915344,
+      "no_speech_prob": 0.36363959312438965,
+      "confidence": 0.047,
+      "words": [
+        {
+          "text": "I've",
+          "start": 28.33,
+          "end": 28.35,
+          "confidence": 0.005
+        },
+        {
+          "text": "never",
+          "start": 28.35,
+          "end": 28.37,
+          "confidence": 0.035
+        },
+        {
+          "text": "heard",
+          "start": 28.37,
+          "end": 28.39,
+          "confidence": 0.084
+        },
+        {
+          "text": "of",
+          "start": 28.39,
+          "end": 28.41,
+          "confidence": 0.315
+        },
+        {
+          "text": "that",
+          "start": 28.41,
+          "end": 28.43,
+          "confidence": 0.014
+        },
+        {
+          "text": "before.",
+          "start": 28.43,
+          "end": 28.45,
+          "confidence": 0.267
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 28.45,
+      "end": 28.65,
+      "text": " I'm in Hull.",
+      "tokens": [
+        50714,
+        286,
+        478,
+        294,
+        389,
+        858,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28329629813675333,
+      "compression_ratio": 1.5343915343915344,
+      "no_speech_prob": 0.36363959312438965,
+      "confidence": 0.007,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 28.45,
+          "end": 28.49,
+          "confidence": 0.051
+        },
+        {
+          "text": "in",
+          "start": 28.49,
+          "end": 28.61,
+          "confidence": 0.009
+        },
+        {
+          "text": "Hull.",
+          "start": 28.61,
+          "end": 28.65,
+          "confidence": 0.002
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 31.73,
+      "end": 31.75,
+      "text": " Really?",
+      "tokens": [
+        50764,
+        4083,
+        30,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28329629813675333,
+      "compression_ratio": 1.5343915343915344,
+      "no_speech_prob": 0.36363959312438965,
+      "confidence": 0.004,
+      "words": [
+        {
+          "text": "Really?",
+          "start": 31.73,
+          "end": 31.75,
+          "confidence": 0.004
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 31.75,
+      "end": 32.73,
+      "text": " Yes, I'm in Hull.",
+      "tokens": [
+        50814,
+        1079,
+        11,
+        286,
+        478,
+        294,
+        389,
+        858,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28329629813675333,
+      "compression_ratio": 1.5343915343915344,
+      "no_speech_prob": 0.36363959312438965,
+      "confidence": 0.026,
+      "words": [
+        {
+          "text": "Yes,",
+          "start": 31.75,
+          "end": 31.77,
+          "confidence": 0.007
+        },
+        {
+          "text": "I'm",
+          "start": 31.77,
+          "end": 31.97,
+          "confidence": 0.111
+        },
+        {
+          "text": "in",
+          "start": 31.97,
+          "end": 31.99,
+          "confidence": 0.036
+        },
+        {
+          "text": "Hull.",
+          "start": 31.99,
+          "end": 32.73,
+          "confidence": 0.021
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 52.73,
+      "end": 56.65,
+      "text": " I think after I would go and look it up, because I don't know, I've never heard of the name",
+      "tokens": [
+        50864,
+        286,
+        519,
+        934,
+        286,
+        576,
+        352,
+        293,
+        574,
+        309,
+        493,
+        11,
+        570,
+        286,
+        500,
+        380,
+        458,
+        11,
+        286,
+        600,
+        1128,
+        2198,
+        295,
+        264,
+        1315,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28329629813675333,
+      "compression_ratio": 1.5343915343915344,
+      "no_speech_prob": 0.36363959312438965,
+      "confidence": 0.268,
+      "words": [
+        {
+          "text": "I",
+          "start": 52.73,
+          "end": 52.75,
+          "confidence": 0.385
+        },
+        {
+          "text": "think",
+          "start": 52.75,
+          "end": 52.91,
+          "confidence": 0.061
+        },
+        {
+          "text": "after",
+          "start": 52.91,
+          "end": 53.45,
+          "confidence": 0.444
+        },
+        {
+          "text": "[*]",
+          "start": 53.45,
+          "end": 53.81,
+          "confidence": 0
+        },
+        {
+          "text": "I",
+          "start": 53.81,
+          "end": 53.95,
+          "confidence": 0.697
+        },
+        {
+          "text": "would",
+          "start": 53.95,
+          "end": 54.21,
+          "confidence": 0.52
+        },
+        {
+          "text": "go",
+          "start": 54.21,
+          "end": 54.45,
+          "confidence": 0.838
+        },
+        {
+          "text": "and",
+          "start": 54.45,
+          "end": 54.65,
+          "confidence": 0.768
+        },
+        {
+          "text": "look",
+          "start": 54.65,
+          "end": 54.85,
+          "confidence": 0.904
+        },
+        {
+          "text": "it",
+          "start": 54.85,
+          "end": 55.01,
+          "confidence": 0.85
+        },
+        {
+          "text": "[*]",
+          "start": 55.01,
+          "end": 55.47,
+          "confidence": 0
+        },
+        {
+          "text": "up,",
+          "start": 55.47,
+          "end": 55.59,
+          "confidence": 0.48
+        },
+        {
+          "text": "because",
+          "start": 55.87,
+          "end": 55.99,
+          "confidence": 0.439
+        },
+        {
+          "text": "I",
+          "start": 55.99,
+          "end": 56.13,
+          "confidence": 0.934
+        },
+        {
+          "text": "don't",
+          "start": 56.13,
+          "end": 56.31,
+          "confidence": 0.927
+        },
+        {
+          "text": "know,",
+          "start": 56.31,
+          "end": 56.45,
+          "confidence": 0.094
+        },
+        {
+          "text": "I've",
+          "start": 56.53,
+          "end": 56.55,
+          "confidence": 0.025
+        },
+        {
+          "text": "never",
+          "start": 56.55,
+          "end": 56.57,
+          "confidence": 0.383
+        },
+        {
+          "text": "heard",
+          "start": 56.57,
+          "end": 56.59,
+          "confidence": 0.542
+        },
+        {
+          "text": "of",
+          "start": 56.59,
+          "end": 56.61,
+          "confidence": 0.771
+        },
+        {
+          "text": "the",
+          "start": 56.61,
+          "end": 56.63,
+          "confidence": 0.016
+        },
+        {
+          "text": "name",
+          "start": 56.63,
+          "end": 56.65,
+          "confidence": 0.008
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 56.65,
+      "end": 56.69,
+      "text": " before.",
+      "tokens": [
+        51414,
+        949,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28329629813675333,
+      "compression_ratio": 1.5343915343915344,
+      "no_speech_prob": 0.36363959312438965,
+      "confidence": 0.002,
+      "words": [
+        {
+          "text": "before.",
+          "start": 56.65,
+          "end": 56.69,
+          "confidence": 0.002
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 0,
+      "start": 58.53,
+      "end": 58.55,
+      "text": " Really?",
+      "tokens": [
+        51464,
+        4083,
+        30,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28329629813675333,
+      "compression_ratio": 1.5343915343915344,
+      "no_speech_prob": 0.36363959312438965,
+      "confidence": 0.003,
+      "words": [
+        {
+          "text": "Really?",
+          "start": 58.53,
+          "end": 58.55,
+          "confidence": 0.003
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 0,
+      "start": 61.32,
+      "end": 61.6,
+      "text": " Oh, wow.",
+      "tokens": [
+        51514,
+        876,
+        11,
+        6076,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28329629813675333,
+      "compression_ratio": 1.5343915343915344,
+      "no_speech_prob": 0.36363959312438965,
+      "confidence": 0.031,
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 61.32,
+          "end": 61.58,
+          "confidence": 0.016
+        },
+        {
+          "text": "wow.",
+          "start": 61.58,
+          "end": 61.6,
+          "confidence": 0.059
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 0,
+      "start": 66.73,
+      "end": 66.85,
+      "text": " That's interesting.",
+      "tokens": [
+        51564,
+        663,
+        311,
+        1880,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28329629813675333,
+      "compression_ratio": 1.5343915343915344,
+      "no_speech_prob": 0.36363959312438965,
+      "confidence": 0.017,
+      "words": [
+        {
+          "text": "That's",
+          "start": 66.73,
+          "end": 66.83,
+          "confidence": 0.024
+        },
+        {
+          "text": "interesting.",
+          "start": 66.83,
+          "end": 66.85,
+          "confidence": 0.012
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2500,
+      "start": 70.43,
+      "end": 70.51,
+      "text": " I did not know.",
+      "tokens": [
+        50414,
+        286,
+        630,
+        406,
+        458,
+        13,
+        50464
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.5271431336919945,
+      "compression_ratio": 1.4010695187165776,
+      "no_speech_prob": 0.26331600546836853,
+      "confidence": 0.031,
+      "words": [
+        {
+          "text": "I",
+          "start": 70.43,
+          "end": 70.45,
+          "confidence": 0.001
+        },
+        {
+          "text": "did",
+          "start": 70.45,
+          "end": 70.47,
+          "confidence": 0.007
+        },
+        {
+          "text": "not",
+          "start": 70.47,
+          "end": 70.49,
+          "confidence": 0.201
+        },
+        {
+          "text": "know.",
+          "start": 70.49,
+          "end": 70.51,
+          "confidence": 0.175
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 2500,
+      "start": 70.51,
+      "end": 71.43,
+      "text": " You know, I say I'll speak for myself.",
+      "tokens": [
+        50464,
+        509,
+        458,
+        11,
+        286,
+        584,
+        286,
+        603,
+        1710,
+        337,
+        2059,
+        13,
+        50514
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.5271431336919945,
+      "compression_ratio": 1.4010695187165776,
+      "no_speech_prob": 0.26331600546836853,
+      "confidence": 0.032,
+      "words": [
+        {
+          "text": "You",
+          "start": 70.51,
+          "end": 70.53,
+          "confidence": 0.0
+        },
+        {
+          "text": "know,",
+          "start": 70.53,
+          "end": 70.55,
+          "confidence": 0.441
+        },
+        {
+          "text": "I",
+          "start": 70.55,
+          "end": 70.59,
+          "confidence": 0.006
+        },
+        {
+          "text": "say",
+          "start": 70.59,
+          "end": 70.67,
+          "confidence": 0.005
+        },
+        {
+          "text": "I'll",
+          "start": 70.67,
+          "end": 70.91,
+          "confidence": 0.024
+        },
+        {
+          "text": "speak",
+          "start": 70.91,
+          "end": 71.03,
+          "confidence": 0.003
+        },
+        {
+          "text": "[*]",
+          "start": 71.03,
+          "end": 71.25,
+          "confidence": 0
+        },
+        {
+          "text": "for",
+          "start": 71.25,
+          "end": 71.39,
+          "confidence": 0.103
+        },
+        {
+          "text": "myself.",
+          "start": 71.39,
+          "end": 71.43,
+          "confidence": 0.294
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 2500,
+      "start": 71.43,
+      "end": 72.19,
+      "text": " We don't really know our side, Manchester, Birmingham, London.",
+      "tokens": [
+        50514,
+        492,
+        500,
+        380,
+        534,
+        458,
+        527,
+        1252,
+        11,
+        27180,
+        11,
+        34673,
+        11,
+        7042,
+        13,
+        50564
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.5271431336919945,
+      "compression_ratio": 1.4010695187165776,
+      "no_speech_prob": 0.26331600546836853,
+      "confidence": 0.007,
+      "words": [
+        {
+          "text": "We",
+          "start": 71.43,
+          "end": 71.47,
+          "confidence": 0.006
+        },
+        {
+          "text": "don't",
+          "start": 71.47,
+          "end": 71.61,
+          "confidence": 0.054
+        },
+        {
+          "text": "really",
+          "start": 71.61,
+          "end": 71.67,
+          "confidence": 0.017
+        },
+        {
+          "text": "know",
+          "start": 71.67,
+          "end": 71.89,
+          "confidence": 0.162
+        },
+        {
+          "text": "our",
+          "start": 71.89,
+          "end": 71.99,
+          "confidence": 0.0
+        },
+        {
+          "text": "side,",
+          "start": 71.99,
+          "end": 72.13,
+          "confidence": 0.005
+        },
+        {
+          "text": "Manchester,",
+          "start": 72.13,
+          "end": 72.15,
+          "confidence": 0.0
+        },
+        {
+          "text": "Birmingham,",
+          "start": 72.15,
+          "end": 72.17,
+          "confidence": 0.003
+        },
+        {
+          "text": "London.",
+          "start": 72.17,
+          "end": 72.19,
+          "confidence": 0.074
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 2500,
+      "start": 72.19,
+      "end": 73.45,
+      "text": " I've never heard of that before.",
+      "tokens": [
+        50564,
+        286,
+        600,
+        1128,
+        2198,
+        295,
+        300,
+        949,
+        13,
+        50614
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.5271431336919945,
+      "compression_ratio": 1.4010695187165776,
+      "no_speech_prob": 0.26331600546836853,
+      "confidence": 0.051,
+      "words": [
+        {
+          "text": "I've",
+          "start": 72.19,
+          "end": 72.75,
+          "confidence": 0.003
+        },
+        {
+          "text": "never",
+          "start": 72.75,
+          "end": 72.85,
+          "confidence": 0.009
+        },
+        {
+          "text": "heard",
+          "start": 72.85,
+          "end": 73.11,
+          "confidence": 0.231
+        },
+        {
+          "text": "of",
+          "start": 73.11,
+          "end": 73.13,
+          "confidence": 0.655
+        },
+        {
+          "text": "that",
+          "start": 73.13,
+          "end": 73.43,
+          "confidence": 0.134
+        },
+        {
+          "text": "before.",
+          "start": 73.43,
+          "end": 73.45,
+          "confidence": 0.142
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 2500,
+      "start": 78.35,
+      "end": 89.87,
+      "text": " Oh, so like the countryside in the Midlands must be interesting.",
+      "tokens": [
+        50614,
+        876,
+        11,
+        370,
+        411,
+        220,
+        3322,
+        28252,
+        294,
+        264,
+        7033,
+        10230,
+        1633,
+        312,
+        1880,
+        13,
+        51064
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.5271431336919945,
+      "compression_ratio": 1.4010695187165776,
+      "no_speech_prob": 0.26331600546836853,
+      "confidence": 0.011,
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 78.35,
+          "end": 78.98,
+          "confidence": 0.037
+        },
+        {
+          "text": "so",
+          "start": 82.35,
+          "end": 82.49,
+          "confidence": 0.003
+        },
+        {
+          "text": "like",
+          "start": 82.49,
+          "end": 82.95,
+          "confidence": 0.006
+        },
+        {
+          "text": "the",
+          "start": 82.95,
+          "end": 85.09,
+          "confidence": 0.025
+        },
+        {
+          "text": "countryside",
+          "start": 85.09,
+          "end": 86.01,
+          "confidence": 0.0
+        },
+        {
+          "text": "in",
+          "start": 86.01,
+          "end": 86.31,
+          "confidence": 0.019
+        },
+        {
+          "text": "[*]",
+          "start": 86.31,
+          "end": 87.49,
+          "confidence": 0
+        },
+        {
+          "text": "the",
+          "start": 87.49,
+          "end": 87.97,
+          "confidence": 0.147
+        },
+        {
+          "text": "Midlands",
+          "start": 87.97,
+          "end": 89.65,
+          "confidence": 0.012
+        },
+        {
+          "text": "must",
+          "start": 89.65,
+          "end": 89.83,
+          "confidence": 0.0
+        },
+        {
+          "text": "be",
+          "start": 89.83,
+          "end": 89.85,
+          "confidence": 0.649
+        },
+        {
+          "text": "interesting.",
+          "start": 89.85,
+          "end": 89.87,
+          "confidence": 0.029
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 2500,
+      "start": 106.48,
+      "end": 106.56,
+      "text": " Is it as cold?",
+      "tokens": [
+        51064,
+        1119,
+        309,
+        382,
+        3554,
+        30,
+        51264
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.5271431336919945,
+      "compression_ratio": 1.4010695187165776,
+      "no_speech_prob": 0.26331600546836853,
+      "confidence": 0.004,
+      "words": [
+        {
+          "text": "Is",
+          "start": 106.48,
+          "end": 106.5,
+          "confidence": 0.0
+        },
+        {
+          "text": "it",
+          "start": 106.5,
+          "end": 106.52,
+          "confidence": 0.142
+        },
+        {
+          "text": "as",
+          "start": 106.52,
+          "end": 106.54,
+          "confidence": 0.001
+        },
+        {
+          "text": "cold?",
+          "start": 106.54,
+          "end": 106.56,
+          "confidence": 0.012
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 2500,
+      "start": 118.3,
+      "end": 118.42,
+      "text": " Well, I hate the cold actually.",
+      "tokens": [
+        51264,
+        1042,
+        11,
+        286,
+        2385,
+        68,
+        264,
+        3554,
+        767,
+        13,
+        51564
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.5271431336919945,
+      "compression_ratio": 1.4010695187165776,
+      "no_speech_prob": 0.26331600546836853,
+      "confidence": 0.015,
+      "words": [
+        {
+          "text": "Well,",
+          "start": 118.3,
+          "end": 118.32,
+          "confidence": 0.005
+        },
+        {
+          "text": "I",
+          "start": 118.32,
+          "end": 118.34,
+          "confidence": 0.06
+        },
+        {
+          "text": "hate",
+          "start": 118.34,
+          "end": 118.36,
+          "confidence": 0.008
+        },
+        {
+          "text": "the",
+          "start": 118.36,
+          "end": 118.38,
+          "confidence": 0.077
+        },
+        {
+          "text": "cold",
+          "start": 118.38,
+          "end": 118.4,
+          "confidence": 0.031
+        },
+        {
+          "text": "actually.",
+          "start": 118.4,
+          "end": 118.42,
+          "confidence": 0.014
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 4900,
+      "start": 123.1,
+      "end": 137.35,
+      "text": " I hate the cold actually. I'm about to put my ears on and I'm inside. I'm very cold. I don't like the cold. I can imagine.",
+      "tokens": [
+        50364,
+        286,
+        4700,
+        264,
+        3554,
+        767,
+        13,
+        286,
+        478,
+        466,
+        281,
+        829,
+        452,
+        8798,
+        322,
+        293,
+        286,
+        478,
+        1854,
+        13,
+        286,
+        478,
+        588,
+        3554,
+        13,
+        286,
+        500,
+        380,
+        411,
+        264,
+        3554,
+        13,
+        286,
+        393,
+        3811,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5015050136681759,
+      "compression_ratio": 1.4863013698630136,
+      "no_speech_prob": 0.2503688633441925,
+      "confidence": 0.595,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 123.1,
+          "end": 124.2,
+          "confidence": 0
+        },
+        {
+          "text": "I",
+          "start": 124.8,
+          "end": 125.44,
+          "confidence": 0.107
+        },
+        {
+          "text": "[*]",
+          "start": 125.44,
+          "end": 126.86,
+          "confidence": 0
+        },
+        {
+          "text": "hate",
+          "start": 126.86,
+          "end": 127.1,
+          "confidence": 0.411
+        },
+        {
+          "text": "the",
+          "start": 127.1,
+          "end": 127.32,
+          "confidence": 0.761
+        },
+        {
+          "text": "cold",
+          "start": 127.32,
+          "end": 127.56,
+          "confidence": 0.837
+        },
+        {
+          "text": "actually.",
+          "start": 127.56,
+          "end": 127.9,
+          "confidence": 0.469
+        },
+        {
+          "text": "I'm",
+          "start": 129.63,
+          "end": 129.75,
+          "confidence": 0.453
+        },
+        {
+          "text": "about",
+          "start": 129.75,
+          "end": 129.85,
+          "confidence": 0.755
+        },
+        {
+          "text": "to",
+          "start": 129.85,
+          "end": 129.99,
+          "confidence": 0.893
+        },
+        {
+          "text": "put",
+          "start": 129.99,
+          "end": 130.15,
+          "confidence": 0.748
+        },
+        {
+          "text": "my",
+          "start": 130.15,
+          "end": 130.33,
+          "confidence": 0.128
+        },
+        {
+          "text": "ears",
+          "start": 130.33,
+          "end": 130.57,
+          "confidence": 0.561
+        },
+        {
+          "text": "on",
+          "start": 130.57,
+          "end": 130.93,
+          "confidence": 0.866
+        },
+        {
+          "text": "and",
+          "start": 130.93,
+          "end": 131.15,
+          "confidence": 0.754
+        },
+        {
+          "text": "I'm",
+          "start": 131.15,
+          "end": 131.35,
+          "confidence": 0.928
+        },
+        {
+          "text": "inside.",
+          "start": 131.35,
+          "end": 131.99,
+          "confidence": 0.556
+        },
+        {
+          "text": "[*]",
+          "start": 131.99,
+          "end": 132.79,
+          "confidence": 0
+        },
+        {
+          "text": "I'm",
+          "start": 132.79,
+          "end": 133.33,
+          "confidence": 0.575
+        },
+        {
+          "text": "very",
+          "start": 133.33,
+          "end": 133.59,
+          "confidence": 0.425
+        },
+        {
+          "text": "cold.",
+          "start": 133.59,
+          "end": 134.09,
+          "confidence": 0.789
+        },
+        {
+          "text": "I",
+          "start": 134.99,
+          "end": 135.33,
+          "confidence": 0.436
+        },
+        {
+          "text": "don't",
+          "start": 135.33,
+          "end": 135.57,
+          "confidence": 0.836
+        },
+        {
+          "text": "like",
+          "start": 135.57,
+          "end": 135.75,
+          "confidence": 0.876
+        },
+        {
+          "text": "the",
+          "start": 135.75,
+          "end": 135.93,
+          "confidence": 0.794
+        },
+        {
+          "text": "cold.",
+          "start": 135.93,
+          "end": 136.27,
+          "confidence": 0.759
+        },
+        {
+          "text": "I",
+          "start": 136.57,
+          "end": 136.69,
+          "confidence": 0.604
+        },
+        {
+          "text": "can",
+          "start": 136.69,
+          "end": 136.87,
+          "confidence": 0.84
+        },
+        {
+          "text": "imagine.",
+          "start": 136.87,
+          "end": 137.35,
+          "confidence": 0.542
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 4900,
+      "start": 137.65,
+      "end": 142.81,
+      "text": " Actually, I would have thought that it would be bubbly. It's not as bubbly as it is in London.",
+      "tokens": [
+        51064,
+        5135,
+        11,
+        286,
+        576,
+        362,
+        1194,
+        300,
+        309,
+        576,
+        312,
+        13045,
+        356,
+        13,
+        467,
+        311,
+        406,
+        382,
+        13045,
+        356,
+        382,
+        309,
+        307,
+        294,
+        7042,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5015050136681759,
+      "compression_ratio": 1.4863013698630136,
+      "no_speech_prob": 0.2503688633441925,
+      "confidence": 0.643,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 137.65,
+          "end": 138.13,
+          "confidence": 0
+        },
+        {
+          "text": "Actually,",
+          "start": 138.13,
+          "end": 138.39,
+          "confidence": 0.456
+        },
+        {
+          "text": "[*]",
+          "start": 138.67,
+          "end": 139.11,
+          "confidence": 0
+        },
+        {
+          "text": "I",
+          "start": 139.11,
+          "end": 139.25,
+          "confidence": 0.989
+        },
+        {
+          "text": "would",
+          "start": 139.25,
+          "end": 139.41,
+          "confidence": 0.861
+        },
+        {
+          "text": "have",
+          "start": 139.41,
+          "end": 139.61,
+          "confidence": 0.827
+        },
+        {
+          "text": "thought",
+          "start": 139.61,
+          "end": 139.95,
+          "confidence": 0.81
+        },
+        {
+          "text": "that",
+          "start": 139.95,
+          "end": 140.27,
+          "confidence": 0.787
+        },
+        {
+          "text": "it",
+          "start": 140.27,
+          "end": 140.55,
+          "confidence": 0.4
+        },
+        {
+          "text": "would",
+          "start": 140.55,
+          "end": 140.67,
+          "confidence": 0.757
+        },
+        {
+          "text": "be",
+          "start": 140.67,
+          "end": 140.83,
+          "confidence": 0.867
+        },
+        {
+          "text": "bubbly.",
+          "start": 140.83,
+          "end": 141.13,
+          "confidence": 0.561
+        },
+        {
+          "text": "It's",
+          "start": 141.13,
+          "end": 141.29,
+          "confidence": 0.251
+        },
+        {
+          "text": "not",
+          "start": 141.29,
+          "end": 141.35,
+          "confidence": 0.246
+        },
+        {
+          "text": "as",
+          "start": 141.35,
+          "end": 141.49,
+          "confidence": 0.856
+        },
+        {
+          "text": "bubbly",
+          "start": 141.49,
+          "end": 141.79,
+          "confidence": 0.904
+        },
+        {
+          "text": "as",
+          "start": 141.79,
+          "end": 141.95,
+          "confidence": 0.873
+        },
+        {
+          "text": "it",
+          "start": 141.95,
+          "end": 142.13,
+          "confidence": 0.802
+        },
+        {
+          "text": "is",
+          "start": 142.13,
+          "end": 142.29,
+          "confidence": 0.89
+        },
+        {
+          "text": "in",
+          "start": 142.29,
+          "end": 142.47,
+          "confidence": 0.884
+        },
+        {
+          "text": "London.",
+          "start": 142.47,
+          "end": 142.81,
+          "confidence": 0.787
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 7100,
+      "start": 159.8,
+      "end": 187.84,
+      "text": " Before I can understand you clearly, I need to Google your place. I've learnt something to this. I need to Google it. I think I might visit.",
+      "tokens": [
+        50364,
+        4546,
+        286,
+        393,
+        1223,
+        291,
+        4448,
+        11,
+        286,
+        643,
+        281,
+        3329,
+        428,
+        1081,
+        13,
+        286,
+        600,
+        18991,
+        746,
+        281,
+        341,
+        13,
+        286,
+        643,
+        281,
+        3329,
+        309,
+        13,
+        286,
+        519,
+        286,
+        1062,
+        3441,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3211519290239383,
+      "compression_ratio": 1.515625,
+      "no_speech_prob": 0.3143288493156433,
+      "confidence": 0.575,
+      "words": [
+        {
+          "text": "Before",
+          "start": 159.8,
+          "end": 160.4,
+          "confidence": 0.011
+        },
+        {
+          "text": "I",
+          "start": 161.55,
+          "end": 161.71,
+          "confidence": 0.952
+        },
+        {
+          "text": "can",
+          "start": 161.71,
+          "end": 161.83,
+          "confidence": 0.88
+        },
+        {
+          "text": "understand",
+          "start": 161.83,
+          "end": 162.31,
+          "confidence": 0.761
+        },
+        {
+          "text": "you",
+          "start": 162.31,
+          "end": 162.55,
+          "confidence": 0.897
+        },
+        {
+          "text": "clearly,",
+          "start": 162.55,
+          "end": 162.95,
+          "confidence": 0.386
+        },
+        {
+          "text": "[*]",
+          "start": 178.96,
+          "end": 181.58,
+          "confidence": 0
+        },
+        {
+          "text": "I",
+          "start": 181.58,
+          "end": 182.56,
+          "confidence": 0.633
+        },
+        {
+          "text": "need",
+          "start": 182.56,
+          "end": 182.74,
+          "confidence": 0.778
+        },
+        {
+          "text": "to",
+          "start": 182.74,
+          "end": 182.92,
+          "confidence": 0.893
+        },
+        {
+          "text": "Google",
+          "start": 182.92,
+          "end": 183.18,
+          "confidence": 0.454
+        },
+        {
+          "text": "your",
+          "start": 183.18,
+          "end": 183.48,
+          "confidence": 0.809
+        },
+        {
+          "text": "place.",
+          "start": 183.48,
+          "end": 183.9,
+          "confidence": 0.777
+        },
+        {
+          "text": "I've",
+          "start": 184.26,
+          "end": 184.46,
+          "confidence": 0.475
+        },
+        {
+          "text": "learnt",
+          "start": 184.46,
+          "end": 184.74,
+          "confidence": 0.165
+        },
+        {
+          "text": "something",
+          "start": 184.74,
+          "end": 185.14,
+          "confidence": 0.636
+        },
+        {
+          "text": "to",
+          "start": 185.14,
+          "end": 185.34,
+          "confidence": 0.446
+        },
+        {
+          "text": "this.",
+          "start": 185.34,
+          "end": 185.54,
+          "confidence": 0.472
+        },
+        {
+          "text": "I",
+          "start": 185.64,
+          "end": 185.7,
+          "confidence": 0.703
+        },
+        {
+          "text": "need",
+          "start": 185.7,
+          "end": 185.9,
+          "confidence": 0.667
+        },
+        {
+          "text": "to",
+          "start": 185.9,
+          "end": 186.08,
+          "confidence": 0.88
+        },
+        {
+          "text": "Google",
+          "start": 186.08,
+          "end": 186.32,
+          "confidence": 0.725
+        },
+        {
+          "text": "it.",
+          "start": 186.32,
+          "end": 186.48,
+          "confidence": 0.801
+        },
+        {
+          "text": "I",
+          "start": 186.56,
+          "end": 186.6,
+          "confidence": 0.795
+        },
+        {
+          "text": "think",
+          "start": 186.6,
+          "end": 186.78,
+          "confidence": 0.783
+        },
+        {
+          "text": "I",
+          "start": 186.78,
+          "end": 186.92,
+          "confidence": 0.974
+        },
+        {
+          "text": "might",
+          "start": 186.92,
+          "end": 187.34,
+          "confidence": 0.776
+        },
+        {
+          "text": "visit.",
+          "start": 187.34,
+          "end": 187.84,
+          "confidence": 0.772
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 7100,
+      "start": 187.84,
+      "end": 222.7,
+      "text": " Wow, interesting. So what do you do? I'm a student actually. Wow. So is it like you're restricted? Are you in healthcare? What kind of job are you in?",
+      "tokens": [
+        50964,
+        3153,
+        11,
+        1880,
+        13,
+        407,
+        437,
+        360,
+        291,
+        360,
+        30,
+        286,
+        478,
+        257,
+        3107,
+        767,
+        13,
+        3153,
+        13,
+        407,
+        307,
+        309,
+        411,
+        291,
+        434,
+        20608,
+        30,
+        2014,
+        291,
+        294,
+        8884,
+        30,
+        708,
+        733,
+        295,
+        1691,
+        366,
+        291,
+        294,
+        30,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3211519290239383,
+      "compression_ratio": 1.515625,
+      "no_speech_prob": 0.3143288493156433,
+      "confidence": 0.618,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 187.84,
+          "end": 189.36,
+          "confidence": 0
+        },
+        {
+          "text": "Wow,",
+          "start": 190.05,
+          "end": 190.22,
+          "confidence": 0.256
+        },
+        {
+          "text": "interesting.",
+          "start": 190.86,
+          "end": 191.36,
+          "confidence": 0.584
+        },
+        {
+          "text": "So",
+          "start": 192.04,
+          "end": 193.06,
+          "confidence": 0.267
+        },
+        {
+          "text": "what",
+          "start": 193.06,
+          "end": 193.2,
+          "confidence": 0.77
+        },
+        {
+          "text": "do",
+          "start": 193.2,
+          "end": 193.3,
+          "confidence": 0.88
+        },
+        {
+          "text": "you",
+          "start": 193.3,
+          "end": 193.4,
+          "confidence": 0.899
+        },
+        {
+          "text": "do?",
+          "start": 193.4,
+          "end": 193.52,
+          "confidence": 0.878
+        },
+        {
+          "text": "I'm",
+          "start": 193.6,
+          "end": 193.74,
+          "confidence": 0.783
+        },
+        {
+          "text": "a",
+          "start": 193.74,
+          "end": 193.86,
+          "confidence": 0.954
+        },
+        {
+          "text": "student",
+          "start": 193.86,
+          "end": 194.1,
+          "confidence": 0.829
+        },
+        {
+          "text": "[*]",
+          "start": 194.1,
+          "end": 194.34,
+          "confidence": 0
+        },
+        {
+          "text": "actually.",
+          "start": 194.34,
+          "end": 194.86,
+          "confidence": 0.665
+        },
+        {
+          "text": "[*]",
+          "start": 194.86,
+          "end": 196.05,
+          "confidence": 0
+        },
+        {
+          "text": "Wow.",
+          "start": 214.6,
+          "end": 215.08,
+          "confidence": 0.386
+        },
+        {
+          "text": "[*]",
+          "start": 215.93,
+          "end": 216.25,
+          "confidence": 0
+        },
+        {
+          "text": "So",
+          "start": 216.25,
+          "end": 216.35,
+          "confidence": 0.561
+        },
+        {
+          "text": "is",
+          "start": 216.35,
+          "end": 216.49,
+          "confidence": 0.717
+        },
+        {
+          "text": "it",
+          "start": 216.49,
+          "end": 216.63,
+          "confidence": 0.892
+        },
+        {
+          "text": "like",
+          "start": 216.63,
+          "end": 216.79,
+          "confidence": 0.85
+        },
+        {
+          "text": "you're",
+          "start": 216.79,
+          "end": 217.11,
+          "confidence": 0.691
+        },
+        {
+          "text": "restricted?",
+          "start": 217.11,
+          "end": 217.63,
+          "confidence": 0.327
+        },
+        {
+          "text": "Are",
+          "start": 218.03,
+          "end": 218.19,
+          "confidence": 0.606
+        },
+        {
+          "text": "you",
+          "start": 218.19,
+          "end": 218.33,
+          "confidence": 0.877
+        },
+        {
+          "text": "in",
+          "start": 218.33,
+          "end": 218.47,
+          "confidence": 0.784
+        },
+        {
+          "text": "healthcare?",
+          "start": 218.47,
+          "end": 219.17,
+          "confidence": 0.385
+        },
+        {
+          "text": "What",
+          "start": 221.33,
+          "end": 221.57,
+          "confidence": 0.651
+        },
+        {
+          "text": "kind",
+          "start": 221.57,
+          "end": 221.95,
+          "confidence": 0.794
+        },
+        {
+          "text": "of",
+          "start": 221.95,
+          "end": 222.07,
+          "confidence": 0.912
+        },
+        {
+          "text": "job",
+          "start": 222.07,
+          "end": 222.29,
+          "confidence": 0.828
+        },
+        {
+          "text": "are",
+          "start": 222.29,
+          "end": 222.43,
+          "confidence": 0.877
+        },
+        {
+          "text": "you",
+          "start": 222.43,
+          "end": 222.57,
+          "confidence": 0.897
+        },
+        {
+          "text": "in?",
+          "start": 222.57,
+          "end": 222.7,
+          "confidence": 0.512
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 9700,
+      "start": 230.26,
+      "end": 246.73,
+      "text": " What has it been like for you? I've been hoping to have a kid soon but hearing that you've been a mom since 17. Wow. Interesting.",
+      "tokens": [
+        50364,
+        708,
+        575,
+        309,
+        668,
+        411,
+        337,
+        291,
+        30,
+        286,
+        600,
+        668,
+        7159,
+        281,
+        362,
+        257,
+        1636,
+        2321,
+        457,
+        4763,
+        300,
+        291,
+        600,
+        668,
+        257,
+        1225,
+        1670,
+        3282,
+        13,
+        3153,
+        13,
+        14711,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3306932666084983,
+      "compression_ratio": 1.2966101694915255,
+      "no_speech_prob": 0.302802711725235,
+      "confidence": 0.578,
+      "words": [
+        {
+          "text": "What",
+          "start": 230.26,
+          "end": 230.82,
+          "confidence": 0.213
+        },
+        {
+          "text": "has",
+          "start": 230.82,
+          "end": 231.08,
+          "confidence": 0.824
+        },
+        {
+          "text": "it",
+          "start": 231.08,
+          "end": 231.2,
+          "confidence": 0.864
+        },
+        {
+          "text": "been",
+          "start": 231.2,
+          "end": 231.36,
+          "confidence": 0.811
+        },
+        {
+          "text": "like",
+          "start": 231.36,
+          "end": 231.56,
+          "confidence": 0.877
+        },
+        {
+          "text": "for",
+          "start": 231.56,
+          "end": 231.8,
+          "confidence": 0.879
+        },
+        {
+          "text": "you?",
+          "start": 231.8,
+          "end": 232.12,
+          "confidence": 0.822
+        },
+        {
+          "text": "[*]",
+          "start": 232.44,
+          "end": 234.75,
+          "confidence": 0
+        },
+        {
+          "text": "I've",
+          "start": 235.32,
+          "end": 236.8,
+          "confidence": 0.179
+        },
+        {
+          "text": "been",
+          "start": 239.71,
+          "end": 239.91,
+          "confidence": 0.785
+        },
+        {
+          "text": "hoping",
+          "start": 239.91,
+          "end": 240.21,
+          "confidence": 0.819
+        },
+        {
+          "text": "to",
+          "start": 240.21,
+          "end": 240.45,
+          "confidence": 0.876
+        },
+        {
+          "text": "have",
+          "start": 240.45,
+          "end": 240.61,
+          "confidence": 0.875
+        },
+        {
+          "text": "a",
+          "start": 240.61,
+          "end": 240.77,
+          "confidence": 0.965
+        },
+        {
+          "text": "kid",
+          "start": 240.77,
+          "end": 241.01,
+          "confidence": 0.892
+        },
+        {
+          "text": "soon",
+          "start": 241.01,
+          "end": 241.47,
+          "confidence": 0.753
+        },
+        {
+          "text": "[*]",
+          "start": 241.47,
+          "end": 241.99,
+          "confidence": 0
+        },
+        {
+          "text": "but",
+          "start": 241.99,
+          "end": 242.21,
+          "confidence": 0.442
+        },
+        {
+          "text": "hearing",
+          "start": 242.21,
+          "end": 242.67,
+          "confidence": 0.522
+        },
+        {
+          "text": "that",
+          "start": 242.67,
+          "end": 242.89,
+          "confidence": 0.51
+        },
+        {
+          "text": "you've",
+          "start": 242.89,
+          "end": 243.09,
+          "confidence": 0.768
+        },
+        {
+          "text": "been",
+          "start": 243.09,
+          "end": 243.29,
+          "confidence": 0.499
+        },
+        {
+          "text": "a",
+          "start": 243.29,
+          "end": 243.53,
+          "confidence": 0.777
+        },
+        {
+          "text": "mom",
+          "start": 243.53,
+          "end": 243.75,
+          "confidence": 0.6
+        },
+        {
+          "text": "since",
+          "start": 243.75,
+          "end": 243.97,
+          "confidence": 0.745
+        },
+        {
+          "text": "17.",
+          "start": 243.97,
+          "end": 244.55,
+          "confidence": 0.401
+        },
+        {
+          "text": "[*]",
+          "start": 244.55,
+          "end": 245.15,
+          "confidence": 0
+        },
+        {
+          "text": "Wow.",
+          "start": 245.15,
+          "end": 245.39,
+          "confidence": 0.317
+        },
+        {
+          "text": "[*]",
+          "start": 246.09,
+          "end": 246.33,
+          "confidence": 0
+        },
+        {
+          "text": "Interesting.",
+          "start": 246.33,
+          "end": 246.73,
+          "confidence": 0.436
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 9700,
+      "start": 247.55,
+      "end": 249.16,
+      "text": " It's just one you have.",
+      "tokens": [
+        51164,
+        467,
+        311,
+        445,
+        472,
+        291,
+        362,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3306932666084983,
+      "compression_ratio": 1.2966101694915255,
+      "no_speech_prob": 0.302802711725235,
+      "confidence": 0.538,
+      "words": [
+        {
+          "text": "It's",
+          "start": 247.55,
+          "end": 248.16,
+          "confidence": 0.2
+        },
+        {
+          "text": "just",
+          "start": 248.16,
+          "end": 248.34,
+          "confidence": 0.861
+        },
+        {
+          "text": "one",
+          "start": 248.34,
+          "end": 248.58,
+          "confidence": 0.686
+        },
+        {
+          "text": "you",
+          "start": 248.58,
+          "end": 248.76,
+          "confidence": 0.812
+        },
+        {
+          "text": "have.",
+          "start": 248.76,
+          "end": 249.16,
+          "confidence": 0.828
+        }
+      ]
+    }
+  ],
+  "language": "English"
+}

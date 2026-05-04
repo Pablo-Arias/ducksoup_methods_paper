@@ -1,0 +1,500 @@
+{
+  "text": " Hello, I'm sorry I can't hear you, are you okay? Me too. Hi. Hi. I really needed to talk to you, Katie. Yeah, no worries. aw",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 24.04,
+      "text": " Hello, I'm sorry I can't hear you, are you okay?",
+      "tokens": [
+        50364,
+        2425,
+        11,
+        286,
+        478,
+        2597,
+        286,
+        393,
+        380,
+        1568,
+        291,
+        11,
+        366,
+        291,
+        1392,
+        30,
+        51398
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.87881867090861,
+      "compression_ratio": 0.9180327868852459,
+      "no_speech_prob": 0.5074674487113953,
+      "confidence": 0.327,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 0.0,
+          "end": 13.06,
+          "confidence": 0
+        },
+        {
+          "text": "Hello,",
+          "start": 13.06,
+          "end": 13.24,
+          "confidence": 0.099
+        },
+        {
+          "text": "[*]",
+          "start": 13.82,
+          "end": 14.16,
+          "confidence": 0
+        },
+        {
+          "text": "I'm",
+          "start": 17.6,
+          "end": 18.43,
+          "confidence": 0.884
+        },
+        {
+          "text": "sorry",
+          "start": 18.43,
+          "end": 18.55,
+          "confidence": 0.255
+        },
+        {
+          "text": "[*]",
+          "start": 18.55,
+          "end": 18.79,
+          "confidence": 0
+        },
+        {
+          "text": "I",
+          "start": 18.79,
+          "end": 18.95,
+          "confidence": 0.177
+        },
+        {
+          "text": "can't",
+          "start": 19.75,
+          "end": 20.18,
+          "confidence": 0.421
+        },
+        {
+          "text": "[*]",
+          "start": 20.18,
+          "end": 20.32,
+          "confidence": 0
+        },
+        {
+          "text": "hear",
+          "start": 20.32,
+          "end": 20.7,
+          "confidence": 0.109
+        },
+        {
+          "text": "you,",
+          "start": 20.7,
+          "end": 20.72,
+          "confidence": 0.363
+        },
+        {
+          "text": "[*]",
+          "start": 20.8,
+          "end": 21.14,
+          "confidence": 0
+        },
+        {
+          "text": "are",
+          "start": 21.14,
+          "end": 21.72,
+          "confidence": 0.148
+        },
+        {
+          "text": "[*]",
+          "start": 23.0,
+          "end": 23.48,
+          "confidence": 0
+        },
+        {
+          "text": "you",
+          "start": 23.48,
+          "end": 23.62,
+          "confidence": 0.893
+        },
+        {
+          "text": "okay?",
+          "start": 23.62,
+          "end": 24.04,
+          "confidence": 0.664
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 29.75,
+      "end": 30.35,
+      "text": " Me too.",
+      "tokens": [
+        51398,
+        1923,
+        886,
+        13,
+        51448
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.87881867090861,
+      "compression_ratio": 0.9180327868852459,
+      "no_speech_prob": 0.5074674487113953,
+      "confidence": 0.399,
+      "words": [
+        {
+          "text": "Me",
+          "start": 29.75,
+          "end": 30.01,
+          "confidence": 0.21
+        },
+        {
+          "text": "too.",
+          "start": 30.01,
+          "end": 30.35,
+          "confidence": 0.549
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 5168,
+      "start": 158.9,
+      "end": 160.09,
+      "text": " Hi.",
+      "tokens": [
+        50410,
+        2421,
+        13,
+        50492
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.604162400768649,
+      "compression_ratio": 0.9411764705882353,
+      "no_speech_prob": 0.06866355985403061,
+      "confidence": 0.011,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 158.9,
+          "end": 159.77,
+          "confidence": 0
+        },
+        {
+          "text": "Hi.",
+          "start": 159.77,
+          "end": 160.09,
+          "confidence": 0.011
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 5168,
+      "start": 160.49,
+      "end": 160.83,
+      "text": " Hi.",
+      "tokens": [
+        50492,
+        2421,
+        13,
+        50563
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.604162400768649,
+      "compression_ratio": 0.9411764705882353,
+      "no_speech_prob": 0.06866355985403061,
+      "confidence": 0.014,
+      "words": [
+        {
+          "text": "Hi.",
+          "start": 160.49,
+          "end": 160.83,
+          "confidence": 0.014
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 5168,
+      "start": 184.45,
+      "end": 228.53,
+      "text": " I really needed to talk to you, Katie.",
+      "tokens": [
+        50563,
+        286,
+        957,
+        356,
+        2978,
+        220,
+        1353,
+        751,
+        281,
+        291,
+        11,
+        19602,
+        13,
+        51071
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.604162400768649,
+      "compression_ratio": 0.9411764705882353,
+      "no_speech_prob": 0.06866355985403061,
+      "confidence": 0.039,
+      "words": [
+        {
+          "text": "[*]",
+          "start": 184.45,
+          "end": 186.1,
+          "confidence": 0
+        },
+        {
+          "text": "I",
+          "start": 200.3,
+          "end": 200.42,
+          "confidence": 0.042
+        },
+        {
+          "text": "really",
+          "start": 201.2,
+          "end": 202.85,
+          "confidence": 0.014
+        },
+        {
+          "text": "needed",
+          "start": 225.89,
+          "end": 225.91,
+          "confidence": 0.002
+        },
+        {
+          "text": "to",
+          "start": 225.91,
+          "end": 225.95,
+          "confidence": 0.192
+        },
+        {
+          "text": "talk",
+          "start": 225.95,
+          "end": 226.11,
+          "confidence": 0.01
+        },
+        {
+          "text": "to",
+          "start": 226.11,
+          "end": 226.13,
+          "confidence": 0.328
+        },
+        {
+          "text": "[*]",
+          "start": 226.13,
+          "end": 226.49,
+          "confidence": 0
+        },
+        {
+          "text": "you,",
+          "start": 227.85,
+          "end": 228.17,
+          "confidence": 0.21
+        },
+        {
+          "text": "Katie.",
+          "start": 228.51,
+          "end": 228.53,
+          "confidence": 0.013
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 5168,
+      "start": 240.33,
+      "end": 240.75,
+      "text": " Yeah, no worries.",
+      "tokens": [
+        51071,
+        865,
+        11,
+        572,
+        16340,
+        13,
+        51294
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.604162400768649,
+      "compression_ratio": 0.9411764705882353,
+      "no_speech_prob": 0.06866355985403061,
+      "confidence": 0.036,
+      "words": [
+        {
+          "text": "Yeah,",
+          "start": 240.33,
+          "end": 240.35,
+          "confidence": 0.021
+        },
+        {
+          "text": "no",
+          "start": 240.71,
+          "end": 240.73,
+          "confidence": 0.01
+        },
+        {
+          "text": "worries.",
+          "start": 240.73,
+          "end": 240.75,
+          "confidence": 0.115
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 7028,
+      "start": 241.21,
+      "end": 241.23,
+      "text": " aw",
+      "tokens": [
+        50364,
+        1714,
+        50389
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6823157072067261,
+      "compression_ratio": 0.2,
+      "no_speech_prob": 0.4625062048435211,
+      "confidence": 0.0,
+      "words": [
+        {
+          "text": "aw",
+          "start": 241.21,
+          "end": 241.23,
+          "confidence": 0.0
+        }
+      ]
+    }
+  ],
+  "language": "English",
+  "speech_activity": [
+    {
+      "start": 0.0,
+      "end": 14.45
+    },
+    {
+      "start": 17.6,
+      "end": 19.0
+    },
+    {
+      "start": 19.75,
+      "end": 22.1
+    },
+    {
+      "start": 23.0,
+      "end": 24.65
+    },
+    {
+      "start": 29.1,
+      "end": 32.3
+    },
+    {
+      "start": 40.4,
+      "end": 44.65
+    },
+    {
+      "start": 48.05,
+      "end": 49.7
+    },
+    {
+      "start": 53.8,
+      "end": 55.95
+    },
+    {
+      "start": 62.85,
+      "end": 65.0
+    },
+    {
+      "start": 78.5,
+      "end": 80.1
+    },
+    {
+      "start": 86.45,
+      "end": 92.6
+    },
+    {
+      "start": 94.35,
+      "end": 96.0
+    },
+    {
+      "start": 100.0,
+      "end": 101.4
+    },
+    {
+      "start": 104.2,
+      "end": 105.55
+    },
+    {
+      "start": 109.95,
+      "end": 112.05
+    },
+    {
+      "start": 126.0,
+      "end": 127.4
+    },
+    {
+      "start": 129.75,
+      "end": 133.0
+    },
+    {
+      "start": 158.9,
+      "end": 161.25
+    },
+    {
+      "start": 161.4,
+      "end": 163.25
+    },
+    {
+      "start": 164.15,
+      "end": 165.65
+    },
+    {
+      "start": 184.45,
+      "end": 186.1
+    },
+    {
+      "start": 199.7,
+      "end": 201.1
+    },
+    {
+      "start": 201.2,
+      "end": 202.85
+    },
+    {
+      "start": 224.9,
+      "end": 226.55
+    },
+    {
+      "start": 227.85,
+      "end": 229.85
+    },
+    {
+      "start": 232.2,
+      "end": 235.9
+    },
+    {
+      "start": 239.85,
+      "end": 241.25
+    },
+    {
+      "start": 245.8,
+      "end": 247.7
+    },
+    {
+      "start": 249.0,
+      "end": 249.7066875
+    }
+  ]
+}
