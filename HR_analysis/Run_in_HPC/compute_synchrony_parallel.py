@@ -335,7 +335,7 @@ max_attempts_for_surrogate = 15 # Nb of attempts to try to find a surrogate alte
 fill_limit = 30
 
 # Load correct interactions globally
-with open("data/correct_interactions.pickle", "rb") as handle:
+with open("../../data/correct_interactions.pickle", "rb") as handle:
     correct_interactions = pickle.load(handle)
 
 
@@ -344,11 +344,7 @@ with open("data/correct_interactions.pickle", "rb") as handle:
 # ---------------------------------------------------------
 def main():
     print("Loading Data into Main Process...", flush=True)
-    #all_data_df = pl.read_csv("data/hr_computed/hr.csv")
-    #all_data_df = pl.read_csv("data/hr_computed/hr_preprocessed.csv")
-    #all_data_df = pl.read_csv("data/hr_computed/hr_ws_6_with_filtering_June_2026_all_sessions_no_filtering_preprocessed.csv")
-    #all_data_df = pl.read_csv("data/hr_computed/hr_ws_6_with_filtering_June_2026_preprocessed.csv")
-    all_data_df = pl.read_csv("data/hr_computed/hr_ws_6_with_filtering_June_2026_clustering_preprocessed.csv")
+    all_data_df = pl.read_csv("../../data/hr/hr_ws_6_with_filtering_June_2026_preprocessed.csv")
 
     ts_df = all_data_df.group_by([
         "sid", "dyad", "user_id", "other_id", 
@@ -363,7 +359,7 @@ def main():
         # Sort chunks immediately as they enter the dictionary
         ts_dict[(sid, manipulated, dyad, analysis)] = group.sort("time")
 
-    target_folder = f"data/filtered_data_clustering_synchrony_new_parallel_PREPRO_repetition_{nb_of_surrogate_perms}_lag_{lag}_overlap_{overlap}_wl_{window_length}_fill_limit{fill_limit}"
+    target_folder = f"../../data/hr/filtered_data_synchrony_new_parallel_PREPRO_repetition_{nb_of_surrogate_perms}_lag_{lag}_overlap_{overlap}_wl_{window_length}_fill_limit{fill_limit}"
     os.makedirs(target_folder, exist_ok=True)
 
     num_cores = int(os.environ.get("SLURM_CPUS_PER_TASK", 32))
