@@ -15,7 +15,7 @@ library(srm);
 library(ggplot2)
 library(TripleR)
 
-setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+if (rstudioapi::isAvailable()) setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 
 #Import data
@@ -75,7 +75,7 @@ plot(RR1)
 RR1$effects #measure perceiver and target
 RR1$effectsRel
 
-result_file = paste("data/behavior/srm/",question,".csv", sep="")
+result_file = paste("../data/behavior/srm/",question,".csv", sep="")
 write.csv(RR1$effectsRel, result_file) #Relationships
 
 df = data(likingLong)

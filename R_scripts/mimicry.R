@@ -12,22 +12,29 @@ library(lmerTest);
 library(dplyr);
 library("sjPlot")
 
-setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+if (rstudioapi::isAvailable()) setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 #Import data
+#Choose the measure : uncomment one block (file_name and measure), keep the others commented.
+#Each file has one row per recording (mean over the frames of the interaction), written by a notebook of face_analysis/.
+#Two face trackers : py-feat (version 2.1.5, action units and emotions) and MediaPipe (blendshapes).
 
+#AU6 : py-feat AU06 (cheek raiser, orbicularis oculi), written by Facial expression analysis_PF.ipynb
+#measure <- "AU06"
+#file_name = "../data/face_data/pyf_results/py_feat_v3.csv"
 
-#AU6
-measure <- "AU06"
-file_name = "../data/pyf_results/au06.csv"
+#LIP CORNER DEPRESSOR : py-feat AU15, written by Facial expression analysis_PF.ipynb
+file_name = "../data/face_data/pyf_results/py_feat_v3.csv"
+measure <- "AU15"
 
-#SMILE
-#file_name = "../data/mediapipe_results/smile.csv"
+#SMILE : MediaPipe mouth smile (mouthSmileLeft + mouthSmileRight), written by Facial expression analysis_mp.ipynb
+#file_name = "../data/face_data/mediapipe_results/mediapipe_v3.csv"
 #measure <- "smile"
 
-#Happiness
-#file_name = "../data/pyf_results/happiness.csv"
+#Happiness : py-feat happiness (emotion), written by Facial expression analysis_PF.ipynb
+#file_name = "../data/face_data/pyf_results/py_feat_v3.csv"
 #measure <- "happiness"
+
 
 
 #read data
@@ -73,6 +80,7 @@ aov.out
 
 aov.out = anova(nul,v2)
 aov.out
+
 aov.out = anova(nul,v3)
 aov.out
 
@@ -82,8 +90,8 @@ aov.out
 summary(v3)
 
 #Interaction
-#aov.out = anova(v2,v3)
-#aov.out
+aov.out = anova(v2,v3)
+aov.out
 
 g <- plot_model(v3, type = "int", terms = c("participant_condition", "other_condition"))
 print(g)

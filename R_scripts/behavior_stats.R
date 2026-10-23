@@ -12,7 +12,7 @@ library(lmerTest);
 library(dplyr);
 library("sjPlot")
 
-setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+if (rstudioapi::isAvailable()) setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 #Import data
 file_name = "../data/behavior/all_data_df.csv"
@@ -43,7 +43,7 @@ all_data=data.frame( measure, participant_condition , interacting_partner, other
 ## -------------------------------------- ##
 
 # Choose the question you want to anlayse
-#question = "conversation_quality"
+question = "conversation_quality"
 #question = "liked"
 #question = "other_liked"
 #question = "video_conf_quality"
@@ -80,5 +80,5 @@ summary(v3)
 #plot
 plot_model( v3, type = "pred", terms = c("participant_condition", "other_condition") )
 
-predict_gam(v3)
+#predict_gam(v3)  # tidymv function for GAMs (v3 is an lmer model, tidymv is not loaded): leftover, commented out
 

@@ -12,19 +12,22 @@ library(lmerTest);
 library(dplyr);
 library("sjPlot")
 
-setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+if (rstudioapi::isAvailable()) setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 #Import data
-file_name = "../data/audio_data/collapsed_pitch_from_server.csv"
+# Server summary (f0_mean, f0_std) + number of voiced frames per recording and st_mean,
+# written by audio_analysis.ipynb from the dry per-frame files
+file_name = "../../data/audio_data/collapsed_pitch_with_voiced_frames_v3.csv"
 
 #read data
 data = read.table(file_name, header=TRUE,sep=',')
 head(data)
 
-#defining outcomes
-#measure			          <-as.numeric(data$f0_mean)
-measure			          <-as.numeric(data$f0_std)
-
+# Exclude recordings with less than 5 s of voiced speech (1000 frames of 5 ms):
+# their mean / SD come from a few seconds of speech and are unreliable
+MIN_VOICED = 1000
+data = data[!is.na(data$n_voiced) & data$n_voiced >= MIN_VOICED, ]
+cat(nrow(data), "recordings,", length(unique(data$user_id)), "participants\n")
 
 #defining predictors (categorical)
 participant_condition 	<- as.factor(data$participant_condition)
@@ -34,46 +37,53 @@ other_condition         <- relevel(other_condition, "U")
 participant_nb			    <- as.factor(data$user_id)
 interacting_partner			<- as.factor(data$other_id)
 
-#create new dataframe
-clean_data=data.frame( measure, participant_condition , interacting_partner, other_condition, participant_nb )
-
 ## -------------------------------------- ##
 ## -------------------------------------- ##
 ## GLMM Analysis ------------------------ ##
 ## -------------------------------------- ##
 ## -------------------------------------- ##
 
-# Choose the question you want to anlayse
+# f0_mean, f0_std: Hz (server); st_mean: semitones relative to the speaker's median
+#for (measure_name in c("f0_mean", "f0_std", "st_mean")) {
+for (measure_name in c("f0_std")) {
 
+  cat("\n\n==================== ", measure_name, " ====================\n")
+  measure			          <-as.numeric(data[[measure_name]])
 
-## ---- With both participant_nb and interacting_partner as random factors
-nul<- lmer( measure ~ 1            	     	                       + (1 | participant_nb) + (1 | interacting_partner), data= clean_data, REML = FALSE )
-v0 <- lmer( measure ~ participant_condition                        + (1 | participant_nb) + (1 | interacting_partner), data= clean_data, REML = FALSE )
-v1 <- lmer( measure ~ other_condition                              + (1 | participant_nb) + (1 | interacting_partner), data= clean_data, REML = FALSE )
-v2 <- lmer( measure ~ other_condition + participant_condition      + (1 | participant_nb) + (1 | interacting_partner), data= clean_data, REML = FALSE )
-v3 <- lmer( measure ~ other_condition * participant_condition      + (1 | participant_nb) + (1 | interacting_partner), data= clean_data, REML = FALSE )
+  #create new dataframe
+  clean_data=data.frame( measure, participant_condition , interacting_partner, other_condition, participant_nb )
 
-aov.out = anova(nul,v0)
-aov.out
-aov.out = anova(nul,v1)
-aov.out
-aov.out = anova(nul,v2)
-aov.out
-aov.out = anova(nul,v3)
-aov.out
+  ## ---- With both participant_nb and interacting_partner as random factors
+  nul<- lmer( measure ~ 1            	     	                       + (1 | participant_nb) + (1 | interacting_partner), data= clean_data, REML = FALSE )
+  v0 <- lmer( measure ~ participant_condition                        + (1 | participant_nb) + (1 | interacting_partner), data= clean_data, REML = FALSE )
+  v1 <- lmer( measure ~ other_condition                              + (1 | participant_nb) + (1 | interacting_partner), data= clean_data, REML = FALSE )
+  v2 <- lmer( measure ~ other_condition + participant_condition      + (1 | participant_nb) + (1 | interacting_partner), data= clean_data, REML = FALSE )
+  v3 <- lmer( measure ~ other_condition * participant_condition      + (1 | participant_nb) + (1 | interacting_partner), data= clean_data, REML = FALSE )
 
-#Interaction
-aov.out = anova(v0,v3)
-aov.out
+  # Main effect of participant condition
+  print(anova(nul,v0))
+  # Main effect of other condition
+  print(anova(nul,v1))
+  print(anova(nul,v2))
+  print(anova(nul,v3))
 
+  # Interaction (1 df): additive model vs full model
+  print(anova(v2,v3))
+  # participant_condition vs full model (2 df: other condition + interaction)
+  print(anova(v0,v3))
 
-#summary
-summary(v0)
-summary(v3)
+  #summary
+  print(summary(v3))
 
-#plot
+  # Simple effects of other condition within each participant condition: Value = other U - other S
+  # (row S: SU - SS, row U: UU - US)
+  print(testInteractions(v3, fixed = "participant_condition", across = "other_condition", test = "Chisq"))
 
+  # All pairwise cell contrasts with SE and 95% CI (cells named participant/other, e.g. "S U" = participant S, other U)
+  # Row "S U - S S" is the SS vs SU effect reported in the paper (estimate +/- SE)
+  em <- emmeans::emmeans(v3, ~ participant_condition * other_condition)
+  print(summary(pairs(em, adjust = "none"), infer = TRUE))
+}
+
+#plot (last measure of the loop)
 plot_model( v3, type = "pred", terms = c("participant_condition", "other_condition") )
-
-predict_gam(v3)
-

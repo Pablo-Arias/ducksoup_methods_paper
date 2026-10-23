@@ -18,9 +18,9 @@ library(tidyverse)
 library(truncnorm)
 library(scales)
 
-setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+if (rstudioapi::isAvailable()) setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
-file_name = "../data/face_data/mediapipe_results/manipulation_check.csv"
+file_name = "../data/face_data/mediapipe_results/manipulation_check_v3.csv"
 
 data = read.table(file_name, header=TRUE,sep=',')
 
@@ -89,9 +89,10 @@ increase_data <- subset(reduced_df, participant_condition == "increase")
 decrease_data <- subset(reduced_df, participant_condition == "decrease")
 
 # Paired t-test for the 'increase' condition
+#(R >= 4.4 no longer accepts paired = TRUE in the formula version; same test, false - true as with the formula)
 increase_ttest <- t.test(
-  smile ~ manipulated,
-  data = increase_data,
+  increase_data$smile[increase_data$manipulated == "false"],
+  increase_data$smile[increase_data$manipulated == "true"],
   paired = TRUE
 )
 
@@ -103,9 +104,10 @@ increase_cohen_d <- cohen.d(
 )
 
 # Paired t-test for the 'decrease' condition
+#(R >= 4.4 no longer accepts paired = TRUE in the formula version; same test, false - true as with the formula)
 decrease_ttest <- t.test(
-  smile ~ manipulated,
-  data = decrease_data,
+  decrease_data$smile[decrease_data$manipulated == "false"],
+  decrease_data$smile[decrease_data$manipulated == "true"],
   paired = TRUE
 )
 

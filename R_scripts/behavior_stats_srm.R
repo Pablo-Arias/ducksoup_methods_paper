@@ -12,7 +12,7 @@ library(lmerTest);
 library(dplyr);
 library("sjPlot")
 
-setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+if (rstudioapi::isAvailable()) setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 #Import data
 file_name = "../data/behavior/srm/all_srm.csv"
@@ -80,5 +80,5 @@ summary(v3)
 #plot
 plot_model( v3, type = "pred", terms = c("participant_condition", "other_condition") )
 
-predict_gam(v3)
+#predict_gam(v3)  # tidymv function for GAMs (v3 is an lmer model, tidymv is not loaded): leftover, commented out
 
