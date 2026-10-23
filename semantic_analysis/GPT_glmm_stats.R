@@ -12,7 +12,7 @@ library(lmerTest);
 library(dplyr);
 library("sjPlot")
 
-setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+if (rstudioapi::isAvailable()) setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 #Import data
 file_name = "data/semantics_for_glmm.csv"
@@ -45,10 +45,10 @@ all_data=data.frame( measure, participant_condition , interacting_partner, other
 ## -------------------------------------- ##
 
 # Choose the question you want to anlayse
-question = "conversation_quality"
+#question = "conversation_quality"
 #question = "liked"
 #question = "other_liked"
-#question = "video_conf_quality"
+question = "video_conf_quality"
 
 clean_data <- all_data[all_data$question_content == question,]
 
