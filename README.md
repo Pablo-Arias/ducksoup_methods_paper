@@ -14,7 +14,7 @@ In this repository you will find the analyses scripts of the article "Covert con
 In this article we show that aligning the smiles of meet up participants with smile transformation filters causally increases liking, and that these transformations propagate to participants' facial, vocal and verbal behavior. In this repository you will find the python and R scripts to replicate all the analyses in both the main paper and the Supplementary Information. 
 
 ## Importing data
-To use these scripts please download the raw data online here : https://archive.org/details/data_20260901
+To use these scripts please download the raw data online here : https://archive.org/details/shared_data
 
     Put the downloaded data in a folder called "data/" in the root of this project. Then execute the scripts.
 
