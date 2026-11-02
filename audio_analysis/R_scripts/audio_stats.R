@@ -43,8 +43,11 @@ interacting_partner			<- as.factor(data$other_id)
 ## -------------------------------------- ##
 ## -------------------------------------- ##
 
+# Choose the measure(s) you want to analyse : uncomment one of the lines below and comment the others
 # f0_mean, f0_std: Hz (server); st_mean: semitones relative to the speaker's median
+# Paper : mean pitch = st_mean, pitch standard deviation = f0_std
 #for (measure_name in c("f0_mean", "f0_std", "st_mean")) {
+#for (measure_name in c("st_mean")) {
 for (measure_name in c("f0_std")) {
 
   cat("\n\n==================== ", measure_name, " ====================\n")

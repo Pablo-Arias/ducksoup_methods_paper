@@ -20,6 +20,7 @@ To use these scripts please download the raw data online here : https://archive.
 
 ## Analyses
 These analyses include:
+- Network and video quality
 - Manipulation Check
 - Behavior analyses (ratings and Social Relation Models)
 - Facial mimicry analyses (MediaPipe smile, py-feat AU06, AU15 and happiness)
@@ -41,7 +42,8 @@ The python notebooks process the data and write the tables used for the statisti
     - face_analysis/smile_aligned_decomposition.ipynb : smile distributions, smile episodes and time course (Supplementary Information)
     - audio_analysis/audio_analysis.ipynb : mean pitch and pitch standard deviation
     - audio_analysis/pitch_std_decomposition.ipynb : pitch distributions, first and second half (Supplementary Information)
-    - semantic_analysis/GPT analysis.ipynb : LLM ratings (don't execute the cell calling the Azure OpenAI API, the predictions are already in semantic_analysis/data/predictions)
+    - semantic_analysis/GPT analysis.ipynb : LLM ratings (don't execute the two cells calling the Azure OpenAI API, "# Using azure credentials" and "# Analyse missing transcriptions"; the predictions are already in semantic_analysis/data/predictions)
+    - network_analysis/network_analysis.ipynb : network and video quality (bit rates, frames per second, resolution), from the DuckSoup logs in data/real_data
 5. The R scripts :
     - R_scripts/behavior_stats.R and R_scripts/behavior_stats_srm.R : ratings
     - R_scripts/mimicry.R : smile, AU06, AU15 and happiness (one block per measure)
@@ -58,7 +60,7 @@ We used python 3.10 (pandas 2.3, polars 1.42, seaborn 0.13, statsmodels 0.14, pi
 
 
 ## Other repositories
-Relevantrepositores, with all the code for the platform, experiment code, data collection, data preprocessing, HPC (High performance computing) feature extraction, and analysis replications,  can be found in the links below:
+All relevant repositores, with all the code for the platform, experiment code, data collection, data preprocessing, HPC (High performance computing) feature extraction, and analysis replications, can be found in the links below:
 
 - DuckSoup : https://github.com/ducksouplab/ducksoup
 

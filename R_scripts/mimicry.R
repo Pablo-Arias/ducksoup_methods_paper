@@ -75,7 +75,8 @@ aov.out
 
 aov.out = anova(nul,v1)
 aov.out
-#summary(v1)
+#Estimate of the other condition effect (other_conditionU) reported in the paper
+summary(v1)
 
 
 aov.out = anova(nul,v2)
