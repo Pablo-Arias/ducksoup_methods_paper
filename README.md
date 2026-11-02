@@ -43,7 +43,7 @@ The python notebooks process the data and write the tables used for the statisti
     - audio_analysis/audio_analysis.ipynb : mean pitch and pitch standard deviation
     - audio_analysis/pitch_std_decomposition.ipynb : pitch distributions, first and second half (Supplementary Information)
     - semantic_analysis/GPT analysis.ipynb : LLM ratings (don't execute the two cells calling the Azure OpenAI API, "# Using azure credentials" and "# Analyse missing transcriptions"; the predictions are already in semantic_analysis/data/predictions)
-    - network_analysis/network_analysis.ipynb : network and video quality (bit rates, frames per second, resolution), from the DuckSoup logs in data/real_data
+    - network_analysis/network_analysis.ipynb : network and video quality (bit rates, frames per second, resolution), from data/network_logs.csv.gz (the DuckSoup logs plotted in the figures; the raw logs are not shared)
 5. The R scripts :
     - R_scripts/behavior_stats.R and R_scripts/behavior_stats_srm.R : ratings
     - R_scripts/mimicry.R : smile, AU06, AU15 and happiness (one block per measure)
