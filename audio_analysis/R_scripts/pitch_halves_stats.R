@@ -11,7 +11,7 @@ if (rstudioapi::isAvailable()) setwd(dirname(rstudioapi::getActiveDocumentContex
 #Import data
 # Pitch measures of the first (0-125 s) and second (125-250 s) half of each recording,
 # written by pitch_std_decomposition.ipynb (halves with at least 2.5 s of voiced speech)
-file_name = "../../data/audio_data/pitch_halves_v3.csv"
+file_name = "../../data/audio_data/pitch_halves.csv"
 
 #read data
 data = read.table(file_name, header=TRUE,sep=',')

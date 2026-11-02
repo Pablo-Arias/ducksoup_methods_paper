@@ -21,18 +21,18 @@ if (rstudioapi::isAvailable()) setwd(dirname(rstudioapi::getActiveDocumentContex
 
 #AU6 : py-feat AU06 (cheek raiser, orbicularis oculi), written by Facial expression analysis_PF.ipynb
 #measure <- "AU06"
-#file_name = "../data/face_data/pyf_results/py_feat_v3.csv"
+#file_name = "../data/face_data/pyf_results/py_feat.csv"
 
 #LIP CORNER DEPRESSOR : py-feat AU15, written by Facial expression analysis_PF.ipynb
-file_name = "../data/face_data/pyf_results/py_feat_v3.csv"
+file_name = "../data/face_data/pyf_results/py_feat.csv"
 measure <- "AU15"
 
 #SMILE : MediaPipe mouth smile (mouthSmileLeft + mouthSmileRight), written by Facial expression analysis_mp.ipynb
-#file_name = "../data/face_data/mediapipe_results/mediapipe_v3.csv"
+#file_name = "../data/face_data/mediapipe_results/mediapipe.csv"
 #measure <- "smile"
 
 #Happiness : py-feat happiness (emotion), written by Facial expression analysis_PF.ipynb
-#file_name = "../data/face_data/pyf_results/py_feat_v3.csv"
+#file_name = "../data/face_data/pyf_results/py_feat.csv"
 #measure <- "happiness"
 
 

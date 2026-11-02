@@ -17,7 +17,7 @@ if (rstudioapi::isAvailable()) setwd(dirname(rstudioapi::getActiveDocumentContex
 #Import data
 # Server summary (f0_mean, f0_std) + number of voiced frames per recording and st_mean,
 # written by audio_analysis.ipynb from the dry per-frame files
-file_name = "../../data/audio_data/collapsed_pitch_with_voiced_frames_v3.csv"
+file_name = "../../data/audio_data/collapsed_pitch_with_voiced_frames.csv"
 
 #read data
 data = read.table(file_name, header=TRUE,sep=',')

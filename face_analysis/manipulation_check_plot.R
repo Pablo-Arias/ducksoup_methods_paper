@@ -20,7 +20,7 @@ library(scales)
 
 if (rstudioapi::isAvailable()) setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
-file_name = "../data/face_data/mediapipe_results/manipulation_check_v3.csv"
+file_name = "../data/face_data/mediapipe_results/manipulation_check.csv"
 
 data = read.table(file_name, header=TRUE,sep=',')
 

@@ -11,7 +11,7 @@ if (rstudioapi::isAvailable()) setwd(dirname(rstudioapi::getActiveDocumentContex
 #Import data
 # Smile episodes per recording (first 250 s; eyes : py-feat AU06, mouth : MediaPipe smile),
 # written by face_analysis/smile_aligned_decomposition.ipynb
-file_name = "../data/face_data/smile_episodes_v3.csv"
+file_name = "../data/face_data/smile_episodes.csv"
 
 #read data
 data = read.table(file_name, header=TRUE,sep=',')
